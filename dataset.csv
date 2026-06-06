@@ -1,0 +1,1201 @@
+Deal_ID,Date,Year,Month,Quarter,Region,Category,Channel,Segment,Sales_Rep,Status,Revenue,Cost,Profit,Profit_Margin,Units_Sold,Customer_Satisfaction
+DL-00001,2023-10-17,2023,10,Q4,Europe,Hardware,Direct,Enterprise,Rep_01,Closed Won,2973.79,1730.93,1242.86,41.79,1,4.4
+DL-00002,2022-04-25,2022,4,Q2,Middle East,Electronics,Direct,SMB,Rep_01,Closed Won,13112.84,6598.72,6514.12,49.68,1,3.0
+DL-00003,2022-01-26,2022,1,Q1,Asia Pacific,Electronics,Partner,Enterprise,Rep_19,On Hold,14908.57,6043.08,8865.49,59.47,1,3.6
+DL-00004,2022-10-09,2022,10,Q4,Europe,Software,Direct,Enterprise,Rep_05,Closed Won,55287.1,26374.45,28912.65,52.3,2,5.0
+DL-00005,2022-09-08,2022,9,Q3,North America,Software,Online,Enterprise,Rep_13,In Progress,40346.02,20119.67,20226.35,50.13,2,3.1
+DL-00006,2022-08-17,2022,8,Q3,North America,Hardware,Partner,Enterprise,Rep_19,Closed Lost,5977.47,3319.05,2658.42,44.47,1,5.0
+DL-00007,2022-05-23,2022,5,Q2,North America,Services,Direct,Mid-Market,Rep_12,Closed Won,12149.11,5587.2,6561.91,54.01,1,3.5
+DL-00008,2022-04-15,2022,4,Q2,Latin America,Software,Direct,Enterprise,Rep_16,On Hold,37788.34,26664.93,11123.41,29.44,1,2.9
+DL-00009,2023-11-24,2023,11,Q4,Asia Pacific,Electronics,Reseller,Startup,Rep_19,Closed Won,15658.73,10126.8,5531.93,35.33,1,4.3
+DL-00010,2023-07-13,2023,7,Q3,Asia Pacific,Consulting,Partner,Startup,Rep_03,In Progress,22367.75,9614.11,12753.64,57.02,1,3.9
+DL-00011,2022-03-31,2022,3,Q1,North America,Software,Online,SMB,Rep_12,Closed Won,19159.33,12023.1,7136.23,37.25,1,3.8
+DL-00012,2023-08-28,2023,8,Q3,Middle East,Software,Direct,Enterprise,Rep_05,In Progress,30314.08,19060.88,11253.2,37.12,1,3.2
+DL-00013,2023-03-09,2023,3,Q1,Latin America,Electronics,Partner,SMB,Rep_02,Closed Won,18440.34,13547.7,4892.64,26.53,1,3.9
+DL-00014,2022-02-02,2022,2,Q1,North America,Hardware,Direct,Mid-Market,Rep_07,Closed Lost,6909.96,2771.29,4138.67,59.89,1,2.1
+DL-00015,2022-01-31,2022,1,Q1,North America,Services,Partner,SMB,Rep_13,In Progress,2699.34,1313.97,1385.37,51.32,1,4.0
+DL-00016,2022-04-06,2022,4,Q2,North America,Electronics,Reseller,Enterprise,Rep_15,On Hold,7867.88,5702.07,2165.81,27.53,1,4.8
+DL-00017,2022-08-12,2022,8,Q3,North America,Electronics,Direct,SMB,Rep_03,On Hold,20448.2,14850.44,5597.76,27.38,1,2.4
+DL-00018,2022-08-27,2022,8,Q3,Europe,Services,Direct,Mid-Market,Rep_20,In Progress,3445.83,2247.39,1198.44,34.78,1,3.5
+DL-00019,2023-06-02,2023,6,Q2,Europe,Services,Direct,Mid-Market,Rep_05,In Progress,18077.64,12076.17,6001.47,33.2,2,3.1
+DL-00020,2023-09-09,2023,9,Q3,North America,Electronics,Direct,Enterprise,Rep_08,Closed Won,25181.98,10879.09,14302.89,56.8,2,2.6
+DL-00021,2022-01-28,2022,1,Q1,Asia Pacific,Consulting,Direct,Mid-Market,Rep_01,Closed Won,30622.82,17756.84,12865.98,42.01,1,2.2
+DL-00022,2023-07-29,2023,7,Q3,North America,Electronics,Direct,Enterprise,Rep_08,Closed Won,20226.95,9730.26,10496.69,51.89,1,2.9
+DL-00023,2022-07-23,2022,7,Q3,North America,Software,Online,Enterprise,Rep_18,Closed Won,32565.82,15091.86,17473.96,53.66,1,3.6
+DL-00024,2023-10-28,2023,10,Q4,Europe,Consulting,Partner,Mid-Market,Rep_20,Closed Won,28297.14,19344.1,8953.04,31.64,1,4.7
+DL-00025,2023-12-20,2023,12,Q4,Europe,Software,Direct,Enterprise,Rep_16,Closed Lost,12577.77,5625.58,6952.19,55.27,1,2.6
+DL-00026,2023-07-13,2023,7,Q3,Asia Pacific,Services,Reseller,Enterprise,Rep_18,Closed Won,16219.62,9148.32,7071.3,43.6,2,4.0
+DL-00027,2023-03-06,2023,3,Q1,North America,Software,Direct,Enterprise,Rep_20,Closed Lost,50526.14,36808.41,13717.73,27.15,2,4.0
+DL-00028,2022-08-14,2022,8,Q3,Europe,Electronics,,Mid-Market,Rep_12,Closed Won,8196.89,3811.89,4385.0,53.5,1,5.0
+DL-00029,2023-04-05,2023,4,Q2,Europe,Consulting,Direct,Mid-Market,Rep_13,Closed Won,14813.96,10996.37,3817.59,25.77,1,4.3
+DL-00030,2023-08-27,2023,8,Q3,North America,Software,Reseller,SMB,Rep_13,Closed Lost,23347.21,17463.73,5883.48,25.2,1,4.3
+DL-00031,2022-10-12,2022,10,Q4,Asia Pacific,Hardware,Partner,Mid-Market,Rep_10,In Progress,5849.34,3477.23,2372.11,40.55,1,4.4
+DL-00032,2022-01-07,2022,1,Q1,North America,Electronics,Online,Enterprise,Rep_07,In Progress,16127.48,7411.38,8716.1,54.05,1,3.1
+DL-00033,2022-06-13,2022,6,Q2,North America,Electronics,Reseller,SMB,Rep_14,Closed Lost,27441.25,14012.51,13428.74,48.94,2,3.3
+DL-00034,2023-12-16,2023,12,Q4,Middle East,Electronics,Direct,SMB,Rep_16,Closed Won,4880.34,2677.22,2203.12,45.14,1,4.7
+DL-00035,2023-03-09,2023,3,Q1,Middle East,Services,Reseller,Enterprise,Rep_15,Closed Lost,22047.98,11206.18,10841.8,49.17,2,2.2
+DL-00036,2022-12-15,2022,12,Q4,Latin America,Software,Direct,SMB,Rep_12,Closed Won,20400.14,10163.81,10236.33,50.18,1,3.3
+DL-00037,2022-10-12,2022,10,Q4,North America,Hardware,Direct,Startup,Rep_09,Closed Won,10332.88,7649.23,2683.65,25.97,1,2.7
+DL-00038,2022-06-09,2022,6,Q2,North America,Software,Direct,Enterprise,Rep_08,Closed Won,34063.92,15454.04,18609.88,54.63,1,4.0
+DL-00039,2022-08-09,2022,8,Q3,Asia Pacific,Consulting,Partner,Enterprise,Rep_18,Closed Won,43330.98,28453.93,14877.05,34.33,1,3.5
+DL-00040,2022-12-11,2022,12,Q4,Europe,Electronics,Direct,Enterprise,Rep_18,Closed Won,15471.57,6190.85,9280.72,59.99,1,4.3
+DL-00041,2022-04-15,2022,4,Q2,North America,Hardware,Partner,Enterprise,Rep_13,On Hold,9274.07,5644.79,3629.28,,1,3.7
+DL-00042,2022-04-05,2022,4,Q2,Europe,Hardware,Partner,Startup,Rep_18,On Hold,9243.8,6660.9,2582.9,27.94,1,2.6
+DL-00043,2023-01-25,2023,1,Q1,North America,Hardware,Online,SMB,Rep_15,Closed Won,5837.49,2923.28,2914.21,49.92,1,2.6
+DL-00044,2022-04-10,2022,4,Q2,Latin America,Hardware,Online,SMB,Rep_04,Closed Won,3321.49,1544.27,1777.22,53.51,1,3.8
+DL-00045,2023-01-03,2023,1,Q1,North America,Hardware,Partner,Mid-Market,Rep_17,Closed Won,4348.58,2731.29,1617.29,37.19,1,3.2
+DL-00046,2022-12-19,2022,12,Q4,Asia Pacific,Services,Direct,Enterprise,Rep_05,Closed Won,9492.16,6164.31,3327.85,35.06,1,3.4
+DL-00047,2023-09-11,2023,9,Q3,North America,Electronics,Direct,SMB,Rep_16,On Hold,10121.35,6485.87,3635.48,35.92,1,4.6
+DL-00048,2022-09-28,2022,9,Q3,Europe,Electronics,Direct,SMB,Rep_09,Closed Won,10133.05,5185.7,4947.35,48.82,1,4.4
+DL-00049,2022-02-14,2022,2,Q1,Europe,Consulting,Direct,SMB,Rep_10,In Progress,73760.47,36015.09,37745.38,51.17,3,5.0
+DL-00050,2023-04-16,2023,4,Q2,North America,Services,Direct,Startup,Rep_18,Closed Won,15364.08,11286.02,4078.06,26.54,1,3.5
+DL-00051,2023-07-04,2023,7,Q3,Middle East,Hardware,Direct,Mid-Market,Rep_17,On Hold,7052.65,5100.16,1952.49,27.68,1,3.3
+DL-00052,2022-05-08,2022,5,Q2,Asia Pacific,Software,Reseller,SMB,Rep_18,Closed Won,34984.09,19593.22,15390.87,43.99,1,4.1
+DL-00053,2023-01-23,2023,1,Q1,Middle East,Electronics,Partner,Mid-Market,Rep_07,In Progress,12157.13,8463.4,3693.73,30.38,1,3.4
+DL-00054,2022-03-22,2022,3,Q1,Latin America,Electronics,Direct,Enterprise,Rep_04,Closed Won,15853.84,8851.41,7002.43,44.17,1,3.4
+DL-00055,2023-07-20,2023,7,Q3,Europe,Services,Partner,Enterprise,Rep_05,Closed Lost,12470.92,6840.75,5630.17,45.15,1,3.6
+DL-00056,2022-10-28,2022,10,Q4,Middle East,Software,Direct,Enterprise,Rep_16,Closed Won,20288.88,9228.74,11060.14,54.51,1,5.0
+DL-00057,2023-10-06,2023,10,Q4,North America,Electronics,Partner,Enterprise,Rep_03,Closed Won,10648.56,5848.64,4799.92,45.08,1,4.4
+DL-00058,2023-09-26,2023,9,Q3,North America,Software,Partner,SMB,Rep_18,On Hold,46101.33,27112.0,18989.33,41.19,2,4.4
+DL-00059,2023-01-06,2023,1,Q1,North America,Electronics,Partner,SMB,Rep_14,On Hold,20391.27,8317.12,12074.15,59.21,1,5.0
+DL-00060,2023-08-15,2023,8,Q3,North America,Services,Partner,Startup,Rep_15,In Progress,3239.05,1799.1,1439.95,44.46,1,4.5
+DL-00061,2022-07-16,2022,7,Q3,Europe,Electronics,Reseller,SMB,Rep_17,Closed Lost,10740.08,7233.17,3506.91,32.65,1,2.9
+DL-00062,2023-12-23,2023,12,Q4,North America,Hardware,Reseller,SMB,Rep_01,In Progress,5413.01,3453.59,1959.42,36.2,1,4.5
+DL-00063,2022-03-13,2022,3,Q1,Latin America,Software,Partner,Enterprise,Rep_17,Closed Won,18325.74,11404.2,6921.54,37.77,1,4.6
+DL-00064,2022-02-16,2022,2,Q1,Europe,Software,Partner,Enterprise,Rep_11,Closed Won,38477.63,27640.19,10837.44,28.17,1,4.3
+DL-00065,2023-11-09,2023,11,Q4,North America,Electronics,Partner,SMB,Rep_17,Closed Won,15144.74,6153.48,8991.26,59.37,1,
+DL-00066,2022-08-22,2022,8,Q3,Europe,Electronics,Direct,SMB,Rep_14,Closed Lost,7487.5,4454.81,3032.69,40.5,1,4.2
+DL-00067,2022-10-24,2022,10,Q4,North America,Software,Direct,Mid-Market,Rep_20,Closed Won,20640.77,13944.33,6696.44,32.44,1,3.8
+DL-00068,2022-03-23,2022,3,Q1,Latin America,Software,Direct,Enterprise,Rep_19,Closed Won,32777.58,19321.31,13456.27,41.05,1,3.0
+DL-00069,2022-08-27,2022,8,Q3,North America,Services,Partner,Enterprise,Rep_07,Closed Lost,8959.93,4599.7,4360.23,48.66,1,3.2
+DL-00070,2022-04-14,2022,4,Q2,Middle East,Electronics,Partner,SMB,Rep_13,In Progress,10866.8,4864.93,6001.87,55.23,1,4.4
+DL-00071,2023-01-25,2023,1,Q1,Asia Pacific,Services,Direct,Enterprise,Rep_18,Closed Won,11801.12,8386.43,3414.69,28.94,1,3.1
+DL-00072,2022-10-12,2022,10,Q4,North America,Hardware,Reseller,Enterprise,Rep_14,Closed Won,17967.02,10147.18,7819.84,43.52,2,3.2
+DL-00073,2023-04-10,2023,4,Q2,North America,Hardware,Reseller,Mid-Market,Rep_01,Closed Won,10075.98,7127.15,2948.83,29.27,1,4.4
+DL-00074,2023-10-13,2023,10,Q4,Latin America,Electronics,Online,Enterprise,Rep_07,Closed Won,28746.64,17393.1,11353.54,39.5,2,3.9
+DL-00075,2023-01-09,2023,1,Q1,Asia Pacific,Software,Partner,SMB,Rep_08,Closed Won,18728.92,11910.98,6817.94,36.4,1,4.3
+DL-00076,2022-06-16,2022,6,Q2,Asia Pacific,Electronics,Reseller,Enterprise,Rep_18,Closed Lost,14937.42,10179.72,4757.7,31.85,1,2.8
+DL-00077,2023-01-15,2023,1,Q1,Asia Pacific,Electronics,Direct,Enterprise,Rep_09,Closed Lost,14787.38,9326.47,5460.91,36.93,1,4.2
+DL-00078,2022-12-30,2022,12,Q4,North America,Consulting,Online,SMB,Rep_01,Closed Lost,31834.06,17168.72,14665.34,46.07,1,3.3
+DL-00079,2022-08-03,2022,8,Q3,Europe,Electronics,Direct,Mid-Market,Rep_17,Closed Won,18696.01,10839.42,7856.59,42.02,1,3.0
+DL-00080,2023-11-18,2023,11,Q4,North America,Software,Online,SMB,Rep_19,In Progress,15790.23,10754.19,5036.04,31.89,1,3.4
+DL-00081,2022-10-01,2022,10,Q4,Latin America,Services,Direct,Mid-Market,Rep_06,Closed Won,13821.86,7336.33,6485.53,46.92,1,4.9
+DL-00082,2023-12-20,2023,12,Q4,Asia Pacific,Services,Reseller,Enterprise,Rep_03,Closed Lost,4431.07,2374.36,2056.71,46.42,1,3.5
+DL-00083,2023-12-01,2023,12,Q4,North America,Services,Reseller,Mid-Market,Rep_05,In Progress,5127.95,2222.92,2905.03,56.65,1,5.0
+DL-00084,2023-10-26,2023,10,Q4,North America,Electronics,Direct,Enterprise,Rep_02,Closed Won,43635.16,31421.88,12213.28,27.99,3,2.2
+DL-00085,2022-03-15,2022,3,Q1,North America,Software,Partner,Mid-Market,Rep_20,Closed Won,19371.74,8365.93,11005.81,56.81,1,2.6
+DL-00086,2023-09-16,2023,9,Q3,North America,Software,Reseller,SMB,Rep_04,In Progress,36004.2,22570.07,13434.13,37.31,1,4.9
+DL-00087,2023-10-13,2023,10,Q4,Asia Pacific,Electronics,Partner,Startup,Rep_10,Closed Won,35064.72,19096.88,15967.84,45.54,2,5.0
+DL-00088,2022-06-25,2022,6,Q2,Asia Pacific,Software,Reseller,SMB,Rep_10,Closed Lost,7858.91,4259.27,3599.64,45.8,1,3.1
+DL-00089,2023-07-01,2023,7,Q3,Latin America,Electronics,Partner,Enterprise,Rep_11,Closed Won,26342.23,16802.21,9540.02,36.22,2,3.9
+DL-00090,2022-09-08,2022,9,Q3,Europe,Electronics,Direct,Enterprise,Rep_16,Closed Lost,20749.5,8787.06,11962.44,57.65,1,4.4
+DL-00091,2022-06-17,2022,6,Q2,North America,Software,Direct,Mid-Market,Rep_17,Closed Won,56773.77,34506.93,22266.84,39.22,2,3.6
+DL-00092,2023-04-19,2023,4,Q2,Asia Pacific,Electronics,Direct,SMB,Rep_16,Closed Won,8308.58,5568.5,2740.08,32.98,1,3.9
+DL-00093,2023-01-24,2023,1,Q1,Asia Pacific,Services,Online,Mid-Market,Rep_07,Closed Lost,20660.27,14252.99,6407.28,31.01,2,3.8
+DL-00094,2022-10-04,2022,10,Q4,Europe,Services,Direct,Enterprise,Rep_16,Closed Won,6909.37,3176.14,3733.23,54.03,1,2.6
+DL-00095,2023-10-18,2023,10,Q4,Asia Pacific,Hardware,Partner,Enterprise,Rep_03,Closed Won,13556.02,9680.31,3875.71,28.59,2,3.5
+DL-00096,2023-12-06,2023,12,Q4,Europe,Electronics,Partner,Enterprise,Rep_16,Closed Won,14732.26,9276.18,5456.08,37.03,1,3.8
+DL-00097,2023-07-25,2023,7,Q3,Europe,Electronics,Partner,Startup,Rep_08,Closed Won,22052.69,15627.62,6425.07,29.14,1,3.9
+DL-00098,2022-08-13,2022,8,Q3,Europe,Electronics,Reseller,Mid-Market,Rep_12,Closed Won,15371.03,8759.15,6611.88,43.02,1,2.4
+DL-00099,2023-12-03,2023,12,Q4,North America,Services,Reseller,Startup,Rep_03,Closed Won,3986.38,2350.81,1635.57,41.03,1,4.4
+DL-00100,2022-11-29,2022,11,Q4,North America,Services,Partner,Enterprise,Rep_17,On Hold,2100.79,1516.06,584.73,27.83,1,3.9
+DL-00101,2022-02-27,2022,2,Q1,North America,Electronics,Online,SMB,Rep_18,Closed Won,16659.96,11911.34,4748.62,,1,3.0
+DL-00102,2022-08-23,2022,8,Q3,Asia Pacific,Consulting,Online,Mid-Market,Rep_11,Closed Lost,26293.71,14641.82,11651.89,44.31,1,5.0
+DL-00103,2022-02-02,2022,2,Q1,North America,Electronics,Partner,Enterprise,Rep_04,Closed Won,18304.75,9079.97,9224.78,50.4,1,3.5
+DL-00104,2022-11-20,2022,11,Q4,Europe,Software,Reseller,Mid-Market,Rep_16,Closed Won,22038.68,11848.21,10190.47,46.24,1,3.6
+DL-00105,2023-02-15,2023,2,Q1,Latin America,Services,Direct,Startup,Rep_17,On Hold,27429.63,14694.53,12735.1,46.43,3,4.3
+DL-00106,2022-10-02,2022,10,Q4,North America,Hardware,Direct,Mid-Market,Rep_09,Closed Won,8977.4,4492.32,4485.08,49.96,1,5.0
+DL-00107,2022-03-09,2022,3,Q1,Europe,Services,Reseller,Mid-Market,Rep_06,On Hold,7997.36,3950.72,4046.64,50.6,1,4.3
+DL-00108,2022-08-05,2022,8,Q3,Asia Pacific,Hardware,Partner,Enterprise,Rep_20,Closed Won,9469.94,6641.95,2827.99,29.86,1,4.5
+DL-00109,2023-08-04,2023,8,Q3,North America,Software,Online,Enterprise,Rep_02,In Progress,20176.9,8564.12,11612.78,57.55,1,3.0
+DL-00110,2022-11-19,2022,11,Q4,North America,Hardware,Reseller,Startup,Rep_09,Closed Lost,8380.49,5339.75,3040.74,36.28,1,3.9
+DL-00111,2022-08-06,2022,8,Q3,North America,Electronics,Direct,Enterprise,Rep_06,In Progress,8160.54,3757.82,4402.72,53.95,1,3.4
+DL-00112,2023-11-03,2023,11,Q4,North America,Hardware,Reseller,Mid-Market,Rep_03,Closed Lost,7965.73,4146.78,3818.95,47.94,1,4.4
+DL-00113,2023-05-27,2023,5,Q2,Middle East,Software,Partner,Mid-Market,Rep_20,Closed Lost,19686.82,8298.78,11388.04,57.85,1,4.4
+DL-00114,2023-02-10,2023,2,Q1,Latin America,Hardware,Partner,SMB,Rep_06,Closed Won,4563.42,2256.57,2306.85,50.55,1,5.0
+DL-00115,2023-10-21,2023,10,Q4,Asia Pacific,Software,Partner,Startup,Rep_07,Closed Won,67137.57,44911.5,22226.07,33.11,3,2.1
+DL-00116,2023-04-15,2023,4,Q2,Latin America,Services,Reseller,Enterprise,Rep_01,On Hold,5816.61,4128.37,1688.24,29.02,1,3.3
+DL-00117,2022-05-27,2022,5,Q2,Latin America,Software,Direct,Enterprise,Rep_01,Closed Won,25087.2,11980.0,13107.2,52.25,1,4.8
+DL-00118,2022-09-29,2022,9,Q3,North America,Services,Partner,Enterprise,Rep_05,Closed Won,6693.8,3763.53,2930.27,43.78,1,2.7
+DL-00119,2022-05-23,2022,5,Q2,Latin America,Electronics,Online,SMB,Rep_06,In Progress,17401.74,9825.26,7576.48,43.54,1,4.4
+DL-00120,2022-09-10,2022,9,Q3,Europe,Electronics,Online,Enterprise,Rep_13,Closed Won,7931.62,5597.75,2333.87,29.42,1,4.7
+DL-00121,2023-07-29,2023,7,Q3,Latin America,Electronics,Online,Enterprise,Rep_02,On Hold,22833.5,15229.48,7604.02,33.3,1,3.8
+DL-00122,2023-07-06,2023,7,Q3,Latin America,Electronics,Direct,Mid-Market,Rep_15,In Progress,41518.05,24062.91,17455.14,42.04,3,2.7
+DL-00123,2022-09-27,2022,9,Q3,North America,Hardware,Direct,Startup,Rep_15,Closed Lost,5257.59,3337.32,1920.27,36.52,1,3.7
+DL-00124,2023-08-22,2023,8,Q3,North America,Electronics,Direct,Enterprise,Rep_13,In Progress,27564.66,19200.83,8363.83,30.34,2,5.0
+DL-00125,2023-03-15,2023,3,Q1,North America,Consulting,Online,SMB,Rep_14,Closed Won,24785.47,9996.94,14788.53,59.67,1,5.0
+DL-00126,2023-08-21,2023,8,Q3,Europe,Software,Direct,Startup,Rep_07,Closed Won,53078.47,28716.06,24362.41,45.9,2,4.0
+DL-00127,2023-02-13,2023,2,Q1,Latin America,Electronics,Direct,Enterprise,Rep_14,Closed Lost,44804.1,32148.51,12655.59,28.25,3,3.0
+DL-00128,2023-01-06,2023,1,Q1,Latin America,Hardware,Reseller,Enterprise,Rep_10,Closed Won,7117.73,4691.36,2426.37,34.09,1,5.0
+DL-00129,2022-08-13,2022,8,Q3,North America,Services,Direct,Enterprise,Rep_17,In Progress,4676.04,2758.84,1917.2,41.0,1,4.5
+DL-00130,2022-05-22,2022,5,Q2,Europe,Software,Reseller,SMB,Rep_14,On Hold,40161.87,23509.78,16652.09,41.46,2,3.1
+DL-00131,2023-06-06,2023,6,Q2,Europe,Services,Online,Enterprise,Rep_08,Closed Won,11187.46,5836.72,5350.74,47.83,1,4.1
+DL-00132,2023-05-21,2023,5,Q2,North America,Services,Online,Startup,Rep_04,Closed Won,12851.76,7482.07,5369.69,41.78,1,4.0
+DL-00133,2022-04-04,2022,4,Q2,North America,Electronics,Direct,SMB,Rep_16,On Hold,12655.95,7965.45,4690.5,37.06,1,3.3
+DL-00134,2022-02-18,2022,2,Q1,North America,Consulting,Direct,SMB,Rep_13,Closed Won,19277.74,10533.88,8743.86,45.36,1,4.1
+DL-00135,2022-04-23,2022,4,Q2,Middle East,Consulting,Online,Enterprise,Rep_20,Closed Lost,53590.48,34831.33,18759.15,35.0,2,4.7
+DL-00136,2022-06-06,2022,6,Q2,North America,Services,Online,SMB,Rep_18,Closed Won,11733.88,8230.51,3503.37,29.86,1,3.6
+DL-00137,2023-10-05,2023,10,Q4,Europe,Electronics,Online,Mid-Market,Rep_14,On Hold,7288.31,3309.91,3978.4,54.59,1,4.8
+DL-00138,2022-06-13,2022,6,Q2,Asia Pacific,Services,Direct,Mid-Market,Rep_18,Closed Lost,14097.86,7867.19,6230.67,44.2,1,2.4
+DL-00139,2023-11-28,2023,11,Q4,Europe,Electronics,Online,Mid-Market,Rep_05,In Progress,19127.64,10382.62,8745.02,45.72,1,5.0
+DL-00140,2023-03-09,2023,3,Q1,Middle East,Electronics,Online,SMB,Rep_09,In Progress,12748.34,8166.75,4581.59,35.94,1,3.8
+DL-00141,2023-09-03,2023,9,Q3,Middle East,Electronics,Online,Startup,Rep_03,Closed Won,33715.47,16434.73,17280.74,51.25,2,4.7
+DL-00142,2022-03-07,2022,3,Q1,North America,Software,Online,Mid-Market,Rep_08,Closed Won,18352.93,11453.84,6899.09,37.59,1,4.0
+DL-00143,2023-01-30,2023,1,Q1,Europe,Hardware,Online,Mid-Market,Rep_20,In Progress,7351.82,5198.63,2153.19,29.29,1,3.1
+DL-00144,2023-01-26,2023,1,Q1,North America,Services,Partner,Enterprise,Rep_10,Closed Won,14686.21,8023.75,6662.46,45.37,1,3.8
+DL-00145,2023-09-03,2023,9,Q3,North America,Services,Direct,Enterprise,Rep_19,In Progress,10391.28,7469.83,2921.45,28.11,1,2.3
+DL-00146,2023-04-25,2023,4,Q2,North America,Software,Partner,Enterprise,Rep_03,On Hold,12511.7,9353.84,3157.86,25.24,1,4.4
+DL-00147,2023-06-26,2023,6,Q2,Asia Pacific,Software,Direct,Mid-Market,Rep_11,Closed Lost,27406.37,11980.21,15426.16,56.29,1,4.0
+DL-00148,2022-09-15,2022,9,Q3,Europe,Software,Partner,SMB,Rep_11,In Progress,20321.53,9786.21,10535.32,51.84,1,3.6
+DL-00149,2023-07-21,2023,7,Q3,North America,Consulting,Partner,SMB,Rep_17,In Progress,46048.51,33736.65,12311.86,26.74,1,4.4
+DL-00150,2022-01-12,2022,1,Q1,North America,Electronics,Direct,Mid-Market,Rep_16,In Progress,16178.11,11897.62,4280.49,26.46,1,3.8
+DL-00151,2023-11-28,2023,11,Q4,Latin America,Hardware,Direct,Mid-Market,Rep_07,Closed Won,8387.1,3641.66,4745.44,56.58,1,4.3
+DL-00152,2022-04-28,2022,4,Q2,North America,Services,Direct,Startup,Rep_04,Closed Won,5920.73,2399.37,3521.36,59.48,1,4.6
+DL-00153,2023-11-30,2023,11,Q4,North America,Software,Online,Enterprise,Rep_19,Closed Won,22283.87,10170.02,12113.85,54.36,1,3.4
+DL-00154,2023-07-04,2023,7,Q3,Europe,Services,Reseller,Mid-Market,Rep_12,Closed Lost,16242.57,12159.26,4083.31,25.14,2,3.1
+DL-00155,2022-10-01,2022,10,Q4,Middle East,Software,Direct,Enterprise,Rep_15,Closed Lost,16955.76,7850.51,9105.25,53.7,1,2.4
+DL-00156,2023-10-19,2023,10,Q4,North America,Hardware,Reseller,Enterprise,Rep_11,In Progress,7870.85,4532.76,3338.09,42.41,1,3.9
+DL-00157,2022-12-15,2022,12,Q4,Asia Pacific,Consulting,Partner,Enterprise,Rep_05,Closed Won,18783.42,13091.03,5692.39,30.31,1,4.2
+DL-00158,2022-04-25,2022,4,Q2,Asia Pacific,Software,Direct,Enterprise,Rep_05,Closed Lost,13831.58,5631.4,8200.18,59.29,1,2.7
+DL-00159,2022-10-28,2022,10,Q4,North America,Electronics,Direct,SMB,Rep_15,Closed Won,14376.87,8792.48,5584.39,38.84,1,4.9
+DL-00160,2023-03-22,2023,3,Q1,Asia Pacific,Services,Partner,Mid-Market,Rep_18,In Progress,10907.88,5420.77,5487.11,50.3,1,3.1
+DL-00161,2022-06-11,2022,6,Q2,Europe,Consulting,Online,Enterprise,Rep_11,Closed Lost,81298.6,57056.76,24241.84,29.82,3,2.1
+DL-00162,2023-04-10,2023,4,Q2,Asia Pacific,Electronics,Online,Mid-Market,Rep_12,Closed Won,11945.09,5963.13,5981.96,50.08,1,5.0
+DL-00163,2022-01-04,2022,1,Q1,Asia Pacific,Services,Direct,SMB,Rep_02,Closed Won,9752.27,6245.01,3507.26,35.96,1,2.2
+DL-00164,2022-09-27,2022,9,Q3,Europe,Services,,Enterprise,Rep_20,In Progress,5352.42,3404.02,1948.4,36.4,1,4.6
+DL-00165,2023-05-28,2023,5,Q2,North America,Services,Partner,SMB,Rep_15,Closed Lost,13581.45,6485.45,7096.0,52.25,1,4.4
+DL-00166,2022-07-02,2022,7,Q3,Latin America,Electronics,Direct,Enterprise,Rep_20,Closed Won,18303.6,7544.37,10759.23,58.78,1,4.1
+DL-00167,2023-06-04,2023,6,Q2,North America,Services,Direct,SMB,Rep_04,On Hold,21047.51,11433.79,9613.72,45.68,2,3.4
+DL-00168,2022-04-19,2022,4,Q2,North America,Consulting,Direct,SMB,Rep_18,In Progress,52300.63,26214.0,26086.63,49.88,2,4.2
+DL-00169,2023-10-03,2023,10,Q4,North America,Electronics,Online,Enterprise,Rep_06,On Hold,17881.27,12215.45,5665.82,31.69,1,4.6
+DL-00170,2022-11-02,2022,11,Q4,Europe,Electronics,Reseller,Enterprise,Rep_19,Closed Won,11858.14,8065.05,3793.09,31.99,1,3.0
+DL-00171,2023-10-17,2023,10,Q4,Asia Pacific,Consulting,Partner,SMB,Rep_11,Closed Lost,33232.61,18608.88,14623.73,44.0,1,4.6
+DL-00172,2023-06-04,2023,6,Q2,North America,Electronics,Reseller,Startup,Rep_02,In Progress,14190.08,8688.29,5501.79,38.77,1,4.5
+DL-00173,2023-09-16,2023,9,Q3,Europe,Hardware,Direct,Enterprise,Rep_08,Closed Lost,12885.99,7879.66,5006.33,38.85,2,4.0
+DL-00174,2022-07-23,2022,7,Q3,North America,Software,Partner,Mid-Market,Rep_11,In Progress,37788.0,26055.03,11732.97,31.05,1,3.4
+DL-00175,2022-06-06,2022,6,Q2,Asia Pacific,Electronics,Direct,Mid-Market,Rep_05,Closed Won,12933.78,7097.42,5836.36,45.12,1,4.5
+DL-00176,2023-01-18,2023,1,Q1,North America,Hardware,Partner,Startup,Rep_18,Closed Won,3851.43,1911.87,1939.56,50.36,1,4.2
+DL-00177,2022-06-15,2022,6,Q2,Asia Pacific,Software,Reseller,Mid-Market,Rep_18,Closed Won,48694.66,23994.89,24699.77,50.72,2,3.0
+DL-00178,2023-07-07,2023,7,Q3,Europe,Software,Partner,SMB,Rep_14,Closed Won,33442.01,19652.78,13789.23,41.23,1,3.5
+DL-00179,2023-06-28,2023,6,Q2,Middle East,Software,Direct,Mid-Market,Rep_10,Closed Won,21309.03,11873.43,9435.6,44.28,1,4.5
+DL-00180,2022-01-01,2022,1,Q1,North America,Services,Partner,Mid-Market,Rep_03,Closed Won,13118.48,7268.19,5850.29,44.6,1,3.9
+DL-00181,2023-09-06,2023,9,Q3,North America,Electronics,Direct,SMB,Rep_09,On Hold,15572.1,6725.56,8846.54,56.81,1,4.7
+DL-00182,2022-11-28,2022,11,Q4,North America,Software,Reseller,Enterprise,Rep_03,Closed Won,48336.39,31491.7,16844.69,34.85,2,3.5
+DL-00183,2023-05-16,2023,5,Q2,Middle East,Consulting,Partner,Enterprise,Rep_11,Closed Lost,11430.75,5427.41,6003.34,52.52,1,3.0
+DL-00184,2022-01-20,2022,1,Q1,Latin America,Electronics,Partner,Mid-Market,Rep_12,In Progress,12298.22,5767.05,6531.17,53.11,1,5.0
+DL-00185,2022-04-25,2022,4,Q2,North America,Services,Partner,Mid-Market,Rep_12,Closed Lost,22244.89,12111.57,10133.32,45.55,2,2.5
+DL-00186,2023-01-07,2023,1,Q1,Asia Pacific,Software,Partner,Enterprise,Rep_03,Closed Won,33131.19,15893.77,17237.42,52.03,1,3.4
+DL-00187,2022-11-11,2022,11,Q4,Latin America,Hardware,Direct,SMB,Rep_07,In Progress,19409.16,11729.93,7679.23,39.56,3,4.0
+DL-00188,2022-09-03,2022,9,Q3,Europe,Electronics,Online,SMB,Rep_14,Closed Lost,8142.9,4315.84,3827.06,47.0,1,4.6
+DL-00189,2022-03-01,2022,3,Q1,Europe,Consulting,Direct,Enterprise,Rep_11,In Progress,51279.74,28568.92,22710.82,44.29,2,4.3
+DL-00190,2022-09-04,2022,9,Q3,North America,Software,Online,Startup,Rep_07,In Progress,41470.74,24385.18,17085.56,41.2,2,5.0
+DL-00191,2023-08-04,2023,8,Q3,North America,Electronics,Online,Enterprise,Rep_10,On Hold,6470.06,3048.93,3421.13,52.88,1,3.7
+DL-00192,2022-03-22,2022,3,Q1,Latin America,Electronics,Online,Enterprise,Rep_11,Closed Lost,12939.69,5881.26,7058.43,54.55,1,3.1
+DL-00193,2022-03-29,2022,3,Q1,Latin America,Electronics,Partner,SMB,Rep_15,Closed Won,14221.94,10071.23,4150.71,29.19,1,3.6
+DL-00194,2023-05-13,2023,5,Q2,Asia Pacific,Software,Partner,Mid-Market,Rep_19,Closed Lost,11123.92,6138.22,4985.7,44.82,1,3.5
+DL-00195,2022-03-12,2022,3,Q1,North America,Software,Direct,Enterprise,Rep_16,Closed Won,21792.69,11860.3,9932.39,45.58,1,3.7
+DL-00196,2023-06-30,2023,6,Q2,North America,Hardware,Online,Mid-Market,Rep_20,In Progress,12379.39,5106.06,7273.33,58.75,1,3.0
+DL-00197,2022-05-09,2022,5,Q2,Asia Pacific,Software,Direct,SMB,Rep_12,Closed Won,20561.37,11808.22,8753.15,42.57,1,4.4
+DL-00198,2022-05-12,2022,5,Q2,Latin America,Electronics,Partner,Enterprise,Rep_18,Closed Won,16930.5,10056.03,6874.47,40.6,1,4.1
+DL-00199,2023-11-07,2023,11,Q4,Latin America,Services,Direct,Enterprise,Rep_13,In Progress,11327.92,6746.84,4581.08,40.44,1,2.8
+DL-00200,2023-05-02,2023,5,Q2,Asia Pacific,Services,Direct,SMB,Rep_05,Closed Lost,9939.47,6435.42,3504.05,35.25,1,4.6
+DL-00201,2023-07-17,2023,7,Q3,Asia Pacific,Electronics,Partner,Enterprise,Rep_04,Closed Won,10542.97,4872.1,5670.87,53.79,1,3.2
+DL-00202,2022-06-19,2022,6,Q2,North America,Electronics,Direct,Startup,Rep_14,Closed Lost,20852.15,10181.65,10670.5,51.17,1,2.9
+DL-00203,2022-09-29,2022,9,Q3,North America,Electronics,Online,Mid-Market,Rep_08,In Progress,6783.77,4638.44,2145.33,31.62,1,3.9
+DL-00204,2023-06-25,2023,6,Q2,Latin America,Services,Direct,Startup,Rep_09,Closed Won,10043.03,7346.57,2696.46,26.85,1,2.4
+DL-00205,2023-09-14,2023,9,Q3,Asia Pacific,Services,Direct,Enterprise,Rep_19,In Progress,19991.92,8947.91,11044.01,55.24,2,4.3
+DL-00206,2023-03-10,2023,3,Q1,North America,Software,Partner,Startup,Rep_03,Closed Won,19989.14,11477.31,8511.83,42.58,1,1.5
+DL-00207,2022-08-05,2022,8,Q3,North America,Hardware,Direct,SMB,Rep_05,In Progress,5561.02,2641.27,2919.75,52.5,1,3.0
+DL-00208,2023-07-07,2023,7,Q3,Asia Pacific,Hardware,Direct,Enterprise,Rep_18,In Progress,11498.3,4841.08,6657.22,57.9,1,5.0
+DL-00209,2023-12-08,2023,12,Q4,North America,Services,Online,Enterprise,Rep_01,Closed Won,10851.47,5576.85,5274.62,48.61,1,3.3
+DL-00210,2022-07-25,2022,7,Q3,North America,Hardware,Direct,Enterprise,Rep_08,Closed Won,11613.46,5229.43,6384.03,54.97,1,3.4
+DL-00211,2022-11-16,2022,11,Q4,Europe,Electronics,Online,Mid-Market,Rep_19,Closed Won,15291.54,9916.21,5375.33,35.15,1,4.8
+DL-00212,2023-02-13,2023,2,Q1,Asia Pacific,Electronics,Direct,SMB,Rep_17,In Progress,4544.44,2666.7,1877.74,41.32,1,3.2
+DL-00213,2023-11-19,2023,11,Q4,Asia Pacific,Electronics,Direct,Enterprise,Rep_17,Closed Lost,27058.65,12185.65,14873.0,54.97,2,4.4
+DL-00214,2023-10-28,2023,10,Q4,North America,Electronics,Online,SMB,Rep_11,Closed Lost,42227.15,17027.45,25199.7,59.68,3,4.7
+DL-00215,2023-01-18,2023,1,Q1,Asia Pacific,Software,Direct,Enterprise,Rep_02,Closed Won,47507.91,32441.01,15066.9,31.71,2,4.2
+DL-00216,2023-03-25,2023,3,Q1,North America,Consulting,Direct,SMB,Rep_06,Closed Won,5112.91,2360.47,2752.44,53.83,1,2.6
+DL-00217,2023-06-14,2023,6,Q2,North America,Electronics,Direct,SMB,Rep_14,Closed Won,18795.06,11505.88,7289.18,38.78,1,3.3
+DL-00218,2023-04-08,2023,4,Q2,Asia Pacific,Electronics,Direct,Mid-Market,Rep_03,Closed Won,11877.87,6151.82,5726.05,48.21,1,5.0
+DL-00219,2022-05-04,2022,5,Q2,Asia Pacific,Software,Online,Mid-Market,Rep_12,Closed Lost,14537.83,8794.23,5743.6,39.51,1,3.4
+DL-00220,2022-09-11,2022,9,Q3,Latin America,Consulting,Direct,SMB,Rep_04,In Progress,31898.64,16283.58,15615.06,48.95,1,5.0
+DL-00221,2022-08-19,2022,8,Q3,Asia Pacific,Software,Online,SMB,Rep_12,Closed Lost,23205.8,9988.45,13217.35,56.96,1,5.0
+DL-00222,2022-03-07,2022,3,Q1,Europe,Software,Reseller,SMB,Rep_13,Closed Won,32239.9,15411.72,16828.18,52.2,1,4.2
+DL-00223,2022-12-13,2022,12,Q4,North America,Electronics,Partner,Mid-Market,Rep_02,On Hold,15430.41,7187.8,8242.61,53.42,1,4.0
+DL-00224,2022-01-22,2022,1,Q1,Europe,Electronics,Reseller,Enterprise,Rep_02,In Progress,8564.66,4708.91,3855.75,45.02,1,3.4
+DL-00225,2023-08-26,2023,8,Q3,North America,Consulting,Direct,Enterprise,Rep_15,On Hold,22486.08,14175.21,8310.87,36.96,1,3.7
+DL-00226,2023-07-22,2023,7,Q3,North America,Consulting,Reseller,Enterprise,Rep_17,Closed Lost,20743.19,10212.54,10530.65,50.77,1,3.2
+DL-00227,2022-08-24,2022,8,Q3,Middle East,Electronics,Direct,SMB,Rep_07,Closed Won,6358.6,2570.3,3788.3,59.58,1,3.7
+DL-00228,2023-08-26,2023,8,Q3,Europe,Consulting,Online,SMB,Rep_14,Closed Won,15110.28,8788.56,6321.72,41.84,1,2.7
+DL-00229,2022-08-14,2022,8,Q3,Latin America,Services,Partner,Mid-Market,Rep_12,In Progress,8998.44,5507.19,3491.25,38.8,1,2.7
+DL-00230,2022-01-08,2022,1,Q1,Asia Pacific,Hardware,Direct,Enterprise,Rep_17,Closed Won,16302.5,12015.02,4287.48,26.3,2,4.8
+DL-00231,2022-03-14,2022,3,Q1,Asia Pacific,Software,Partner,SMB,Rep_14,Closed Won,19126.93,11596.94,7529.99,39.37,1,2.5
+DL-00232,2023-12-26,2023,12,Q4,Europe,Software,Online,Mid-Market,Rep_06,Closed Lost,17118.51,9670.42,7448.09,43.51,1,4.5
+DL-00233,2023-10-09,2023,10,Q4,Europe,Software,Direct,Mid-Market,Rep_19,Closed Lost,13849.27,8319.13,5530.14,39.93,1,2.3
+DL-00234,2022-03-02,2022,3,Q1,Europe,Services,Direct,SMB,Rep_06,Closed Lost,10153.85,7359.16,2794.69,27.52,1,4.3
+DL-00235,2022-08-23,2022,8,Q3,North America,Electronics,Online,SMB,Rep_18,Closed Won,27049.81,18662.54,8387.27,31.01,2,3.6
+DL-00236,2022-03-11,2022,3,Q1,Asia Pacific,Electronics,Online,Enterprise,Rep_05,Closed Won,40828.96,20946.99,19881.97,48.7,3,4.9
+DL-00237,2022-02-02,2022,2,Q1,North America,Software,Reseller,Startup,Rep_06,Closed Lost,28834.58,13928.23,14906.35,51.7,1,3.5
+DL-00238,2022-12-05,2022,12,Q4,North America,Services,Online,Enterprise,Rep_02,On Hold,10725.05,5275.89,5449.16,50.81,1,2.2
+DL-00239,2022-03-14,2022,3,Q1,Asia Pacific,Electronics,Reseller,Startup,Rep_08,In Progress,11430.82,6590.41,4840.41,42.35,1,3.6
+DL-00240,2023-06-11,2023,6,Q2,North America,Services,Online,Mid-Market,Rep_15,On Hold,8283.8,5470.76,2813.04,33.96,1,3.9
+DL-00241,2022-09-01,2022,9,Q3,Middle East,Consulting,Direct,SMB,Rep_15,In Progress,41090.83,23673.53,17417.3,42.39,1,3.7
+DL-00242,2022-10-13,2022,10,Q4,Middle East,Electronics,Direct,Enterprise,Rep_11,Closed Lost,12814.95,5430.06,7384.89,57.63,1,4.3
+DL-00243,2023-11-17,2023,11,Q4,Latin America,Services,Online,SMB,Rep_01,Closed Won,9220.63,6023.41,3197.22,34.67,1,3.3
+DL-00244,2023-05-13,2023,5,Q2,Europe,Software,Partner,SMB,Rep_18,Closed Lost,24685.16,16837.49,7847.67,31.79,1,2.8
+DL-00245,2022-08-08,2022,8,Q3,North America,Hardware,Direct,Enterprise,Rep_12,Closed Lost,5953.79,2984.78,2969.01,49.87,1,3.0
+DL-00246,2023-07-07,2023,7,Q3,Middle East,Electronics,Direct,Mid-Market,Rep_12,Closed Lost,14448.07,9137.6,5310.47,36.76,1,3.4
+DL-00247,2022-05-16,2022,5,Q2,Europe,Services,Reseller,Startup,Rep_11,Closed Lost,3643.27,2001.27,1642.0,45.07,1,3.4
+DL-00248,2023-08-08,2023,8,Q3,Middle East,Hardware,Partner,SMB,Rep_08,Closed Lost,10526.12,7486.09,3040.03,28.88,1,5.0
+DL-00249,2023-08-14,2023,8,Q3,Middle East,Consulting,Partner,Mid-Market,Rep_07,Closed Won,97230.39,67655.72,29574.67,30.42,4,4.8
+DL-00250,2023-04-30,2023,4,Q2,Latin America,Services,Partner,Enterprise,Rep_02,Closed Lost,7587.96,4430.62,3157.34,41.61,1,4.3
+DL-00251,2022-09-06,2022,9,Q3,North America,Software,Direct,SMB,Rep_11,Closed Won,30138.23,19349.56,10788.67,35.8,1,4.2
+DL-00252,2023-04-30,2023,4,Q2,Europe,Services,Direct,Enterprise,Rep_10,In Progress,15307.96,10855.98,4451.98,29.08,1,4.0
+DL-00253,2023-02-21,2023,2,Q1,Latin America,Hardware,Direct,SMB,Rep_03,Closed Won,15173.48,8702.01,6471.47,42.65,2,4.0
+DL-00254,2022-07-14,2022,7,Q3,North America,Services,Direct,Startup,Rep_20,Closed Won,8762.0,4465.45,4296.55,49.04,1,3.9
+DL-00255,2022-04-07,2022,4,Q2,North America,Electronics,Online,Mid-Market,Rep_10,Closed Won,6088.44,4041.4,2047.04,33.62,1,3.8
+DL-00256,2022-04-10,2022,4,Q2,Europe,Consulting,Partner,Enterprise,Rep_18,Closed Lost,34288.61,16356.46,17932.15,52.3,1,2.1
+DL-00257,2023-11-06,2023,11,Q4,Middle East,Services,Online,SMB,Rep_14,Closed Won,10664.28,5715.9,4948.38,46.4,1,3.5
+DL-00258,2023-03-18,2023,3,Q1,Asia Pacific,Services,Reseller,SMB,Rep_18,Closed Won,8412.78,5914.22,2498.56,29.7,1,3.6
+DL-00259,2022-12-29,2022,12,Q4,Europe,Electronics,Direct,SMB,Rep_08,Closed Lost,14031.35,9170.16,4861.19,34.65,1,3.2
+DL-00260,2023-03-10,2023,3,Q1,North America,Services,Online,Mid-Market,Rep_10,Closed Won,10744.84,5816.55,4928.29,45.87,1,3.4
+DL-00261,2023-02-25,2023,2,Q1,Asia Pacific,Software,Partner,Mid-Market,Rep_13,On Hold,29956.81,14234.3,15722.51,52.48,1,4.0
+DL-00262,2023-04-24,2023,4,Q2,Middle East,Services,Reseller,SMB,Rep_08,On Hold,11733.99,6155.52,5578.47,47.54,1,4.4
+DL-00263,2022-02-25,2022,2,Q1,North America,Electronics,Direct,SMB,Rep_04,Closed Lost,13453.07,6718.95,6734.12,50.06,1,4.0
+DL-00264,2023-11-21,2023,11,Q4,Europe,Services,Online,Enterprise,Rep_04,Closed Won,12118.39,5594.23,6524.16,53.84,1,4.4
+DL-00265,2023-11-01,2023,11,Q4,Latin America,Consulting,Partner,Enterprise,Rep_05,In Progress,26015.23,17174.38,8840.85,33.98,1,4.4
+DL-00266,2023-10-24,2023,10,Q4,Asia Pacific,Electronics,Direct,SMB,Rep_01,Closed Won,20677.85,10095.43,10582.42,51.18,1,3.6
+DL-00267,2022-04-11,2022,4,Q2,Asia Pacific,Consulting,Direct,SMB,Rep_17,Closed Lost,21921.68,12253.31,9668.37,44.1,1,4.2
+DL-00268,2022-03-04,2022,3,Q1,Asia Pacific,Software,Online,Mid-Market,Rep_02,Closed Won,25930.11,13873.93,12056.18,46.49,1,2.4
+DL-00269,2023-02-17,2023,2,Q1,Europe,Hardware,Online,Mid-Market,Rep_08,On Hold,3552.22,2641.88,910.34,25.63,1,3.5
+DL-00270,2022-12-14,2022,12,Q4,North America,Hardware,Direct,Enterprise,Rep_07,Closed Won,6649.13,3569.8,3079.33,46.31,1,3.4
+DL-00271,2022-04-22,2022,4,Q2,Latin America,Services,Partner,SMB,Rep_15,Closed Lost,13280.93,5684.16,7596.77,57.2,1,5.0
+DL-00272,2022-09-12,2022,9,Q3,Latin America,Services,Direct,Enterprise,Rep_05,In Progress,5963.86,2573.04,3390.82,,1,4.1
+DL-00273,2022-07-16,2022,7,Q3,Latin America,Hardware,Online,Enterprise,Rep_02,Closed Lost,6816.81,4136.19,2680.62,39.32,1,2.7
+DL-00274,2022-07-14,2022,7,Q3,Latin America,Software,Direct,Mid-Market,Rep_07,Closed Won,7510.79,4579.91,2930.88,39.02,1,4.3
+DL-00275,2023-07-04,2023,7,Q3,Europe,Software,Reseller,Enterprise,Rep_08,On Hold,12614.4,6894.6,5719.8,45.34,1,4.5
+DL-00276,2023-04-05,2023,4,Q2,Europe,Services,Direct,SMB,Rep_07,Closed Lost,5750.85,3169.55,2581.3,44.89,1,3.7
+DL-00277,2022-05-24,2022,5,Q2,Asia Pacific,Hardware,Direct,Enterprise,Rep_07,Closed Lost,8417.54,3525.91,4891.63,58.11,1,4.4
+DL-00278,2023-03-09,2023,3,Q1,Asia Pacific,Hardware,Direct,Mid-Market,Rep_14,Closed Won,9451.24,5489.2,3962.04,41.92,1,1.8
+DL-00279,2022-07-07,2022,7,Q3,Asia Pacific,Hardware,Direct,SMB,Rep_18,Closed Lost,7778.89,4485.77,3293.12,42.33,1,1.6
+DL-00280,2022-10-13,2022,10,Q4,Asia Pacific,Software,Partner,Enterprise,Rep_06,Closed Won,20647.19,9339.6,11307.59,54.77,1,2.9
+DL-00281,2023-04-19,2023,4,Q2,Latin America,Hardware,Direct,SMB,Rep_04,Closed Won,6618.65,2888.01,3730.64,56.37,1,3.9
+DL-00282,2022-09-13,2022,9,Q3,North America,Electronics,Online,Mid-Market,Rep_10,Closed Won,21457.48,9511.04,11946.44,55.67,1,5.0
+DL-00283,2022-03-19,2022,3,Q1,Europe,Software,Direct,Startup,Rep_18,In Progress,27806.94,12106.03,15700.91,56.46,1,2.9
+DL-00284,2023-03-30,2023,3,Q1,North America,Electronics,Direct,Enterprise,Rep_12,Closed Won,12693.34,7786.07,4907.27,38.66,1,3.1
+DL-00285,2023-07-18,2023,7,Q3,Europe,Software,Direct,Mid-Market,Rep_16,Closed Won,47728.35,22373.57,25354.78,53.12,2,3.9
+DL-00286,2022-04-11,2022,4,Q2,North America,Software,Direct,Startup,Rep_07,Closed Lost,66278.35,32343.87,33934.48,51.2,3,3.4
+DL-00287,2022-02-21,2022,2,Q1,Europe,Software,Direct,Startup,Rep_06,In Progress,13410.05,6178.68,7231.37,53.93,1,3.4
+DL-00288,2023-10-30,2023,10,Q4,Europe,Services,Partner,SMB,Rep_05,Closed Won,12985.59,9547.56,3438.03,26.48,1,3.5
+DL-00289,2023-07-08,2023,7,Q3,North America,Software,Partner,SMB,Rep_03,Closed Lost,117192.82,81931.39,35261.43,30.09,5,4.9
+DL-00290,2022-01-16,2022,1,Q1,Europe,Software,Partner,SMB,Rep_12,Closed Won,28759.8,13824.06,14935.74,51.93,1,4.7
+DL-00291,2022-04-06,2022,4,Q2,North America,Electronics,Partner,Mid-Market,Rep_15,Closed Won,15891.3,8178.43,7712.87,48.54,1,3.8
+DL-00292,2022-08-31,2022,8,Q3,North America,Software,Partner,SMB,Rep_10,Closed Won,24312.94,11511.27,12801.67,52.65,1,5.0
+DL-00293,2022-06-20,2022,6,Q2,Latin America,Electronics,Direct,Mid-Market,Rep_20,In Progress,19166.06,10965.99,8200.07,42.78,1,4.2
+DL-00294,2023-02-21,2023,2,Q1,Europe,Electronics,Partner,SMB,Rep_19,Closed Won,21878.4,8901.53,12976.87,59.31,1,4.7
+DL-00295,2023-05-13,2023,5,Q2,North America,Services,Reseller,Mid-Market,Rep_16,Closed Won,5366.64,3407.7,1958.94,36.5,1,3.1
+DL-00296,2023-05-08,2023,5,Q2,Europe,Services,Partner,Mid-Market,Rep_11,Closed Won,9868.45,5754.35,4114.1,41.69,1,3.3
+DL-00297,2022-08-07,2022,8,Q3,Asia Pacific,Services,Online,Enterprise,Rep_08,In Progress,3215.03,2297.21,917.82,28.55,1,3.3
+DL-00298,2023-02-15,2023,2,Q1,North America,Software,Direct,Mid-Market,Rep_03,Closed Won,22515.81,10301.83,12213.98,54.25,1,3.7
+DL-00299,2022-03-02,2022,3,Q1,Asia Pacific,Software,Online,SMB,Rep_07,Closed Won,15919.29,10848.01,5071.28,31.86,1,3.8
+DL-00300,2022-06-18,2022,6,Q2,North America,Hardware,Online,Mid-Market,Rep_07,Closed Won,9478.54,6418.74,3059.8,32.28,1,4.1
+DL-00301,2023-01-24,2023,1,Q1,North America,Software,Partner,SMB,Rep_14,Closed Won,10920.98,4854.52,6066.46,55.55,1,5.0
+DL-00302,2022-01-03,2022,1,Q1,Europe,Software,Reseller,SMB,Rep_02,Closed Lost,19350.48,10439.5,8910.98,46.05,1,4.4
+DL-00303,2023-02-04,2023,2,Q1,Europe,Electronics,Direct,Startup,Rep_10,Closed Lost,24320.57,11176.6,13143.97,54.04,2,3.4
+DL-00304,2022-09-29,2022,9,Q3,Asia Pacific,Software,Direct,Enterprise,Rep_19,Closed Won,17826.91,8720.07,9106.84,51.08,1,3.8
+DL-00305,2023-04-11,2023,4,Q2,Asia Pacific,Software,Online,Mid-Market,Rep_09,Closed Won,9644.69,4746.5,4898.19,50.79,1,5.0
+DL-00306,2022-10-20,2022,10,Q4,Middle East,Software,Online,SMB,Rep_16,Closed Won,28435.61,16910.17,11525.44,40.53,1,4.4
+DL-00307,2023-03-10,2023,3,Q1,Europe,Services,Direct,SMB,Rep_19,Closed Won,7458.25,4057.24,3401.01,45.6,1,5.0
+DL-00308,2023-12-15,2023,12,Q4,North America,Software,Direct,Enterprise,Rep_18,Closed Won,22781.14,16669.11,6112.03,26.83,1,3.4
+DL-00309,2023-07-24,2023,7,Q3,Asia Pacific,Services,Direct,SMB,Rep_09,In Progress,6942.42,3084.03,3858.39,55.58,1,3.2
+DL-00310,2023-11-09,2023,11,Q4,North America,Hardware,Direct,Enterprise,Rep_16,On Hold,21469.64,15904.54,5565.1,25.92,3,3.2
+DL-00311,2023-05-14,2023,5,Q2,Europe,Hardware,Online,Enterprise,Rep_13,On Hold,3670.78,1764.63,1906.15,51.93,1,
+DL-00312,2022-06-08,2022,6,Q2,North America,Services,Partner,Enterprise,Rep_10,In Progress,41236.88,27649.57,13587.31,32.95,5,2.9
+DL-00313,2022-07-14,2022,7,Q3,North America,Consulting,Direct,Enterprise,Rep_20,Closed Lost,24677.18,12798.56,11878.62,48.14,1,4.0
+DL-00314,2022-10-31,2022,10,Q4,Middle East,Electronics,Direct,Startup,Rep_14,In Progress,16440.92,7399.7,9041.22,54.99,1,4.0
+DL-00315,2022-08-11,2022,8,Q3,Latin America,Electronics,Direct,Startup,Rep_12,Closed Won,11253.19,7880.17,3373.02,29.97,1,4.9
+DL-00316,2022-03-01,2022,3,Q1,Asia Pacific,Electronics,Direct,SMB,Rep_19,Closed Lost,11020.24,5599.4,5420.84,49.19,1,2.4
+DL-00317,2023-08-17,2023,8,Q3,Europe,Services,Partner,Mid-Market,Rep_07,Closed Lost,6754.24,4259.22,2495.02,36.94,1,3.0
+DL-00318,2023-07-10,2023,7,Q3,North America,Hardware,Reseller,Enterprise,Rep_15,Closed Lost,10805.66,6464.54,4341.12,40.17,1,4.4
+DL-00319,2022-03-04,2022,3,Q1,North America,Electronics,Online,Mid-Market,Rep_16,In Progress,7408.67,4186.75,3221.92,43.49,1,3.9
+DL-00320,2022-11-18,2022,11,Q4,North America,Consulting,Direct,Mid-Market,Rep_08,Closed Won,35990.38,20641.81,15348.57,42.65,1,3.8
+DL-00321,2022-02-28,2022,2,Q1,Europe,Electronics,Reseller,Startup,Rep_10,Closed Won,5031.93,3302.37,1729.56,34.37,1,4.8
+DL-00322,2022-02-21,2022,2,Q1,Asia Pacific,Consulting,Online,SMB,Rep_04,On Hold,34396.74,14815.38,19581.36,56.93,1,3.0
+DL-00323,2023-08-22,2023,8,Q3,Asia Pacific,Software,Online,Mid-Market,Rep_19,Closed Won,38223.37,24228.39,13994.98,36.61,1,3.2
+DL-00324,2023-05-04,2023,5,Q2,North America,Electronics,Partner,Enterprise,Rep_19,Closed Lost,7931.09,5659.1,2271.99,28.65,1,3.1
+DL-00325,2023-05-30,2023,5,Q2,Middle East,Software,Direct,Startup,Rep_15,On Hold,35101.61,14750.6,20351.01,57.98,1,2.2
+DL-00326,2023-06-28,2023,6,Q2,Asia Pacific,Electronics,Direct,Enterprise,Rep_14,Closed Lost,15390.38,6913.8,8476.58,55.08,1,3.9
+DL-00327,2022-06-11,2022,6,Q2,Europe,Electronics,Direct,SMB,Rep_01,Closed Lost,33356.86,21709.35,11647.51,34.92,2,3.4
+DL-00328,2022-02-28,2022,2,Q1,Asia Pacific,Software,Direct,Mid-Market,Rep_16,Closed Won,16301.75,9015.66,7286.09,44.7,1,3.2
+DL-00329,2023-06-05,2023,6,Q2,Europe,Hardware,Direct,Mid-Market,Rep_10,Closed Won,32701.94,17699.66,15002.28,45.88,5,3.1
+DL-00330,2022-03-24,2022,3,Q1,North America,Software,Partner,Enterprise,Rep_19,In Progress,7564.64,3388.49,4176.15,55.21,1,3.8
+DL-00331,2022-07-10,2022,7,Q3,Europe,Software,Online,Startup,Rep_03,Closed Lost,21202.6,12241.73,8960.87,42.26,1,3.2
+DL-00332,2022-03-12,2022,3,Q1,Asia Pacific,Services,Partner,Enterprise,Rep_05,Closed Lost,4277.21,1900.33,2376.88,55.57,1,4.0
+DL-00333,2023-09-02,2023,9,Q3,North America,Services,Direct,SMB,Rep_09,Closed Won,25231.98,14301.92,10930.06,43.32,3,4.2
+DL-00334,2022-03-11,2022,3,Q1,North America,Electronics,Reseller,Enterprise,Rep_18,Closed Won,13160.23,8781.37,4378.86,33.27,1,3.6
+DL-00335,2023-11-23,2023,11,Q4,North America,Software,Reseller,Enterprise,Rep_11,On Hold,22943.47,11251.31,11692.16,50.96,1,3.5
+DL-00336,2022-08-29,2022,8,Q3,North America,Electronics,Online,SMB,Rep_16,Closed Won,18721.44,10638.93,8082.51,43.17,1,3.9
+DL-00337,2023-02-18,2023,2,Q1,Latin America,Electronics,Reseller,SMB,Rep_02,Closed Lost,14964.0,11181.18,3782.82,25.28,1,3.8
+DL-00338,2022-05-03,2022,5,Q2,Asia Pacific,Services,Partner,Enterprise,Rep_12,Closed Won,7431.33,4758.49,2672.84,35.97,1,4.9
+DL-00339,2023-08-07,2023,8,Q3,Europe,Electronics,Reseller,Enterprise,Rep_06,Closed Lost,8002.28,5557.38,2444.9,30.55,1,4.1
+DL-00340,2022-09-10,2022,9,Q3,North America,Software,Direct,SMB,Rep_11,On Hold,27197.7,14828.1,12369.6,45.48,1,4.7
+DL-00341,2023-08-16,2023,8,Q3,Europe,Services,Direct,Mid-Market,Rep_08,Closed Lost,12085.45,8082.16,4003.29,33.12,1,4.3
+DL-00342,2023-09-01,2023,9,Q3,Europe,Electronics,Direct,Mid-Market,Rep_12,Closed Won,21236.87,8795.85,12441.02,58.58,1,2.7
+DL-00343,2022-02-10,2022,2,Q1,North America,Services,Direct,Enterprise,Rep_02,Closed Lost,26022.16,11528.31,14493.85,55.7,3,3.4
+DL-00344,2023-09-27,2023,9,Q3,Europe,Electronics,Direct,SMB,Rep_09,In Progress,5058.98,2383.16,2675.82,52.89,1,3.8
+DL-00345,2022-03-25,2022,3,Q1,Europe,Consulting,Partner,Enterprise,Rep_15,Closed Won,29001.25,15680.49,13320.76,45.93,1,4.5
+DL-00346,2023-03-06,2023,3,Q1,Asia Pacific,Software,Online,Enterprise,Rep_02,In Progress,45365.18,31574.65,13790.53,30.4,2,
+DL-00347,2023-11-05,2023,11,Q4,Asia Pacific,Hardware,Partner,Mid-Market,Rep_01,Closed Lost,7517.1,3917.86,3599.24,47.88,1,3.4
+DL-00348,2023-08-21,2023,8,Q3,North America,Services,Direct,SMB,Rep_10,In Progress,3106.51,1954.36,1152.15,37.09,1,3.8
+DL-00349,2023-08-02,2023,8,Q3,Europe,Electronics,Online,Enterprise,Rep_02,Closed Lost,7865.85,5099.12,2766.73,35.17,1,4.4
+DL-00350,2023-06-20,2023,6,Q2,Asia Pacific,Services,Partner,Enterprise,Rep_12,Closed Won,11785.5,7132.16,4653.34,39.48,1,3.8
+DL-00351,2022-11-20,2022,11,Q4,Europe,Consulting,Direct,Enterprise,Rep_08,Closed Won,34719.31,18228.84,16490.47,47.5,1,5.0
+DL-00352,2022-09-25,2022,9,Q3,Latin America,Services,Online,Mid-Market,Rep_05,Closed Won,13997.03,8425.77,5571.26,39.8,1,2.7
+DL-00353,2022-07-29,2022,7,Q3,Asia Pacific,Hardware,Direct,Startup,Rep_01,On Hold,5413.72,2814.01,2599.71,48.02,1,4.3
+DL-00354,2023-11-17,2023,11,Q4,North America,Hardware,Direct,Enterprise,Rep_15,In Progress,9110.1,3911.47,5198.63,57.06,1,4.3
+DL-00355,2022-11-18,2022,11,Q4,North America,Electronics,Reseller,Enterprise,Rep_06,Closed Lost,9347.59,6987.15,2360.44,25.25,1,4.7
+DL-00356,2022-09-02,2022,9,Q3,Asia Pacific,Electronics,Direct,Mid-Market,Rep_12,Closed Won,17082.07,7593.22,9488.85,55.55,1,3.8
+DL-00357,2022-09-29,2022,9,Q3,North America,Services,Partner,Startup,Rep_08,Closed Won,10269.63,4367.9,5901.73,57.47,1,4.5
+DL-00358,2023-02-10,2023,2,Q1,Europe,Software,Reseller,SMB,Rep_13,In Progress,16584.12,11733.03,4851.09,29.25,1,3.6
+DL-00359,2022-05-15,2022,5,Q2,Middle East,Hardware,Online,Enterprise,Rep_19,Closed Lost,17435.94,8816.35,8619.59,49.44,2,3.2
+DL-00360,2023-11-19,2023,11,Q4,Europe,Consulting,Direct,Enterprise,Rep_01,Closed Won,12786.37,8024.78,4761.59,37.24,1,3.0
+DL-00361,2023-10-23,2023,10,Q4,Europe,Software,Direct,SMB,Rep_11,Closed Lost,23290.96,11998.38,11292.58,48.48,1,2.6
+DL-00362,2022-11-04,2022,11,Q4,Asia Pacific,Electronics,Direct,SMB,Rep_20,Closed Won,9841.39,5284.91,4556.48,46.3,1,3.4
+DL-00363,2023-04-14,2023,4,Q2,Europe,Hardware,Partner,Enterprise,Rep_01,Closed Won,20016.21,9842.76,10173.45,50.83,3,4.0
+DL-00364,2022-11-20,2022,11,Q4,Europe,Electronics,Partner,SMB,Rep_08,Closed Lost,20231.67,10521.79,9709.88,47.99,1,3.6
+DL-00365,2022-03-16,2022,3,Q1,Middle East,Hardware,Direct,Enterprise,Rep_05,Closed Won,5782.21,3144.05,2638.16,45.63,1,4.0
+DL-00366,2022-01-10,2022,1,Q1,Europe,Software,Reseller,Mid-Market,Rep_17,On Hold,21737.05,14175.72,7561.33,34.79,1,4.8
+DL-00367,2023-04-15,2023,4,Q2,Middle East,Services,Partner,Enterprise,Rep_08,Closed Won,25361.03,14684.99,10676.04,42.1,3,3.4
+DL-00368,2023-09-29,2023,9,Q3,Latin America,Electronics,Direct,Enterprise,Rep_10,Closed Won,9345.66,6824.65,2521.01,26.98,1,5.0
+DL-00369,2023-07-31,2023,7,Q3,North America,Services,Partner,SMB,Rep_02,Closed Won,4138.61,1716.11,2422.5,58.53,1,4.4
+DL-00370,2022-04-13,2022,4,Q2,North America,Software,Online,SMB,Rep_09,In Progress,28915.54,16657.49,12258.05,42.39,1,3.6
+DL-00371,2022-03-17,2022,3,Q1,North America,Services,Direct,Startup,Rep_03,Closed Won,11697.85,7071.1,4626.75,39.55,1,3.6
+DL-00372,2023-07-05,2023,7,Q3,North America,Electronics,Direct,SMB,Rep_18,Closed Lost,20927.57,15111.15,5816.42,27.79,1,3.0
+DL-00373,2022-08-07,2022,8,Q3,North America,Services,Online,Enterprise,Rep_07,Closed Won,13997.77,5839.95,8157.82,58.28,1,3.8
+DL-00374,2023-06-03,2023,6,Q2,Asia Pacific,Hardware,Partner,Mid-Market,Rep_15,Closed Won,19390.72,11648.49,7742.23,39.93,3,2.1
+DL-00375,2022-09-29,2022,9,Q3,North America,Electronics,Partner,Enterprise,Rep_20,Closed Won,6353.35,4439.53,1913.82,30.12,1,4.8
+DL-00376,2022-05-16,2022,5,Q2,North America,Electronics,Partner,Startup,Rep_18,In Progress,8220.64,3984.34,4236.3,51.53,1,1.5
+DL-00377,2022-12-24,2022,12,Q4,Latin America,Electronics,Direct,SMB,Rep_03,In Progress,20887.52,14761.26,6126.26,29.33,1,3.8
+DL-00378,2022-03-12,2022,3,Q1,North America,Services,Direct,SMB,Rep_14,Closed Won,5753.29,2339.66,3413.63,59.33,1,2.9
+DL-00379,2022-09-08,2022,9,Q3,Latin America,Services,Partner,Enterprise,Rep_02,Closed Lost,4827.32,3168.46,1658.86,34.36,1,3.2
+DL-00380,2023-01-14,2023,1,Q1,North America,Software,Direct,SMB,Rep_14,On Hold,63548.16,46173.43,17374.73,27.34,3,3.3
+DL-00381,2022-10-19,2022,10,Q4,North America,Electronics,Direct,Mid-Market,Rep_11,Closed Won,6673.06,4204.16,2468.9,37.0,1,5.0
+DL-00382,2022-06-11,2022,6,Q2,Asia Pacific,Software,Online,Mid-Market,Rep_16,In Progress,20973.08,11611.96,9361.12,,1,2.9
+DL-00383,2023-03-25,2023,3,Q1,Asia Pacific,Services,Reseller,Enterprise,Rep_08,Closed Won,9707.53,4035.5,5672.03,58.43,1,4.5
+DL-00384,2023-07-11,2023,7,Q3,Latin America,Software,Online,Enterprise,Rep_07,On Hold,48107.79,34735.74,13372.05,27.8,2,4.7
+DL-00385,2023-12-22,2023,12,Q4,Asia Pacific,Consulting,Reseller,Mid-Market,Rep_11,In Progress,11784.63,6653.65,5130.98,43.54,1,1.9
+DL-00386,2022-11-06,2022,11,Q4,Latin America,Electronics,Direct,Startup,Rep_03,On Hold,18463.35,7572.72,10890.63,58.99,1,3.3
+DL-00387,2023-09-19,2023,9,Q3,North America,Services,Reseller,Enterprise,Rep_17,Closed Lost,6407.03,4109.71,2297.32,35.86,1,5.0
+DL-00388,2023-11-01,2023,11,Q4,North America,Software,Direct,SMB,Rep_14,Closed Won,34215.59,19456.46,14759.13,43.14,1,2.7
+DL-00389,2023-06-26,2023,6,Q2,Asia Pacific,Software,Reseller,Enterprise,Rep_06,On Hold,15886.54,7046.01,8840.53,55.65,1,4.8
+DL-00390,2022-01-09,2022,1,Q1,Latin America,Services,Reseller,Mid-Market,Rep_08,Closed Won,21949.37,10425.84,11523.53,52.5,2,3.8
+DL-00391,2023-11-15,2023,11,Q4,Middle East,Services,Online,Enterprise,Rep_05,Closed Won,6373.19,2693.13,3680.06,57.74,1,3.8
+DL-00392,2023-07-22,2023,7,Q3,Europe,Consulting,Reseller,Enterprise,Rep_08,In Progress,8760.1,5264.84,3495.26,39.9,1,3.9
+DL-00393,2022-11-03,2022,11,Q4,Europe,Electronics,Partner,Mid-Market,Rep_02,In Progress,10111.02,6245.68,3865.34,38.23,1,4.1
+DL-00394,2023-11-11,2023,11,Q4,Asia Pacific,Electronics,Direct,Enterprise,Rep_15,On Hold,13162.87,7595.11,5567.76,42.3,1,3.0
+DL-00395,2022-04-17,2022,4,Q2,North America,Services,Partner,SMB,Rep_12,Closed Won,17180.28,11785.43,5394.85,31.4,2,3.6
+DL-00396,2022-05-18,2022,5,Q2,Middle East,Services,Partner,SMB,Rep_17,In Progress,5330.14,3738.31,1591.83,29.86,1,4.1
+DL-00397,2022-09-28,2022,9,Q3,Latin America,Electronics,Direct,Enterprise,Rep_01,In Progress,8074.63,4969.68,3104.95,38.45,1,3.9
+DL-00398,2022-04-29,2022,4,Q2,Europe,Electronics,Partner,SMB,Rep_15,Closed Won,24248.12,9807.51,14440.61,59.55,2,4.1
+DL-00399,2022-04-20,2022,4,Q2,Asia Pacific,Electronics,Reseller,SMB,Rep_14,Closed Won,7541.62,4851.75,2689.87,35.67,1,3.2
+DL-00400,2023-07-21,2023,7,Q3,Asia Pacific,Hardware,Direct,Enterprise,Rep_20,Closed Won,7315.17,3996.28,3318.89,45.37,1,4.3
+DL-00401,2022-06-09,2022,6,Q2,North America,Electronics,Online,SMB,Rep_16,Closed Won,13856.09,8285.18,5570.91,40.21,1,3.9
+DL-00402,2022-10-06,2022,10,Q4,Latin America,Software,Reseller,Mid-Market,Rep_09,On Hold,27873.2,17481.46,10391.74,37.28,1,2.5
+DL-00403,2022-10-16,2022,10,Q4,Europe,Electronics,Reseller,Mid-Market,Rep_01,Closed Lost,10310.12,5387.89,4922.23,47.74,1,3.4
+DL-00404,2023-09-12,2023,9,Q3,Latin America,Software,Reseller,Enterprise,Rep_17,In Progress,15726.99,11338.92,4388.07,27.9,1,3.1
+DL-00405,2022-08-04,2022,8,Q3,North America,Electronics,Partner,Enterprise,Rep_13,On Hold,17734.24,7925.28,9808.96,55.31,1,3.1
+DL-00406,2022-12-18,2022,12,Q4,Latin America,Software,Reseller,Enterprise,Rep_05,Closed Won,15972.65,10143.1,5829.55,36.5,1,3.4
+DL-00407,2022-07-28,2022,7,Q3,Europe,Electronics,Online,SMB,Rep_10,In Progress,7599.37,3051.34,4548.03,59.85,1,4.3
+DL-00408,2023-12-05,2023,12,Q4,North America,Hardware,Direct,SMB,Rep_06,Closed Won,14780.98,10695.93,4085.05,27.64,2,3.3
+DL-00409,2023-10-12,2023,10,Q4,Latin America,Electronics,Partner,Mid-Market,Rep_19,In Progress,19146.08,8412.34,10733.74,56.06,1,4.0
+DL-00410,2022-09-28,2022,9,Q3,North America,Software,Online,Enterprise,Rep_13,Closed Won,60499.01,26208.74,34290.27,56.68,3,3.8
+DL-00411,2023-06-02,2023,6,Q2,North America,Hardware,Direct,Enterprise,Rep_01,On Hold,11839.31,6115.63,5723.68,48.34,1,3.2
+DL-00412,2023-05-16,2023,5,Q2,Middle East,Services,Partner,SMB,Rep_20,Closed Won,5304.28,2815.24,2489.04,46.93,1,3.5
+DL-00413,2022-09-15,2022,9,Q3,Middle East,Software,Online,Mid-Market,Rep_15,Closed Won,26234.11,12461.33,13772.78,52.5,1,4.5
+DL-00414,2022-02-22,2022,2,Q1,Europe,Software,Direct,Enterprise,Rep_14,In Progress,15045.24,9099.25,5945.99,39.52,1,3.9
+DL-00415,2022-04-05,2022,4,Q2,Asia Pacific,Software,Partner,SMB,Rep_08,Closed Won,10947.06,6075.84,4871.22,44.5,1,4.2
+DL-00416,2023-10-12,2023,10,Q4,Europe,Services,Online,Enterprise,Rep_10,Closed Lost,7996.35,3294.19,4702.16,58.8,1,4.8
+DL-00417,2023-03-10,2023,3,Q1,North America,Consulting,Partner,Mid-Market,Rep_09,Closed Won,49007.03,25085.63,23921.4,48.81,2,4.1
+DL-00418,2022-10-11,2022,10,Q4,North America,Services,Direct,Mid-Market,Rep_17,In Progress,11473.52,7843.89,3629.63,31.63,1,2.3
+DL-00419,2022-02-15,2022,2,Q1,Asia Pacific,Services,Direct,Enterprise,Rep_09,Closed Won,4988.51,3199.61,1788.9,35.86,1,4.0
+DL-00420,2022-01-04,2022,1,Q1,Asia Pacific,Services,Direct,Enterprise,Rep_03,Closed Won,7857.07,5136.2,2720.87,34.63,1,3.3
+DL-00421,2022-12-08,2022,12,Q4,Asia Pacific,Software,Reseller,SMB,Rep_11,Closed Won,23276.46,14997.98,8278.48,35.57,1,5.0
+DL-00422,2022-05-14,2022,5,Q2,Asia Pacific,Electronics,Direct,Enterprise,Rep_12,Closed Lost,6446.22,3280.1,3166.12,49.12,1,4.1
+DL-00423,2023-10-15,2023,10,Q4,North America,Services,Partner,Mid-Market,Rep_10,Closed Won,14284.45,6212.06,8072.39,56.51,1,3.3
+DL-00424,2022-09-26,2022,9,Q3,Europe,Consulting,Direct,Mid-Market,Rep_17,Closed Won,26757.9,13254.89,13503.01,50.46,1,4.3
+DL-00425,2022-06-15,2022,6,Q2,North America,Electronics,Direct,Mid-Market,Rep_17,Closed Won,7483.89,5172.3,2311.59,30.89,1,3.9
+DL-00426,2023-03-29,2023,3,Q1,Europe,Services,Online,Mid-Market,Rep_11,Closed Won,4850.1,3604.42,1245.68,25.68,1,2.4
+DL-00427,2023-07-19,2023,7,Q3,Europe,Electronics,Online,SMB,Rep_04,Closed Lost,26007.43,14898.26,11109.17,42.72,2,4.5
+DL-00428,2023-12-24,2023,12,Q4,Latin America,Software,Direct,Enterprise,Rep_07,In Progress,20665.58,8336.39,12329.19,59.66,1,3.5
+DL-00429,2023-03-14,2023,3,Q1,Europe,Electronics,Partner,Mid-Market,Rep_14,Closed Won,27200.25,12213.34,14986.91,55.1,2,4.9
+DL-00430,2023-07-29,2023,7,Q3,North America,Software,Direct,SMB,Rep_07,Closed Lost,54869.28,28133.03,26736.25,48.73,2,3.7
+DL-00431,2022-01-10,2022,1,Q1,North America,Hardware,Partner,Mid-Market,Rep_08,Closed Lost,13338.65,8036.6,5302.05,39.75,2,5.0
+DL-00432,2022-04-25,2022,4,Q2,Asia Pacific,Software,Online,Enterprise,Rep_01,Closed Won,19147.27,8162.15,10985.12,57.37,1,4.1
+DL-00433,2022-03-19,2022,3,Q1,Asia Pacific,Services,Direct,Enterprise,Rep_04,In Progress,2868.13,2094.24,773.89,26.98,1,4.6
+DL-00434,2023-12-09,2023,12,Q4,North America,Hardware,Direct,Startup,Rep_12,Closed Won,9355.27,4937.52,4417.75,47.22,1,3.4
+DL-00435,2022-06-02,2022,6,Q2,North America,Consulting,Direct,Enterprise,Rep_03,Closed Lost,85369.22,61415.0,23954.22,28.06,3,4.1
+DL-00436,2023-07-13,2023,7,Q3,Asia Pacific,Electronics,Reseller,Startup,Rep_13,Closed Won,14736.91,9920.63,4816.28,32.68,1,2.4
+DL-00437,2022-02-06,2022,2,Q1,North America,Software,Reseller,Startup,Rep_20,Closed Lost,9243.94,6141.7,3102.24,33.56,1,3.7
+DL-00438,2023-01-14,2023,1,Q1,Latin America,Electronics,Direct,Mid-Market,Rep_06,Closed Lost,10703.93,6554.57,4149.36,38.76,1,2.6
+DL-00439,2023-08-20,2023,8,Q3,Asia Pacific,Consulting,Online,Mid-Market,Rep_11,Closed Won,27366.8,16950.29,10416.51,38.06,1,2.9
+DL-00440,2023-07-20,2023,7,Q3,North America,Consulting,Direct,SMB,Rep_04,Closed Won,17325.91,10799.26,6526.65,37.67,1,3.1
+DL-00441,2022-06-01,2022,6,Q2,North America,Software,Direct,Mid-Market,Rep_20,On Hold,6937.2,4301.43,2635.77,37.99,1,4.3
+DL-00442,2023-03-17,2023,3,Q1,Middle East,Hardware,Online,Enterprise,Rep_16,Closed Won,7618.02,4523.62,3094.4,40.62,1,3.7
+DL-00443,2022-05-11,2022,5,Q2,Europe,Software,Reseller,SMB,Rep_07,Closed Lost,16885.2,12583.61,4301.59,25.48,1,3.8
+DL-00444,2022-02-12,2022,2,Q1,Europe,Services,Reseller,SMB,Rep_11,On Hold,24262.48,15923.51,8338.97,34.37,3,3.7
+DL-00445,2022-11-12,2022,11,Q4,Latin America,Electronics,Partner,SMB,Rep_01,In Progress,15777.22,10601.21,5176.01,32.81,1,4.7
+DL-00446,2023-01-09,2023,1,Q1,Middle East,Hardware,Direct,SMB,Rep_07,Closed Lost,10117.14,7136.25,2980.89,29.46,1,3.8
+DL-00447,2022-02-10,2022,2,Q1,Middle East,Electronics,Online,Enterprise,Rep_12,In Progress,14132.92,6719.83,7413.09,52.45,1,4.0
+DL-00448,2023-01-02,2023,1,Q1,Asia Pacific,Hardware,Direct,SMB,Rep_07,In Progress,8383.86,3599.45,4784.41,57.07,1,3.3
+DL-00449,2022-08-04,2022,8,Q3,Europe,Hardware,Partner,Mid-Market,Rep_07,Closed Lost,3501.85,1992.6,1509.25,43.1,1,4.7
+DL-00450,2023-11-30,2023,11,Q4,North America,Services,Direct,Enterprise,Rep_10,Closed Lost,5944.71,3447.51,2497.2,42.01,1,4.8
+DL-00451,2022-09-13,2022,9,Q3,Asia Pacific,Electronics,Online,Startup,Rep_16,Closed Won,25851.21,17842.86,8008.35,30.98,2,3.8
+DL-00452,2023-11-14,2023,11,Q4,Europe,Software,Direct,Mid-Market,Rep_08,On Hold,27760.3,15415.97,12344.33,44.47,1,3.3
+DL-00453,2022-04-16,2022,4,Q2,Europe,Electronics,Direct,Mid-Market,Rep_09,Closed Lost,12290.13,7371.6,4918.53,40.02,1,2.5
+DL-00454,2022-12-29,2022,12,Q4,Latin America,Software,Reseller,SMB,Rep_09,Closed Won,31879.45,18632.74,13246.71,41.55,1,3.1
+DL-00455,2023-07-28,2023,7,Q3,North America,Electronics,Direct,Mid-Market,Rep_02,In Progress,19316.92,7985.05,11331.87,58.66,1,2.1
+DL-00456,2023-02-21,2023,2,Q1,Europe,Consulting,Partner,Enterprise,Rep_13,Closed Lost,81178.03,49950.89,31227.14,38.47,3,3.1
+DL-00457,2023-09-28,2023,9,Q3,North America,Services,Direct,Mid-Market,Rep_13,Closed Won,10849.49,7484.14,3365.35,31.02,1,4.1
+DL-00458,2022-06-08,2022,6,Q2,Europe,Software,,Enterprise,Rep_04,Closed Lost,14696.69,6688.83,8007.86,54.49,1,3.8
+DL-00459,2022-08-31,2022,8,Q3,North America,Software,Direct,Mid-Market,Rep_12,Closed Won,23594.83,14346.04,9248.79,39.2,1,5.0
+DL-00460,2022-06-16,2022,6,Q2,North America,Software,Direct,Startup,Rep_17,In Progress,33874.37,20587.61,13286.76,39.22,1,3.5
+DL-00461,2022-07-01,2022,7,Q3,North America,Services,Reseller,Enterprise,Rep_02,Closed Won,16451.47,7525.97,8925.5,54.25,2,3.4
+DL-00462,2023-02-27,2023,2,Q1,Asia Pacific,Software,Direct,Enterprise,Rep_13,In Progress,11149.11,4941.42,6207.69,55.68,1,4.7
+DL-00463,2022-01-26,2022,1,Q1,Asia Pacific,Consulting,Reseller,Mid-Market,Rep_18,Closed Lost,34057.52,25305.36,8752.16,25.7,1,2.3
+DL-00464,2022-07-03,2022,7,Q3,Europe,Software,Partner,Enterprise,Rep_15,Closed Won,15962.6,8584.71,7377.89,46.22,1,2.6
+DL-00465,2022-12-07,2022,12,Q4,Middle East,Consulting,Partner,Mid-Market,Rep_08,On Hold,22598.45,10838.16,11760.29,52.04,1,4.3
+DL-00466,2023-02-26,2023,2,Q1,Europe,Hardware,Partner,Enterprise,Rep_15,Closed Lost,12211.3,5616.75,6594.55,54.0,1,3.6
+DL-00467,2023-11-17,2023,11,Q4,North America,Electronics,Partner,Enterprise,Rep_01,Closed Won,21783.97,13803.64,7980.33,36.63,1,3.7
+DL-00468,2022-09-12,2022,9,Q3,Latin America,Consulting,Online,Startup,Rep_20,Closed Lost,21372.84,13108.09,8264.75,38.67,1,3.1
+DL-00469,2022-10-01,2022,10,Q4,North America,Electronics,Direct,Mid-Market,Rep_10,In Progress,13861.69,8666.93,5194.76,37.48,1,4.0
+DL-00470,2022-06-13,2022,6,Q2,Middle East,Hardware,Direct,Mid-Market,Rep_12,Closed Won,6119.01,2636.08,3482.93,56.92,1,3.2
+DL-00471,2023-12-20,2023,12,Q4,North America,Software,Reseller,Enterprise,Rep_05,Closed Won,106136.64,75647.52,30489.12,28.73,5,3.9
+DL-00472,2022-04-21,2022,4,Q2,Middle East,Hardware,Reseller,Mid-Market,Rep_09,Closed Won,9194.64,4930.56,4264.08,46.38,1,2.9
+DL-00473,2023-01-27,2023,1,Q1,North America,Hardware,Reseller,SMB,Rep_08,Closed Won,5257.74,2679.76,2577.98,49.03,1,3.7
+DL-00474,2022-02-09,2022,2,Q1,Latin America,Hardware,Partner,SMB,Rep_16,In Progress,15495.12,8705.57,6789.55,43.82,2,5.0
+DL-00475,2023-04-27,2023,4,Q2,Europe,Hardware,Online,Mid-Market,Rep_14,Closed Lost,15770.99,8461.5,7309.49,46.35,2,3.5
+DL-00476,2022-08-16,2022,8,Q3,Middle East,Software,Partner,SMB,Rep_13,Closed Won,61234.53,43002.07,18232.46,29.77,3,3.7
+DL-00477,2022-07-24,2022,7,Q3,North America,Electronics,Partner,SMB,Rep_13,Closed Won,42608.21,30901.24,11706.97,27.48,3,3.6
+DL-00478,2023-04-17,2023,4,Q2,Europe,Software,Direct,Enterprise,Rep_05,Closed Won,35613.8,18028.01,17585.79,49.38,1,3.9
+DL-00479,2022-12-25,2022,12,Q4,Middle East,Electronics,Partner,Mid-Market,Rep_16,On Hold,12592.79,8844.89,3747.9,29.76,1,4.2
+DL-00480,2022-11-09,2022,11,Q4,Europe,Services,Direct,Enterprise,Rep_11,Closed Won,9036.54,6086.41,2950.13,32.65,1,4.0
+DL-00481,2022-08-22,2022,8,Q3,Asia Pacific,Software,Direct,Mid-Market,Rep_05,On Hold,21603.13,15679.18,5923.95,27.42,1,4.0
+DL-00482,2022-08-17,2022,8,Q3,Asia Pacific,Consulting,Reseller,Enterprise,Rep_13,Closed Lost,24515.85,11915.01,12600.84,51.4,1,3.7
+DL-00483,2022-01-25,2022,1,Q1,Europe,Services,Direct,SMB,Rep_11,Closed Won,18588.69,11189.2,7399.49,39.81,2,3.9
+DL-00484,2023-11-07,2023,11,Q4,Asia Pacific,Hardware,Direct,Mid-Market,Rep_19,In Progress,8002.88,3970.15,4032.73,50.39,1,3.6
+DL-00485,2022-07-17,2022,7,Q3,Europe,Electronics,Direct,Enterprise,Rep_03,Closed Lost,24379.95,16783.96,7595.99,31.16,2,2.4
+DL-00486,2023-02-13,2023,2,Q1,Latin America,Hardware,Reseller,Enterprise,Rep_15,In Progress,11220.02,4508.92,6711.1,59.81,1,5.0
+DL-00487,2022-12-03,2022,12,Q4,North America,Consulting,Partner,Enterprise,Rep_07,On Hold,17320.14,10352.02,6968.12,40.23,1,4.4
+DL-00488,2022-10-13,2022,10,Q4,North America,Software,,SMB,Rep_07,Closed Won,10594.0,5495.33,5098.67,48.13,1,3.0
+DL-00489,2022-03-13,2022,3,Q1,Middle East,Services,Online,Mid-Market,Rep_06,Closed Won,5388.43,2763.94,2624.49,48.71,1,4.0
+DL-00490,2022-10-13,2022,10,Q4,Latin America,Hardware,Online,Enterprise,Rep_03,In Progress,6462.97,4043.99,2418.98,37.43,1,2.7
+DL-00491,2022-12-26,2022,12,Q4,Europe,Electronics,Direct,Mid-Market,Rep_13,Closed Won,16042.06,11197.67,4844.39,30.2,1,3.4
+DL-00492,2023-10-19,2023,10,Q4,Asia Pacific,Software,Online,Enterprise,Rep_07,Closed Won,18078.54,11086.09,6992.45,38.68,1,2.6
+DL-00493,2023-06-06,2023,6,Q2,North America,Software,Online,SMB,Rep_05,Closed Won,35531.1,24822.4,10708.7,30.14,1,3.8
+DL-00494,2023-02-14,2023,2,Q1,North America,Electronics,Online,Startup,Rep_18,Closed Won,11521.42,5675.56,5845.86,50.74,1,2.5
+DL-00495,2023-11-27,2023,11,Q4,Europe,Software,Direct,Enterprise,Rep_08,In Progress,28427.43,16539.81,11887.62,41.82,1,4.1
+DL-00496,2023-07-04,2023,7,Q3,Europe,Electronics,Reseller,SMB,Rep_17,Closed Won,15908.3,8871.86,7036.44,44.23,1,4.3
+DL-00497,2022-12-06,2022,12,Q4,Europe,Electronics,Partner,Enterprise,Rep_20,Closed Lost,35704.14,14427.18,21276.96,59.59,2,3.1
+DL-00498,2022-01-29,2022,1,Q1,North America,Electronics,Direct,Enterprise,Rep_01,Closed Lost,9211.29,5479.65,3731.64,40.51,1,3.9
+DL-00499,2022-04-29,2022,4,Q2,Middle East,Consulting,Partner,Enterprise,Rep_14,Closed Won,90505.17,57157.05,33348.12,36.85,3,3.1
+DL-00500,2022-09-25,2022,9,Q3,Middle East,Software,Direct,Enterprise,Rep_17,Closed Won,18572.85,11276.88,7295.97,39.28,1,4.2
+DL-00501,2022-07-02,2022,7,Q3,Asia Pacific,Consulting,Direct,SMB,Rep_10,In Progress,15350.82,10096.2,5254.62,34.23,1,3.2
+DL-00502,2023-08-18,2023,8,Q3,Europe,Software,Online,SMB,Rep_12,Closed Won,22430.43,13457.56,8972.87,40.0,1,4.4
+DL-00503,2022-09-29,2022,9,Q3,North America,Software,Direct,SMB,Rep_16,In Progress,126336.05,53485.96,72850.09,57.66,6,2.4
+DL-00504,2022-02-09,2022,2,Q1,Latin America,Software,Partner,Enterprise,Rep_14,In Progress,39113.92,17239.69,21874.23,55.92,1,3.0
+DL-00505,2022-04-22,2022,4,Q2,Asia Pacific,Software,Partner,Enterprise,Rep_16,Closed Won,33796.52,20574.18,13222.34,39.12,1,2.9
+DL-00506,2023-09-03,2023,9,Q3,North America,Electronics,Direct,Mid-Market,Rep_08,Closed Lost,22323.58,11077.91,11245.67,50.38,1,4.0
+DL-00507,2023-03-21,2023,3,Q1,Latin America,Services,Reseller,Startup,Rep_10,Closed Lost,6805.89,2912.08,3893.81,57.21,1,4.2
+DL-00508,2022-12-20,2022,12,Q4,Latin America,Electronics,Direct,Enterprise,Rep_17,Closed Won,17655.94,9717.14,7938.8,44.96,1,4.0
+DL-00509,2022-11-18,2022,11,Q4,Middle East,Services,Direct,Mid-Market,Rep_18,In Progress,10012.52,5947.57,4064.95,40.6,1,3.4
+DL-00510,2023-03-23,2023,3,Q1,Asia Pacific,Services,Direct,SMB,Rep_20,In Progress,24707.79,12726.02,11981.77,48.49,3,1.6
+DL-00511,2023-09-13,2023,9,Q3,Asia Pacific,Electronics,Direct,SMB,Rep_16,Closed Won,14206.6,9264.86,4941.74,34.78,1,3.8
+DL-00512,2023-06-08,2023,6,Q2,Europe,Electronics,Direct,SMB,Rep_17,Closed Lost,12415.08,7763.39,4651.69,37.47,1,4.4
+DL-00513,2022-04-29,2022,4,Q2,Middle East,Hardware,Online,Enterprise,Rep_16,On Hold,4468.45,2307.89,2160.56,48.35,1,5.0
+DL-00514,2023-01-30,2023,1,Q1,Latin America,Software,Reseller,Enterprise,Rep_19,On Hold,26812.9,17809.27,9003.63,33.58,1,3.5
+DL-00515,2023-08-14,2023,8,Q3,North America,Electronics,Direct,SMB,Rep_08,Closed Lost,17366.21,10889.37,6476.84,37.3,1,3.3
+DL-00516,2022-07-14,2022,7,Q3,North America,Consulting,Online,Enterprise,Rep_06,Closed Lost,16451.28,10250.89,6200.39,37.69,1,4.1
+DL-00517,2022-09-18,2022,9,Q3,Europe,Electronics,Online,Startup,Rep_06,Closed Won,18814.58,11170.21,7644.37,40.63,1,3.6
+DL-00518,2022-02-15,2022,2,Q1,Latin America,Services,Online,SMB,Rep_09,On Hold,11236.58,4539.43,6697.15,59.6,1,4.8
+DL-00519,2023-12-27,2023,12,Q4,Middle East,Consulting,Partner,Enterprise,Rep_04,Closed Won,49795.28,32057.08,17738.2,35.62,2,3.2
+DL-00520,2023-03-23,2023,3,Q1,North America,Electronics,Direct,Mid-Market,Rep_12,Closed Lost,27501.33,14620.11,12881.22,46.84,2,3.6
+DL-00521,2022-01-02,2022,1,Q1,Europe,Electronics,Direct,Enterprise,Rep_12,Closed Won,15724.03,11477.18,4246.85,27.01,1,4.5
+DL-00522,2023-06-17,2023,6,Q2,Europe,Electronics,Online,SMB,Rep_17,Closed Won,8934.03,6131.38,2802.65,31.37,1,4.0
+DL-00523,2023-07-06,2023,7,Q3,Middle East,Software,Online,Mid-Market,Rep_15,Closed Won,16503.38,9995.98,6507.4,39.43,1,4.7
+DL-00524,2023-12-05,2023,12,Q4,Latin America,Electronics,Direct,Startup,Rep_09,On Hold,36201.99,17676.12,18525.87,51.17,3,3.5
+DL-00525,2023-11-18,2023,11,Q4,Latin America,Services,Direct,Mid-Market,Rep_07,Closed Won,10862.64,5119.57,5743.07,52.87,1,
+DL-00526,2022-07-21,2022,7,Q3,Europe,Electronics,Reseller,Mid-Market,Rep_10,Closed Lost,35914.0,18644.2,17269.8,48.09,2,2.5
+DL-00527,2023-01-08,2023,1,Q1,Europe,Software,Online,Mid-Market,Rep_16,Closed Won,32078.25,18181.91,13896.34,43.32,1,2.5
+DL-00528,2023-03-18,2023,3,Q1,North America,Consulting,Reseller,Startup,Rep_12,Closed Won,43731.35,22024.11,21707.24,49.64,1,4.8
+DL-00529,2022-03-13,2022,3,Q1,North America,Hardware,Online,Enterprise,Rep_07,Closed Won,12791.79,7422.12,5369.67,41.98,1,3.8
+DL-00530,2023-11-12,2023,11,Q4,Latin America,Services,Direct,Enterprise,Rep_18,Closed Lost,5424.99,2483.99,2941.0,54.21,1,4.5
+DL-00531,2022-12-05,2022,12,Q4,Latin America,Software,Partner,Enterprise,Rep_15,Closed Won,29146.98,21632.87,7514.11,25.78,1,3.9
+DL-00532,2023-10-01,2023,10,Q4,Middle East,Services,Online,Enterprise,Rep_06,Closed Won,5387.52,2358.51,3029.01,56.22,1,3.8
+DL-00533,2022-11-18,2022,11,Q4,Middle East,Software,Direct,Mid-Market,Rep_12,Closed Won,21680.64,15744.06,5936.58,27.38,1,2.7
+DL-00534,2023-11-11,2023,11,Q4,Europe,Software,Partner,SMB,Rep_11,Closed Won,34431.11,24781.87,9649.24,28.02,1,3.8
+DL-00535,2022-05-08,2022,5,Q2,Asia Pacific,Electronics,Online,SMB,Rep_20,On Hold,8983.44,5245.22,3738.22,41.61,1,4.9
+DL-00536,2022-11-04,2022,11,Q4,Middle East,Hardware,Direct,Enterprise,Rep_03,On Hold,10581.53,6917.34,3664.19,34.63,1,3.8
+DL-00537,2023-06-04,2023,6,Q2,Latin America,Software,Online,Mid-Market,Rep_02,Closed Won,11818.8,6531.27,5287.53,44.74,1,4.3
+DL-00538,2022-11-13,2022,11,Q4,North America,Electronics,Partner,Enterprise,Rep_06,Closed Lost,26568.07,16485.81,10082.26,37.95,2,4.3
+DL-00539,2023-11-14,2023,11,Q4,Europe,Software,Reseller,Mid-Market,Rep_05,On Hold,17933.26,9310.98,8622.28,48.08,1,3.0
+DL-00540,2023-02-23,2023,2,Q1,North America,Software,Direct,SMB,Rep_18,Closed Won,14959.06,7560.39,7398.67,49.46,1,4.5
+DL-00541,2022-12-01,2022,12,Q4,Middle East,Hardware,Direct,Enterprise,Rep_16,In Progress,3903.07,2351.13,1551.94,39.76,1,3.5
+DL-00542,2023-02-17,2023,2,Q1,Asia Pacific,Services,Partner,Enterprise,Rep_08,On Hold,7485.05,4299.0,3186.05,42.57,1,3.6
+DL-00543,2023-12-15,2023,12,Q4,North America,Hardware,Direct,Enterprise,Rep_20,Closed Won,3082.18,1858.05,1224.13,39.72,1,5.0
+DL-00544,2022-10-30,2022,10,Q4,Asia Pacific,Electronics,Online,Mid-Market,Rep_11,Closed Won,11402.71,5705.13,5697.58,49.97,1,4.3
+DL-00545,2023-07-22,2023,7,Q3,Asia Pacific,Software,Online,Startup,Rep_10,On Hold,43320.21,22891.93,20428.28,47.16,2,3.3
+DL-00546,2022-05-11,2022,5,Q2,Europe,Software,Direct,SMB,Rep_12,Closed Lost,22748.97,9767.6,12981.37,57.06,1,3.9
+DL-00547,2022-07-16,2022,7,Q3,North America,Electronics,Partner,Enterprise,Rep_06,Closed Won,8325.23,3482.42,4842.81,58.17,1,3.8
+DL-00548,2023-03-07,2023,3,Q1,Asia Pacific,Electronics,Partner,SMB,Rep_20,Closed Won,16796.69,8208.71,8587.98,51.13,1,5.0
+DL-00549,2023-11-12,2023,11,Q4,Europe,Hardware,Direct,Mid-Market,Rep_05,Closed Won,8571.04,3651.15,4919.89,57.4,1,3.8
+DL-00550,2023-01-24,2023,1,Q1,Asia Pacific,Electronics,Reseller,Mid-Market,Rep_09,Closed Lost,39899.16,17408.85,22490.31,56.37,3,5.0
+DL-00551,2023-11-25,2023,11,Q4,Europe,Software,Online,Enterprise,Rep_16,In Progress,37122.99,25411.61,11711.38,31.55,1,2.8
+DL-00552,2022-06-28,2022,6,Q2,Latin America,Electronics,Online,Enterprise,Rep_14,On Hold,17476.36,7228.32,10248.04,58.64,1,3.8
+DL-00553,2023-09-23,2023,9,Q3,Europe,Electronics,Online,Mid-Market,Rep_08,Closed Won,23584.35,14873.0,8711.35,36.94,1,3.2
+DL-00554,2023-08-06,2023,8,Q3,Europe,Electronics,Partner,SMB,Rep_20,Closed Lost,14025.26,6948.05,7077.21,50.46,1,3.4
+DL-00555,2022-11-05,2022,11,Q4,Latin America,Consulting,Reseller,Enterprise,Rep_19,Closed Lost,28889.86,20368.54,8521.32,29.5,1,3.4
+DL-00556,2023-02-20,2023,2,Q1,Europe,Hardware,Online,Enterprise,Rep_14,Closed Won,18336.83,10447.36,7889.47,43.03,2,3.2
+DL-00557,2023-07-16,2023,7,Q3,North America,Consulting,Online,SMB,Rep_07,Closed Won,13242.19,6713.15,6529.04,49.3,1,5.0
+DL-00558,2022-01-01,2022,1,Q1,North America,Software,Reseller,Mid-Market,Rep_05,On Hold,40562.69,23573.97,16988.72,41.88,2,4.9
+DL-00559,2022-11-08,2022,11,Q4,Asia Pacific,Electronics,Direct,Startup,Rep_18,In Progress,14191.66,7573.88,6617.78,46.63,1,4.1
+DL-00560,2022-10-21,2022,10,Q4,Asia Pacific,Software,Online,SMB,Rep_02,Closed Lost,21609.46,12911.77,8697.69,40.25,1,
+DL-00561,2022-08-04,2022,8,Q3,Asia Pacific,Software,Direct,SMB,Rep_11,Closed Lost,18961.83,8344.85,10616.98,55.99,1,3.3
+DL-00562,2023-03-17,2023,3,Q1,North America,Hardware,Direct,Enterprise,Rep_08,Closed Won,8638.93,6470.1,2168.83,25.11,1,4.4
+DL-00563,2023-08-17,2023,8,Q3,North America,Electronics,Direct,SMB,Rep_01,Closed Lost,14677.06,8056.89,6620.17,45.11,1,4.0
+DL-00564,2023-09-14,2023,9,Q3,North America,Software,Reseller,SMB,Rep_12,Closed Lost,20318.35,10603.76,9714.59,47.81,1,3.7
+DL-00565,2023-11-02,2023,11,Q4,Europe,Electronics,Reseller,SMB,Rep_02,Closed Lost,10556.28,6846.52,3709.76,35.14,1,4.2
+DL-00566,2022-11-26,2022,11,Q4,Europe,Software,Online,SMB,Rep_18,On Hold,9642.79,5085.27,4557.52,47.26,1,4.5
+DL-00567,2023-04-22,2023,4,Q2,Europe,Services,Online,Enterprise,Rep_07,Closed Lost,6963.51,4816.28,2147.23,30.84,1,3.7
+DL-00568,2023-03-29,2023,3,Q1,Europe,Software,Partner,Enterprise,Rep_17,Closed Won,19350.69,10816.93,8533.76,44.1,1,3.2
+DL-00569,2023-03-29,2023,3,Q1,Latin America,Software,Reseller,Enterprise,Rep_14,In Progress,26963.7,17576.17,9387.53,34.82,1,2.7
+DL-00570,2023-11-23,2023,11,Q4,North America,Software,Partner,Enterprise,Rep_07,Closed Won,66714.26,29194.74,37519.52,56.24,3,4.0
+DL-00571,2022-08-07,2022,8,Q3,Europe,Software,Direct,Enterprise,Rep_03,Closed Won,18373.29,12790.41,5582.88,30.39,1,5.0
+DL-00572,2023-06-08,2023,6,Q2,Asia Pacific,Hardware,Direct,Startup,Rep_06,Closed Won,4795.01,3152.73,1642.28,34.25,1,2.9
+DL-00573,2023-04-30,2023,4,Q2,Europe,Hardware,Online,SMB,Rep_20,Closed Won,5596.79,2653.44,2943.35,52.59,1,4.7
+DL-00574,2022-06-23,2022,6,Q2,Asia Pacific,Consulting,Online,SMB,Rep_02,In Progress,32390.65,14603.33,17787.32,54.91,1,3.3
+DL-00575,2023-11-06,2023,11,Q4,Latin America,Hardware,Direct,Mid-Market,Rep_17,Closed Lost,10737.68,5483.76,5253.92,48.93,1,3.4
+DL-00576,2022-03-28,2022,3,Q1,Middle East,Software,Direct,Startup,Rep_12,In Progress,35983.07,26685.93,9297.14,25.84,1,4.5
+DL-00577,2022-10-18,2022,10,Q4,North America,Services,Online,SMB,Rep_12,Closed Lost,15126.36,7410.27,7716.09,51.01,1,3.6
+DL-00578,2023-06-12,2023,6,Q2,Middle East,Software,Direct,Mid-Market,Rep_17,Closed Won,40588.76,22715.28,17873.48,44.04,2,4.0
+DL-00579,2023-11-11,2023,11,Q4,Europe,Electronics,Online,Enterprise,Rep_10,In Progress,13047.65,5356.15,7691.5,58.95,1,4.0
+DL-00580,2023-10-11,2023,10,Q4,North America,Hardware,Reseller,Enterprise,Rep_03,Closed Won,22331.8,12037.5,10294.3,46.1,3,3.3
+DL-00581,2023-09-27,2023,9,Q3,Europe,Electronics,Partner,SMB,Rep_20,Closed Won,12561.87,7536.64,5025.23,40.0,1,4.5
+DL-00582,2022-12-10,2022,12,Q4,Middle East,Consulting,Direct,Mid-Market,Rep_18,Closed Lost,31685.77,23244.48,8441.29,26.64,1,3.8
+DL-00583,2022-04-06,2022,4,Q2,Europe,Software,Online,Mid-Market,Rep_13,Closed Won,47788.71,27758.44,20030.27,41.91,2,2.7
+DL-00584,2022-08-29,2022,8,Q3,North America,Services,Online,Enterprise,Rep_12,Closed Won,13273.87,9115.0,4158.87,31.33,1,3.1
+DL-00585,2023-11-20,2023,11,Q4,Asia Pacific,Services,Partner,Enterprise,Rep_17,Closed Lost,3261.42,1929.11,1332.31,40.85,1,1.3
+DL-00586,2022-11-14,2022,11,Q4,North America,Hardware,Reseller,SMB,Rep_04,Closed Lost,8022.58,3323.55,4699.03,58.57,1,3.8
+DL-00587,2022-08-19,2022,8,Q3,North America,Services,Direct,Enterprise,Rep_10,Closed Won,15387.68,7851.61,7536.07,48.97,1,4.8
+DL-00588,2022-07-23,2022,7,Q3,North America,Services,Partner,SMB,Rep_11,On Hold,5108.21,3072.29,2035.92,39.86,1,3.0
+DL-00589,2022-05-31,2022,5,Q2,North America,Electronics,Online,Mid-Market,Rep_06,Closed Lost,21832.43,15996.79,5835.64,26.73,1,4.3
+DL-00590,2022-01-26,2022,1,Q1,North America,Software,Reseller,Mid-Market,Rep_06,In Progress,30385.11,21290.71,9094.4,29.93,1,4.1
+DL-00591,2022-02-17,2022,2,Q1,North America,Electronics,Direct,Mid-Market,Rep_09,Closed Won,27112.92,13012.15,14100.77,52.01,2,3.2
+DL-00592,2022-09-08,2022,9,Q3,Asia Pacific,Services,Online,Mid-Market,Rep_15,Closed Lost,7075.37,3375.22,3700.15,52.3,1,5.0
+DL-00593,2023-05-02,2023,5,Q2,North America,Software,Partner,SMB,Rep_02,In Progress,41133.49,19349.63,21783.86,52.96,2,3.6
+DL-00594,2023-09-18,2023,9,Q3,North America,Services,Direct,Mid-Market,Rep_04,Closed Lost,10830.75,7829.27,3001.48,27.71,1,5.0
+DL-00595,2022-03-16,2022,3,Q1,Latin America,Electronics,Direct,SMB,Rep_05,In Progress,36273.06,25334.31,10938.75,30.16,3,2.5
+DL-00596,2023-04-12,2023,4,Q2,Europe,Electronics,Reseller,Enterprise,Rep_17,Closed Won,60405.2,40544.53,19860.67,32.88,5,3.6
+DL-00597,2023-03-01,2023,3,Q1,Asia Pacific,Services,,Enterprise,Rep_08,Closed Won,21579.64,11598.13,9981.51,46.25,2,3.7
+DL-00598,2023-10-07,2023,10,Q4,North America,Electronics,Direct,Enterprise,Rep_08,Closed Lost,19073.68,10996.61,8077.07,42.35,1,3.8
+DL-00599,2023-08-13,2023,8,Q3,North America,Electronics,Direct,SMB,Rep_12,Closed Won,47873.03,26929.35,20943.68,43.75,3,4.4
+DL-00600,2022-07-19,2022,7,Q3,North America,Electronics,Reseller,SMB,Rep_08,In Progress,20283.12,9912.14,10370.98,51.13,1,5.0
+DL-00601,2023-12-15,2023,12,Q4,North America,Consulting,Online,Mid-Market,Rep_19,Closed Won,19053.0,10989.0,8064.0,42.32,1,4.2
+DL-00602,2023-01-29,2023,1,Q1,North America,Services,Online,Enterprise,Rep_03,On Hold,9805.55,4026.88,5778.67,58.93,1,3.8
+DL-00603,2023-05-22,2023,5,Q2,North America,Software,Direct,Enterprise,Rep_18,On Hold,36587.69,16323.0,20264.69,55.39,1,2.9
+DL-00604,2023-02-14,2023,2,Q1,North America,Electronics,Partner,Startup,Rep_19,Closed Won,22669.66,16102.4,6567.26,28.97,1,2.3
+DL-00605,2022-09-07,2022,9,Q3,North America,Software,Partner,Enterprise,Rep_19,Closed Won,14242.68,9444.15,4798.53,33.69,1,4.7
+DL-00606,2022-06-01,2022,6,Q2,Europe,Hardware,Online,SMB,Rep_15,In Progress,4630.55,2537.56,2092.99,45.2,1,3.4
+DL-00607,2023-11-03,2023,11,Q4,North America,Services,Reseller,SMB,Rep_06,On Hold,8431.12,4898.5,3532.62,41.9,1,5.0
+DL-00608,2023-12-06,2023,12,Q4,Europe,Electronics,Direct,SMB,Rep_16,Closed Won,19595.93,10376.04,9219.89,47.05,1,
+DL-00609,2022-01-06,2022,1,Q1,Europe,Electronics,Online,Enterprise,Rep_08,Closed Won,20891.27,13773.05,7118.22,34.07,1,4.1
+DL-00610,2022-04-20,2022,4,Q2,Asia Pacific,Electronics,Direct,Enterprise,Rep_16,Closed Lost,16098.12,10857.63,5240.49,32.55,1,4.1
+DL-00611,2023-03-12,2023,3,Q1,North America,Services,Partner,Enterprise,Rep_18,Closed Lost,6588.8,4395.72,2193.08,33.28,1,4.1
+DL-00612,2022-08-13,2022,8,Q3,Asia Pacific,Hardware,Direct,SMB,Rep_20,Closed Won,19066.12,12448.54,6617.58,34.71,2,3.2
+DL-00613,2022-06-30,2022,6,Q2,Asia Pacific,Electronics,Direct,SMB,Rep_16,In Progress,8776.0,4138.56,4637.44,52.84,1,2.4
+DL-00614,2023-12-14,2023,12,Q4,North America,Electronics,Direct,Enterprise,Rep_11,Closed Won,28766.76,14909.51,13857.25,48.17,2,3.4
+DL-00615,2023-06-15,2023,6,Q2,Latin America,Electronics,Partner,SMB,Rep_07,Closed Won,21703.25,12250.31,9452.94,43.56,1,3.8
+DL-00616,2023-04-21,2023,4,Q2,Middle East,Consulting,Direct,Mid-Market,Rep_17,Closed Won,56903.88,29349.74,27554.14,48.42,2,3.3
+DL-00617,2022-02-21,2022,2,Q1,North America,Electronics,Online,Enterprise,Rep_17,Closed Won,12011.13,7978.14,4032.99,33.58,1,2.8
+DL-00618,2023-07-25,2023,7,Q3,North America,Hardware,Partner,SMB,Rep_12,Closed Won,7449.26,3838.41,3610.85,48.47,1,3.2
+DL-00619,2022-09-13,2022,9,Q3,Latin America,Services,Direct,Mid-Market,Rep_13,Closed Lost,10279.03,4608.92,5670.11,55.16,1,4.6
+DL-00620,2022-05-05,2022,5,Q2,Asia Pacific,Software,Online,Enterprise,Rep_10,Closed Won,19701.15,10632.0,9069.15,46.03,1,4.4
+DL-00621,2023-04-13,2023,4,Q2,North America,Electronics,Direct,Enterprise,Rep_07,Closed Won,16788.25,12473.17,4315.08,25.7,1,3.9
+DL-00622,2022-05-17,2022,5,Q2,North America,Electronics,Partner,SMB,Rep_14,Closed Won,33035.9,15826.13,17209.77,52.09,2,4.3
+DL-00623,2023-04-21,2023,4,Q2,Europe,Services,Online,Mid-Market,Rep_01,On Hold,5228.73,3211.78,2016.95,38.57,1,2.9
+DL-00624,2023-11-15,2023,11,Q4,Europe,Hardware,Direct,Mid-Market,Rep_17,Closed Won,5759.41,3176.55,2582.86,44.85,1,3.2
+DL-00625,2023-06-28,2023,6,Q2,Asia Pacific,Services,Direct,SMB,Rep_04,Closed Won,6819.0,2897.11,3921.89,57.51,1,4.0
+DL-00626,2023-07-27,2023,7,Q3,Europe,Software,Direct,Mid-Market,Rep_05,Closed Lost,23847.2,13610.95,10236.25,42.92,1,3.0
+DL-00627,2023-09-02,2023,9,Q3,Europe,Electronics,Reseller,SMB,Rep_20,On Hold,14017.23,9051.73,4965.5,35.42,1,3.9
+DL-00628,2022-11-21,2022,11,Q4,Asia Pacific,Consulting,Partner,SMB,Rep_07,Closed Won,44139.48,25584.43,18555.05,42.04,1,2.8
+DL-00629,2023-03-30,2023,3,Q1,North America,Hardware,Online,SMB,Rep_10,Closed Lost,8136.04,5737.84,2398.2,29.48,1,2.5
+DL-00630,2023-09-20,2023,9,Q3,North America,Electronics,Partner,Enterprise,Rep_17,In Progress,17452.66,8746.02,8706.64,49.89,1,4.4
+DL-00631,2023-06-01,2023,6,Q2,Asia Pacific,Consulting,Direct,Mid-Market,Rep_07,Closed Lost,36613.66,15750.73,20862.93,56.98,1,4.6
+DL-00632,2023-03-13,2023,3,Q1,Latin America,Services,Partner,SMB,Rep_01,Closed Won,11305.48,8228.11,3077.37,27.22,1,3.3
+DL-00633,2023-07-16,2023,7,Q3,Europe,Services,Online,SMB,Rep_07,Closed Lost,14214.2,7567.2,6647.0,46.76,1,2.6
+DL-00634,2023-04-02,2023,4,Q2,Europe,Services,Direct,Startup,Rep_11,Closed Won,9406.71,5660.41,3746.3,39.83,1,2.0
+DL-00635,2022-06-12,2022,6,Q2,North America,Hardware,Direct,Enterprise,Rep_09,Closed Lost,18221.93,12339.91,5882.02,32.28,2,5.0
+DL-00636,2023-05-02,2023,5,Q2,Europe,Services,Direct,Enterprise,Rep_12,In Progress,35637.38,18300.14,17337.24,48.65,4,3.9
+DL-00637,2023-04-06,2023,4,Q2,Europe,Electronics,Partner,Enterprise,Rep_03,Closed Won,21352.43,13893.12,7459.31,34.93,1,3.3
+DL-00638,2022-09-23,2022,9,Q3,North America,Software,Reseller,Mid-Market,Rep_04,In Progress,28018.68,12535.46,15483.22,55.26,1,3.5
+DL-00639,2022-09-11,2022,9,Q3,North America,Consulting,Direct,Mid-Market,Rep_04,Closed Won,40996.58,20578.35,20418.23,49.8,1,2.3
+DL-00640,2023-10-15,2023,10,Q4,Europe,Electronics,Partner,Enterprise,Rep_13,In Progress,8649.78,3898.01,4751.77,54.94,1,4.3
+DL-00641,2022-10-11,2022,10,Q4,North America,Software,Direct,Mid-Market,Rep_19,Closed Lost,27355.8,18709.47,8646.33,31.61,1,5.0
+DL-00642,2023-06-18,2023,6,Q2,North America,Software,Reseller,SMB,Rep_10,Closed Won,17343.43,8288.9,9054.53,52.21,1,3.2
+DL-00643,2023-05-12,2023,5,Q2,North America,Software,Direct,Mid-Market,Rep_05,Closed Won,32261.17,21004.97,11256.2,34.89,1,5.0
+DL-00644,2023-10-04,2023,10,Q4,North America,Services,Partner,SMB,Rep_07,On Hold,6954.61,5077.94,1876.67,26.98,1,3.7
+DL-00645,2022-09-02,2022,9,Q3,North America,Consulting,Online,SMB,Rep_16,Closed Won,25249.56,14763.93,10485.63,41.53,1,5.0
+DL-00646,2022-10-09,2022,10,Q4,Latin America,Electronics,Online,Startup,Rep_01,Closed Won,5882.99,3465.14,2417.85,41.1,1,4.0
+DL-00647,2023-03-27,2023,3,Q1,Europe,Electronics,Partner,Enterprise,Rep_12,Closed Won,8343.04,4683.46,3659.58,43.86,1,4.0
+DL-00648,2022-03-21,2022,3,Q1,Asia Pacific,Electronics,Direct,Enterprise,Rep_02,Closed Lost,17912.29,9208.02,8704.27,48.59,1,5.0
+DL-00649,2022-10-20,2022,10,Q4,Asia Pacific,Hardware,Direct,SMB,Rep_07,Closed Lost,5181.11,2934.99,2246.12,43.35,1,4.4
+DL-00650,2022-08-29,2022,8,Q3,Europe,Services,Direct,Startup,Rep_11,Closed Won,17021.41,10399.79,6621.62,38.9,2,4.1
+DL-00651,2022-10-06,2022,10,Q4,North America,Electronics,Direct,SMB,Rep_13,Closed Won,9310.15,6936.97,2373.18,25.49,1,2.2
+DL-00652,2022-12-10,2022,12,Q4,Europe,Hardware,Partner,Enterprise,Rep_02,Closed Won,10034.9,7307.59,2727.31,27.18,1,2.6
+DL-00653,2022-11-24,2022,11,Q4,Europe,Hardware,Direct,Enterprise,Rep_07,Closed Won,5465.76,3835.62,1630.14,29.82,1,4.2
+DL-00654,2023-07-08,2023,7,Q3,Asia Pacific,Hardware,Direct,SMB,Rep_15,Closed Won,9700.49,6898.95,2801.54,28.88,1,5.0
+DL-00655,2022-03-24,2022,3,Q1,Europe,Consulting,Online,Enterprise,Rep_11,In Progress,13926.64,7851.1,6075.54,43.63,1,3.9
+DL-00656,2022-05-22,2022,5,Q2,North America,Electronics,Reseller,Mid-Market,Rep_02,Closed Won,11958.7,7535.24,4423.46,36.99,1,3.3
+DL-00657,2022-06-04,2022,6,Q2,North America,Hardware,Partner,Startup,Rep_07,Closed Won,5240.07,3737.6,1502.47,28.67,1,2.3
+DL-00658,2022-08-25,2022,8,Q3,Europe,Software,Direct,SMB,Rep_04,Closed Won,38880.47,20899.53,17980.94,46.25,1,3.2
+DL-00659,2023-01-28,2023,1,Q1,Asia Pacific,Hardware,Direct,SMB,Rep_11,On Hold,10080.2,7425.25,2654.95,26.34,1,3.9
+DL-00660,2023-12-12,2023,12,Q4,Europe,Services,Reseller,SMB,Rep_02,On Hold,5399.45,2945.54,2453.91,45.45,1,3.1
+DL-00661,2022-06-06,2022,6,Q2,Europe,Hardware,Direct,Enterprise,Rep_16,In Progress,7227.2,4411.33,2815.87,38.96,1,3.0
+DL-00662,2023-12-25,2023,12,Q4,Middle East,Services,Direct,Mid-Market,Rep_07,Closed Won,6796.63,4407.15,2389.48,35.16,1,3.8
+DL-00663,2022-08-08,2022,8,Q3,Asia Pacific,Electronics,Partner,SMB,Rep_13,Closed Won,24123.31,17675.32,6447.99,26.73,2,
+DL-00664,2022-03-07,2022,3,Q1,North America,Software,Partner,SMB,Rep_05,Closed Won,47211.52,22926.66,24284.86,51.44,2,4.3
+DL-00665,2023-03-01,2023,3,Q1,North America,Consulting,Partner,Mid-Market,Rep_17,Closed Won,14590.56,9646.49,4944.07,33.89,1,4.0
+DL-00666,2023-02-22,2023,2,Q1,North America,Consulting,Direct,SMB,Rep_12,Closed Lost,45356.29,26410.31,18945.98,41.77,1,4.0
+DL-00667,2022-12-05,2022,12,Q4,North America,Electronics,Direct,SMB,Rep_19,In Progress,9938.36,4909.5,5028.86,50.6,1,4.2
+DL-00668,2023-07-10,2023,7,Q3,North America,Electronics,Reseller,Enterprise,Rep_07,In Progress,13218.16,8880.12,4338.04,32.82,1,3.7
+DL-00669,2023-04-23,2023,4,Q2,North America,Electronics,Direct,Mid-Market,Rep_06,In Progress,15243.87,9043.85,6200.02,40.67,1,3.5
+DL-00670,2023-03-02,2023,3,Q1,North America,Services,Online,Startup,Rep_08,Closed Won,24801.1,15657.95,9143.15,36.87,3,4.4
+DL-00671,2022-03-05,2022,3,Q1,North America,Hardware,Online,SMB,Rep_13,Closed Lost,4842.91,2484.49,2358.42,48.7,1,3.6
+DL-00672,2022-07-31,2022,7,Q3,Latin America,Electronics,Partner,Startup,Rep_05,Closed Won,22769.57,12943.27,9826.3,43.16,1,2.8
+DL-00673,2023-03-07,2023,3,Q1,North America,Software,Direct,Enterprise,Rep_02,Closed Won,13917.17,8574.01,5343.16,38.39,1,5.0
+DL-00674,2023-02-03,2023,2,Q1,Europe,Hardware,Direct,SMB,Rep_09,In Progress,4302.28,2330.63,1971.65,45.83,1,2.3
+DL-00675,2023-08-22,2023,8,Q3,Europe,Services,Partner,SMB,Rep_11,Closed Won,10143.33,4761.59,5381.74,53.06,1,5.0
+DL-00676,2023-12-14,2023,12,Q4,Middle East,Software,Reseller,SMB,Rep_06,Closed Won,25273.1,18615.51,6657.59,26.34,1,4.2
+DL-00677,2022-01-21,2022,1,Q1,North America,Services,Reseller,SMB,Rep_07,Closed Won,2426.44,1404.94,1021.5,42.1,1,3.0
+DL-00678,2023-08-13,2023,8,Q3,Europe,Software,Direct,Enterprise,Rep_07,Closed Lost,44641.95,29324.05,15317.9,34.31,2,3.8
+DL-00679,2023-01-25,2023,1,Q1,Middle East,Electronics,Direct,Enterprise,Rep_19,In Progress,5147.41,2799.5,2347.91,45.61,1,3.5
+DL-00680,2023-05-04,2023,5,Q2,Latin America,Services,Reseller,SMB,Rep_06,Closed Won,9296.3,4874.01,4422.29,47.57,1,4.4
+DL-00681,2022-01-07,2022,1,Q1,Latin America,Services,Online,Enterprise,Rep_11,In Progress,19421.74,10536.44,8885.3,45.75,2,4.4
+DL-00682,2022-12-27,2022,12,Q4,North America,Hardware,Reseller,Mid-Market,Rep_11,Closed Won,24143.94,13115.44,11028.5,45.68,3,4.2
+DL-00683,2022-11-02,2022,11,Q4,North America,Services,Direct,Enterprise,Rep_07,Closed Won,8339.97,4924.44,3415.53,40.95,1,4.4
+DL-00684,2023-02-04,2023,2,Q1,Asia Pacific,Hardware,Partner,Enterprise,Rep_02,In Progress,3907.77,2306.42,1601.35,40.98,1,3.7
+DL-00685,2023-03-06,2023,3,Q1,Middle East,Electronics,,SMB,Rep_19,Closed Lost,28597.64,16415.16,12182.48,42.6,2,5.0
+DL-00686,2023-07-06,2023,7,Q3,Europe,Software,Online,SMB,Rep_04,On Hold,38530.65,17229.94,21300.71,55.28,1,4.8
+DL-00687,2023-07-14,2023,7,Q3,Europe,Electronics,Partner,Mid-Market,Rep_06,Closed Won,11746.49,6738.1,5008.39,42.64,1,
+DL-00688,2023-09-10,2023,9,Q3,North America,Electronics,Direct,SMB,Rep_17,Closed Lost,11025.18,5062.61,5962.57,54.08,1,4.4
+DL-00689,2022-08-14,2022,8,Q3,Asia Pacific,Services,Partner,Enterprise,Rep_05,Closed Lost,6985.87,3102.76,3883.11,55.59,1,4.4
+DL-00690,2023-05-15,2023,5,Q2,North America,Consulting,Direct,Mid-Market,Rep_07,On Hold,25251.97,18343.69,6908.28,27.36,1,3.6
+DL-00691,2022-08-13,2022,8,Q3,North America,Electronics,Partner,SMB,Rep_09,Closed Won,17568.09,10746.97,6821.12,38.83,1,3.5
+DL-00692,2022-10-07,2022,10,Q4,Europe,Software,Reseller,Enterprise,Rep_01,In Progress,18837.86,11883.33,6954.53,36.92,1,4.8
+DL-00693,2023-03-23,2023,3,Q1,Europe,Hardware,Direct,SMB,Rep_01,Closed Lost,6421.5,3471.64,2949.86,45.94,1,3.8
+DL-00694,2023-05-13,2023,5,Q2,North America,Electronics,Online,Startup,Rep_19,Closed Won,20670.13,14844.12,5826.01,28.19,1,4.0
+DL-00695,2022-01-30,2022,1,Q1,North America,Services,Direct,SMB,Rep_06,Closed Lost,4765.38,2970.15,1795.23,37.67,1,4.9
+DL-00696,2023-02-03,2023,2,Q1,Asia Pacific,Services,Online,Enterprise,Rep_18,Closed Won,8286.41,5545.34,2741.07,33.08,1,5.0
+DL-00697,2022-12-11,2022,12,Q4,North America,Services,Reseller,Enterprise,Rep_10,Closed Lost,4325.88,2288.38,2037.5,47.1,1,3.4
+DL-00698,2023-11-16,2023,11,Q4,Europe,Electronics,Direct,Enterprise,Rep_11,In Progress,15835.53,11655.02,4180.51,26.4,1,3.6
+DL-00699,2023-11-27,2023,11,Q4,North America,Software,Direct,SMB,Rep_01,Closed Lost,9479.89,6514.21,2965.68,31.28,1,3.9
+DL-00700,2023-02-19,2023,2,Q1,Europe,Hardware,Partner,SMB,Rep_01,Closed Lost,12483.98,8724.83,3759.15,30.11,1,3.9
+DL-00701,2022-06-19,2022,6,Q2,Europe,Services,Direct,Enterprise,Rep_13,Closed Lost,5182.39,2385.29,2797.1,53.97,1,4.1
+DL-00702,2023-04-24,2023,4,Q2,North America,Electronics,Online,Startup,Rep_05,Closed Won,6182.74,3059.45,3123.29,50.52,1,3.4
+DL-00703,2022-05-11,2022,5,Q2,North America,Hardware,Reseller,Mid-Market,Rep_20,Closed Won,6670.1,3334.85,3335.25,50.0,1,2.8
+DL-00704,2023-09-30,2023,9,Q3,North America,Electronics,Partner,SMB,Rep_01,Closed Lost,35290.15,17462.21,17827.94,50.52,2,5.0
+DL-00705,2023-07-01,2023,7,Q3,North America,Services,Direct,Mid-Market,Rep_20,Closed Won,14270.31,9980.55,4289.76,30.06,1,4.3
+DL-00706,2022-01-28,2022,1,Q1,Middle East,Electronics,Partner,Enterprise,Rep_03,Closed Won,5736.75,2358.72,3378.03,58.88,1,3.5
+DL-00707,2023-02-08,2023,2,Q1,North America,Consulting,Online,SMB,Rep_18,Closed Lost,15327.29,6539.16,8788.13,57.34,1,4.1
+DL-00708,2023-08-30,2023,8,Q3,Latin America,Software,Direct,SMB,Rep_09,Closed Won,20513.34,10171.95,10341.39,50.41,1,5.0
+DL-00709,2023-08-01,2023,8,Q3,North America,Software,Partner,Mid-Market,Rep_14,Closed Won,76558.29,35978.99,40579.3,53.0,3,3.2
+DL-00710,2023-11-10,2023,11,Q4,Asia Pacific,Electronics,Partner,Mid-Market,Rep_17,Closed Lost,9379.94,4513.17,4866.77,51.88,1,4.0
+DL-00711,2022-01-28,2022,1,Q1,Asia Pacific,Software,Partner,Enterprise,Rep_14,Closed Won,15696.43,10662.27,5034.16,32.07,1,2.7
+DL-00712,2022-03-27,2022,3,Q1,Europe,Hardware,Direct,Startup,Rep_04,On Hold,17169.87,10252.03,6917.84,40.29,2,3.7
+DL-00713,2023-10-21,2023,10,Q4,Europe,Consulting,Online,Enterprise,Rep_05,In Progress,33070.81,13295.12,19775.69,59.8,1,4.3
+DL-00714,2023-03-15,2023,3,Q1,Europe,Software,Direct,Mid-Market,Rep_17,In Progress,42324.91,23289.83,19035.08,44.97,2,2.9
+DL-00715,2022-05-19,2022,5,Q2,North America,Software,Direct,Startup,Rep_02,Closed Won,17380.1,9433.22,7946.88,45.72,1,3.7
+DL-00716,2023-04-18,2023,4,Q2,Middle East,Services,Reseller,Enterprise,Rep_05,In Progress,9504.52,4180.86,5323.66,56.01,1,4.4
+DL-00717,2022-07-06,2022,7,Q3,Latin America,Hardware,Online,Mid-Market,Rep_04,In Progress,15444.57,9832.78,5611.79,36.34,2,4.3
+DL-00718,2022-02-21,2022,2,Q1,Middle East,Services,Direct,Enterprise,Rep_04,In Progress,9301.4,6006.23,3295.17,35.43,1,2.9
+DL-00719,2022-09-24,2022,9,Q3,North America,Software,Direct,SMB,Rep_06,Closed Won,43833.68,28593.26,15240.42,34.77,2,4.1
+DL-00720,2023-01-24,2023,1,Q1,Asia Pacific,Software,Direct,SMB,Rep_20,Closed Lost,30341.29,19872.48,10468.81,34.5,1,4.2
+DL-00721,2022-12-02,2022,12,Q4,Middle East,Services,Direct,SMB,Rep_13,In Progress,5946.31,2378.63,3567.68,60.0,1,3.9
+DL-00722,2022-08-05,2022,8,Q3,North America,Electronics,Direct,Startup,Rep_05,Closed Lost,14878.12,10918.64,3959.48,26.61,1,4.7
+DL-00723,2023-04-11,2023,4,Q2,North America,Services,Direct,Mid-Market,Rep_07,Closed Lost,16334.46,11188.67,5145.79,31.5,2,3.3
+DL-00724,2022-12-01,2022,12,Q4,Asia Pacific,Software,Partner,SMB,Rep_20,Closed Lost,34938.31,25029.58,9908.73,28.36,1,4.1
+DL-00725,2022-12-12,2022,12,Q4,Europe,Hardware,Online,Mid-Market,Rep_01,Closed Lost,7840.6,3179.17,4661.43,59.45,1,2.9
+DL-00726,2023-01-24,2023,1,Q1,Latin America,Electronics,Partner,Startup,Rep_14,Closed Won,5825.2,4234.05,1591.15,27.31,1,2.5
+DL-00727,2022-10-12,2022,10,Q4,North America,Services,Online,Enterprise,Rep_04,Closed Lost,4073.85,2784.17,1289.68,31.66,1,4.4
+DL-00728,2023-03-08,2023,3,Q1,Asia Pacific,Software,Direct,Startup,Rep_17,Closed Won,11327.38,7850.18,3477.2,30.7,1,3.8
+DL-00729,2022-09-16,2022,9,Q3,North America,Services,Reseller,Enterprise,Rep_14,Closed Won,7747.45,3351.94,4395.51,56.73,1,3.4
+DL-00730,2022-03-25,2022,3,Q1,North America,Electronics,Online,Mid-Market,Rep_16,Closed Won,12422.28,8180.97,4241.31,34.14,1,2.9
+DL-00731,2023-04-27,2023,4,Q2,North America,Services,Online,Enterprise,Rep_14,Closed Lost,4782.1,3519.49,1262.61,26.4,1,4.5
+DL-00732,2022-01-20,2022,1,Q1,Latin America,Services,Online,Enterprise,Rep_16,Closed Won,16673.85,10629.44,6044.41,36.25,2,2.6
+DL-00733,2023-07-07,2023,7,Q3,Asia Pacific,Services,Reseller,SMB,Rep_20,Closed Lost,5315.89,3187.92,2127.97,40.03,1,4.6
+DL-00734,2022-02-23,2022,2,Q1,Europe,Services,Partner,SMB,Rep_08,In Progress,5039.49,3683.72,1355.77,26.9,1,4.2
+DL-00735,2022-12-25,2022,12,Q4,Europe,Services,Direct,SMB,Rep_03,Closed Won,10451.06,5800.63,4650.43,44.5,1,2.6
+DL-00736,2022-08-18,2022,8,Q3,Latin America,Hardware,Partner,Enterprise,Rep_19,Closed Won,13018.8,7938.25,5080.55,39.02,2,3.9
+DL-00737,2023-10-28,2023,10,Q4,Europe,Electronics,Online,SMB,Rep_01,Closed Won,41908.03,23750.05,18157.98,43.33,3,5.0
+DL-00738,2022-03-12,2022,3,Q1,Latin America,Hardware,Online,Startup,Rep_02,In Progress,10705.03,7777.16,2927.87,27.35,1,4.8
+DL-00739,2023-10-30,2023,10,Q4,Europe,Software,Partner,SMB,Rep_15,Closed Lost,55080.22,23498.86,31581.36,57.34,2,3.1
+DL-00740,2022-02-11,2022,2,Q1,Europe,Electronics,Direct,Enterprise,Rep_10,Closed Lost,8182.7,4708.26,3474.44,42.46,1,4.4
+DL-00741,2022-02-01,2022,2,Q1,Europe,Electronics,Direct,SMB,Rep_18,Closed Won,44164.44,28284.38,15880.06,,3,2.7
+DL-00742,2022-09-11,2022,9,Q3,North America,Software,Reseller,Enterprise,Rep_14,Closed Lost,9856.52,6674.51,3182.01,32.28,1,2.7
+DL-00743,2022-07-24,2022,7,Q3,Asia Pacific,Hardware,Partner,Mid-Market,Rep_17,In Progress,6218.46,3756.3,2462.16,39.59,1,3.7
+DL-00744,2022-01-21,2022,1,Q1,Europe,Services,Partner,Mid-Market,Rep_13,In Progress,13235.62,9504.78,3730.84,28.19,1,4.2
+DL-00745,2023-09-29,2023,9,Q3,North America,Hardware,Direct,SMB,Rep_01,Closed Lost,3585.27,2616.16,969.11,27.03,1,4.4
+DL-00746,2022-06-06,2022,6,Q2,Latin America,Software,Direct,SMB,Rep_05,Closed Won,15726.56,6644.66,9081.9,57.75,1,4.5
+DL-00747,2022-09-02,2022,9,Q3,Europe,Software,Reseller,Mid-Market,Rep_13,Closed Won,14525.63,7855.89,6669.74,45.92,1,4.2
+DL-00748,2022-05-10,2022,5,Q2,Europe,Electronics,Online,SMB,Rep_14,Closed Won,12844.81,5243.39,7601.42,59.18,1,2.5
+DL-00749,2023-04-30,2023,4,Q2,Latin America,Software,Online,Mid-Market,Rep_03,Closed Won,50890.04,26223.43,24666.61,48.47,2,3.8
+DL-00750,2023-11-17,2023,11,Q4,Asia Pacific,Software,Partner,SMB,Rep_15,Closed Won,25211.2,14821.76,10389.44,41.21,1,4.6
+DL-00751,2022-04-28,2022,4,Q2,North America,Electronics,Partner,Mid-Market,Rep_19,Closed Won,11899.76,8553.29,3346.47,28.12,1,4.2
+DL-00752,2023-08-01,2023,8,Q3,Middle East,Electronics,Direct,SMB,Rep_17,Closed Won,3546.24,2469.23,1077.01,30.37,1,3.9
+DL-00753,2022-08-12,2022,8,Q3,Asia Pacific,Services,Online,SMB,Rep_03,On Hold,12628.58,5614.98,7013.6,55.54,1,4.1
+DL-00754,2023-04-22,2023,4,Q2,North America,Services,Partner,Startup,Rep_16,Closed Lost,14843.96,6420.91,8423.05,56.74,1,4.1
+DL-00755,2023-12-18,2023,12,Q4,North America,Consulting,Partner,SMB,Rep_14,In Progress,12822.32,7773.45,5048.87,39.38,1,2.2
+DL-00756,2022-09-20,2022,9,Q3,Asia Pacific,Consulting,Partner,SMB,Rep_12,In Progress,29012.05,17008.06,12003.99,41.38,1,4.7
+DL-00757,2023-01-13,2023,1,Q1,Asia Pacific,Services,Reseller,Enterprise,Rep_12,Closed Won,11013.14,5432.03,5581.11,50.68,1,3.7
+DL-00758,2022-06-21,2022,6,Q2,Europe,Software,Direct,SMB,Rep_11,In Progress,40494.93,28946.12,11548.81,28.52,2,4.4
+DL-00759,2023-09-13,2023,9,Q3,Latin America,Services,Online,SMB,Rep_17,Closed Won,6960.15,5043.17,1916.98,27.54,1,2.0
+DL-00760,2023-09-14,2023,9,Q3,Asia Pacific,Hardware,Direct,Enterprise,Rep_08,Closed Lost,5164.26,2793.42,2370.84,45.91,1,5.0
+DL-00761,2022-04-28,2022,4,Q2,North America,Electronics,Partner,Enterprise,Rep_17,Closed Won,11938.89,8495.78,3443.11,28.84,1,2.9
+DL-00762,2022-06-17,2022,6,Q2,North America,Software,Direct,SMB,Rep_20,On Hold,47517.32,25392.41,22124.91,46.56,2,5.0
+DL-00763,2022-11-15,2022,11,Q4,North America,Hardware,Direct,Mid-Market,Rep_11,Closed Won,13482.12,8869.7,4612.42,34.21,2,5.0
+DL-00764,2022-04-21,2022,4,Q2,Asia Pacific,Software,Partner,SMB,Rep_02,Closed Won,24734.6,14014.12,10720.48,43.34,1,2.7
+DL-00765,2023-08-16,2023,8,Q3,North America,Services,Direct,Enterprise,Rep_10,On Hold,16651.05,7374.82,9276.23,55.71,2,4.5
+DL-00766,2022-01-27,2022,1,Q1,Europe,Services,Partner,Mid-Market,Rep_10,Closed Won,3059.46,2217.43,842.03,27.52,1,3.0
+DL-00767,2022-11-16,2022,11,Q4,Asia Pacific,Electronics,Reseller,Enterprise,Rep_11,Closed Lost,22284.19,12455.39,9828.8,44.11,1,3.3
+DL-00768,2023-08-13,2023,8,Q3,Latin America,Software,Direct,SMB,Rep_06,In Progress,14289.04,9388.91,4900.13,34.29,1,3.3
+DL-00769,2023-11-25,2023,11,Q4,North America,Software,Online,Enterprise,Rep_04,In Progress,60484.56,31966.75,28517.81,47.15,3,4.2
+DL-00770,2023-01-20,2023,1,Q1,Latin America,Electronics,Partner,Enterprise,Rep_12,On Hold,8810.36,3582.37,5227.99,59.34,1,4.1
+DL-00771,2023-02-11,2023,2,Q1,North America,Electronics,Online,Enterprise,Rep_11,On Hold,9793.01,4261.78,5531.23,56.48,1,2.8
+DL-00772,2022-07-23,2022,7,Q3,Latin America,Hardware,Direct,SMB,Rep_13,Closed Won,10597.87,6079.75,4518.12,42.63,1,4.2
+DL-00773,2022-03-19,2022,3,Q1,North America,Electronics,Direct,Enterprise,Rep_05,In Progress,20853.61,13377.33,7476.28,35.85,1,3.6
+DL-00774,2023-08-30,2023,8,Q3,Europe,Software,Direct,SMB,Rep_06,Closed Lost,19999.55,10342.91,9656.64,48.28,1,2.3
+DL-00775,2023-12-09,2023,12,Q4,Asia Pacific,Electronics,Direct,SMB,Rep_01,Closed Lost,18060.95,11620.79,6440.16,35.66,1,3.5
+DL-00776,2023-10-05,2023,10,Q4,North America,Consulting,Direct,SMB,Rep_06,Closed Won,38431.88,24770.21,13661.67,35.55,1,5.0
+DL-00777,2022-09-06,2022,9,Q3,North America,Electronics,Online,SMB,Rep_18,Closed Lost,18258.08,11801.61,6456.47,35.36,1,3.5
+DL-00778,2022-04-15,2022,4,Q2,Asia Pacific,Software,Reseller,Mid-Market,Rep_09,On Hold,20421.71,11689.03,8732.68,42.76,1,2.3
+DL-00779,2023-12-15,2023,12,Q4,Asia Pacific,Hardware,Online,Enterprise,Rep_15,On Hold,10299.0,7417.44,2881.56,27.98,1,4.5
+DL-00780,2022-11-05,2022,11,Q4,Asia Pacific,Hardware,Online,SMB,Rep_08,Closed Won,16161.42,9231.71,6929.71,42.88,2,3.1
+DL-00781,2023-12-02,2023,12,Q4,Asia Pacific,Electronics,Direct,Enterprise,Rep_19,Closed Won,8127.93,4532.08,3595.85,44.24,1,4.0
+DL-00782,2023-09-07,2023,9,Q3,Europe,Hardware,Direct,Enterprise,Rep_16,Closed Won,5256.22,2469.28,2786.94,53.02,1,3.7
+DL-00783,2022-05-04,2022,5,Q2,North America,Software,Direct,SMB,Rep_06,In Progress,25343.03,12866.13,12476.9,49.23,1,5.0
+DL-00784,2023-08-03,2023,8,Q3,North America,Software,Direct,SMB,Rep_06,In Progress,14742.93,6115.62,8627.31,58.52,1,3.7
+DL-00785,2022-02-12,2022,2,Q1,North America,Electronics,Partner,Mid-Market,Rep_03,Closed Lost,6088.17,3785.24,2302.93,37.83,1,2.9
+DL-00786,2022-12-22,2022,12,Q4,Latin America,Electronics,Partner,SMB,Rep_10,Closed Won,25909.55,12617.63,13291.92,51.3,2,3.4
+DL-00787,2023-06-30,2023,6,Q2,Europe,Services,Direct,Startup,Rep_01,Closed Won,3281.14,1661.75,1619.39,49.35,1,2.8
+DL-00788,2023-03-15,2023,3,Q1,Europe,Software,Direct,Enterprise,Rep_14,Closed Lost,20443.9,13693.02,6750.88,33.02,1,3.6
+DL-00789,2023-11-09,2023,11,Q4,Europe,Software,Online,Enterprise,Rep_04,On Hold,36537.82,18799.71,17738.11,48.55,1,5.0
+DL-00790,2023-01-15,2023,1,Q1,Middle East,Services,Online,Enterprise,Rep_12,Closed Lost,11426.5,5539.21,5887.29,51.52,1,4.8
+DL-00791,2022-03-12,2022,3,Q1,North America,Hardware,Direct,Enterprise,Rep_06,Closed Won,6591.74,3026.73,3565.01,54.08,1,5.0
+DL-00792,2023-06-03,2023,6,Q2,Europe,Electronics,Reseller,SMB,Rep_11,Closed Lost,8665.33,5816.17,2849.16,32.88,1,4.2
+DL-00793,2023-10-26,2023,10,Q4,Europe,Services,Reseller,SMB,Rep_12,Closed Won,11875.99,5289.53,6586.46,55.46,1,3.9
+DL-00794,2022-12-16,2022,12,Q4,Asia Pacific,Electronics,Direct,Enterprise,Rep_10,On Hold,9150.91,5113.65,4037.26,44.12,1,3.0
+DL-00795,2022-01-13,2022,1,Q1,North America,Hardware,Direct,Startup,Rep_18,Closed Won,9137.69,5276.34,3861.35,42.26,1,4.0
+DL-00796,2023-03-07,2023,3,Q1,Latin America,Services,Partner,Mid-Market,Rep_07,Closed Lost,10730.0,6873.49,3856.51,35.94,1,3.7
+DL-00797,2023-05-17,2023,5,Q2,Middle East,Consulting,Reseller,Enterprise,Rep_07,Closed Won,32353.23,20112.36,12240.87,37.84,1,4.4
+DL-00798,2022-04-19,2022,4,Q2,Europe,Electronics,Reseller,Enterprise,Rep_11,Closed Lost,10890.5,7446.4,3444.1,31.62,1,2.9
+DL-00799,2023-03-20,2023,3,Q1,Asia Pacific,Electronics,Direct,Enterprise,Rep_04,Closed Lost,41494.25,17247.62,24246.63,58.43,3,3.8
+DL-00800,2023-01-06,2023,1,Q1,Middle East,Electronics,Direct,Enterprise,Rep_20,In Progress,17942.16,9038.44,8903.72,49.62,1,2.5
+DL-00801,2023-10-13,2023,10,Q4,Asia Pacific,Electronics,Partner,Enterprise,Rep_01,Closed Won,13048.79,6498.91,6549.88,50.2,1,4.1
+DL-00802,2023-04-16,2023,4,Q2,North America,Electronics,Partner,SMB,Rep_13,Closed Won,17118.94,7722.46,9396.48,54.89,1,4.3
+DL-00803,2023-12-26,2023,12,Q4,Europe,Consulting,Direct,Enterprise,Rep_18,Closed Won,20368.03,10208.71,10159.32,49.88,1,2.5
+DL-00804,2022-06-06,2022,6,Q2,Asia Pacific,Electronics,Reseller,SMB,Rep_09,Closed Lost,12365.35,6286.76,6078.59,49.16,1,2.7
+DL-00805,2023-03-22,2023,3,Q1,Europe,Electronics,Online,Startup,Rep_09,Closed Won,49600.96,28900.47,20700.49,41.73,4,2.8
+DL-00806,2022-06-30,2022,6,Q2,Asia Pacific,Hardware,Online,Mid-Market,Rep_09,Closed Lost,5450.74,3446.48,2004.26,36.77,1,3.7
+DL-00807,2023-06-19,2023,6,Q2,Middle East,Software,Reseller,Startup,Rep_10,In Progress,24046.5,12826.05,11220.45,46.66,1,2.7
+DL-00808,2023-10-29,2023,10,Q4,Middle East,Hardware,Online,Enterprise,Rep_02,In Progress,6368.66,4151.19,2217.47,34.82,1,4.9
+DL-00809,2022-10-04,2022,10,Q4,Europe,Electronics,Partner,SMB,Rep_06,Closed Won,8919.44,4617.22,4302.22,48.23,1,4.1
+DL-00810,2023-09-23,2023,9,Q3,North America,Software,Partner,SMB,Rep_15,Closed Lost,30858.69,15478.7,15379.99,49.84,1,4.3
+DL-00811,2023-07-06,2023,7,Q3,Middle East,Electronics,Direct,Enterprise,Rep_03,Closed Won,15276.05,9003.95,6272.1,41.06,1,2.5
+DL-00812,2023-05-11,2023,5,Q2,Latin America,Electronics,Online,Enterprise,Rep_11,Closed Lost,23654.75,9658.25,13996.5,59.17,1,4.8
+DL-00813,2023-04-22,2023,4,Q2,North America,Consulting,Direct,Mid-Market,Rep_06,In Progress,44992.07,19253.29,25738.78,57.21,1,4.3
+DL-00814,2023-03-23,2023,3,Q1,Middle East,Electronics,Online,SMB,Rep_03,Closed Won,23533.01,12855.83,10677.18,45.37,1,3.3
+DL-00815,2023-08-30,2023,8,Q3,Latin America,Software,Direct,SMB,Rep_11,Closed Won,15796.27,11531.58,4264.69,27.0,1,2.6
+DL-00816,2022-10-02,2022,10,Q4,Europe,Software,Direct,SMB,Rep_15,In Progress,34444.74,22476.2,11968.54,34.75,1,3.7
+DL-00817,2022-11-27,2022,11,Q4,Europe,Software,Direct,SMB,Rep_13,In Progress,34865.98,15021.81,19844.17,56.92,1,3.4
+DL-00818,2022-09-09,2022,9,Q3,Europe,Hardware,Direct,Enterprise,Rep_20,Closed Won,4801.41,3342.8,1458.61,30.38,1,3.5
+DL-00819,2022-03-30,2022,3,Q1,North America,Electronics,Online,Enterprise,Rep_10,Closed Lost,12791.0,8394.8,4396.2,34.37,1,3.2
+DL-00820,2022-10-13,2022,10,Q4,North America,Services,Online,Enterprise,Rep_06,Closed Won,4828.47,2963.87,1864.6,38.62,1,4.4
+DL-00821,2023-04-07,2023,4,Q2,Latin America,Consulting,Partner,Enterprise,Rep_15,Closed Won,41930.3,28810.42,13119.88,31.29,1,1.7
+DL-00822,2022-09-07,2022,9,Q3,North America,Services,Direct,Startup,Rep_18,On Hold,13944.66,7550.18,6394.48,45.86,1,4.9
+DL-00823,2023-04-21,2023,4,Q2,North America,Consulting,Direct,SMB,Rep_18,In Progress,61336.73,29289.84,32046.89,52.25,2,4.6
+DL-00824,2023-08-07,2023,8,Q3,Europe,Electronics,Direct,Mid-Market,Rep_07,In Progress,13378.53,7748.95,5629.58,42.08,1,4.0
+DL-00825,2023-09-17,2023,9,Q3,Europe,Software,Direct,Enterprise,Rep_15,Closed Won,31331.08,18550.96,12780.12,40.79,1,3.7
+DL-00826,2023-11-16,2023,11,Q4,Latin America,Electronics,Reseller,SMB,Rep_18,In Progress,24579.62,14463.0,10116.62,41.16,2,4.7
+DL-00827,2023-01-24,2023,1,Q1,North America,Services,Direct,Enterprise,Rep_18,Closed Won,6859.53,4100.46,2759.07,40.22,1,3.8
+DL-00828,2022-12-11,2022,12,Q4,North America,Consulting,Direct,Enterprise,Rep_20,Closed Won,19071.88,13961.51,5110.37,26.8,1,3.6
+DL-00829,2022-01-30,2022,1,Q1,Asia Pacific,Electronics,Direct,Enterprise,Rep_09,Closed Lost,10450.06,7480.01,2970.05,28.42,1,4.7
+DL-00830,2023-05-22,2023,5,Q2,Europe,Services,Direct,Mid-Market,Rep_02,Closed Won,8397.53,5932.86,2464.67,29.35,1,5.0
+DL-00831,2022-11-29,2022,11,Q4,North America,Electronics,Partner,Mid-Market,Rep_08,In Progress,9706.28,6605.08,3101.2,31.95,1,3.0
+DL-00832,2022-07-06,2022,7,Q3,Europe,Services,Partner,SMB,Rep_20,Closed Lost,7118.32,5197.8,1920.52,26.98,1,4.1
+DL-00833,2023-05-15,2023,5,Q2,North America,Software,Direct,SMB,Rep_02,Closed Won,38835.45,16872.96,21962.49,56.55,1,2.9
+DL-00834,2022-08-06,2022,8,Q3,North America,Consulting,Direct,Startup,Rep_11,Closed Won,28589.06,14088.49,14500.57,50.72,1,4.2
+DL-00835,2022-12-30,2022,12,Q4,Europe,Services,Direct,Enterprise,Rep_07,Closed Won,11657.32,6682.79,4974.53,42.67,1,3.2
+DL-00836,2022-09-22,2022,9,Q3,Europe,Software,Direct,Enterprise,Rep_06,Closed Won,18982.5,13217.27,5765.23,30.37,1,4.8
+DL-00837,2022-12-15,2022,12,Q4,Latin America,Electronics,Direct,Enterprise,Rep_10,Closed Lost,11021.72,6357.42,4664.3,42.32,1,3.7
+DL-00838,2022-10-14,2022,10,Q4,Europe,Electronics,Reseller,Mid-Market,Rep_05,In Progress,17302.1,11450.74,5851.36,33.82,1,3.8
+DL-00839,2023-09-03,2023,9,Q3,Europe,Electronics,Partner,Startup,Rep_11,Closed Won,15975.9,7167.36,8808.54,55.14,1,5.0
+DL-00840,2023-12-20,2023,12,Q4,Asia Pacific,Electronics,Partner,Enterprise,Rep_01,Closed Won,22132.42,10808.25,11324.17,51.17,1,3.2
+DL-00841,2022-10-10,2022,10,Q4,North America,Hardware,Partner,Mid-Market,Rep_02,Closed Lost,15336.54,10062.64,5273.9,34.39,2,4.3
+DL-00842,2023-07-24,2023,7,Q3,Asia Pacific,Services,Partner,Mid-Market,Rep_01,In Progress,7077.2,3238.93,3838.27,54.23,1,3.3
+DL-00843,2022-01-11,2022,1,Q1,North America,Software,Partner,Enterprise,Rep_19,Closed Won,38454.21,20110.57,18343.64,47.7,1,4.8
+DL-00844,2023-06-14,2023,6,Q2,Middle East,Electronics,Online,SMB,Rep_02,Closed Won,8742.07,4307.25,4434.82,50.73,1,5.0
+DL-00845,2022-07-15,2022,7,Q3,North America,Hardware,Online,SMB,Rep_20,Closed Lost,22563.44,11788.31,10775.13,47.75,3,3.6
+DL-00846,2022-03-29,2022,3,Q1,Europe,Services,Direct,Startup,Rep_04,Closed Won,6749.26,4372.94,2376.32,35.21,1,2.0
+DL-00847,2022-09-05,2022,9,Q3,North America,Electronics,Partner,Enterprise,Rep_12,Closed Won,21186.53,11202.3,9984.23,47.13,1,3.2
+DL-00848,2023-02-21,2023,2,Q1,Middle East,Services,Partner,Mid-Market,Rep_20,In Progress,5806.42,3451.0,2355.42,40.57,1,5.0
+DL-00849,2023-05-16,2023,5,Q2,Europe,Software,Reseller,Enterprise,Rep_18,Closed Lost,23169.35,10078.11,13091.24,56.5,1,3.3
+DL-00850,2023-07-23,2023,7,Q3,Europe,Electronics,Partner,Mid-Market,Rep_01,Closed Lost,32489.49,22149.91,10339.58,31.82,2,5.0
+DL-00851,2022-09-04,2022,9,Q3,North America,Software,Partner,SMB,Rep_01,In Progress,16610.31,8794.51,7815.8,47.05,1,3.3
+DL-00852,2023-12-09,2023,12,Q4,Asia Pacific,Software,Direct,SMB,Rep_14,Closed Lost,75261.51,47187.99,28073.52,37.3,3,3.3
+DL-00853,2023-05-03,2023,5,Q2,North America,Electronics,Partner,Mid-Market,Rep_04,Closed Won,14960.49,9782.46,5178.03,34.61,1,4.4
+DL-00854,2023-10-24,2023,10,Q4,Latin America,Consulting,Direct,Mid-Market,Rep_05,Closed Won,48864.62,23131.6,25733.02,52.66,2,4.3
+DL-00855,2023-12-30,2023,12,Q4,North America,Hardware,Direct,Mid-Market,Rep_11,Closed Won,9785.62,6944.23,2841.39,29.04,1,4.5
+DL-00856,2023-05-18,2023,5,Q2,North America,Services,Direct,Enterprise,Rep_13,Closed Won,12567.39,7737.47,4829.92,38.43,1,3.8
+DL-00857,2023-04-04,2023,4,Q2,North America,Software,Online,Mid-Market,Rep_16,Closed Lost,12253.59,6740.13,5513.46,44.99,1,4.6
+DL-00858,2022-01-18,2022,1,Q1,Europe,Software,Direct,Enterprise,Rep_13,In Progress,19736.1,9153.94,10582.16,53.62,1,4.6
+DL-00859,2022-04-06,2022,4,Q2,Europe,Services,Direct,SMB,Rep_02,On Hold,18184.57,13271.2,4913.37,27.02,2,4.7
+DL-00860,2022-10-29,2022,10,Q4,North America,Software,Reseller,SMB,Rep_16,Closed Lost,21046.1,13980.37,7065.73,33.57,1,3.3
+DL-00861,2022-08-15,2022,8,Q3,Asia Pacific,Electronics,Direct,SMB,Rep_06,Closed Won,16078.23,7601.93,8476.3,52.72,1,4.6
+DL-00862,2023-02-19,2023,2,Q1,Europe,Software,Partner,SMB,Rep_14,Closed Won,11532.45,5976.1,5556.35,48.18,1,
+DL-00863,2023-12-10,2023,12,Q4,Europe,Hardware,Partner,Startup,Rep_01,In Progress,6114.44,4178.52,1935.92,31.66,1,3.7
+DL-00864,2022-09-07,2022,9,Q3,Europe,Software,Direct,Enterprise,Rep_17,Closed Lost,43833.37,28206.21,15627.16,35.65,2,3.7
+DL-00865,2022-11-10,2022,11,Q4,Europe,Electronics,Online,Mid-Market,Rep_11,Closed Lost,7898.99,5276.72,2622.27,33.2,1,3.0
+DL-00866,2023-11-11,2023,11,Q4,Europe,Hardware,Direct,SMB,Rep_19,In Progress,11449.9,6348.06,5101.84,44.56,1,2.4
+DL-00867,2023-08-19,2023,8,Q3,North America,Electronics,Partner,Enterprise,Rep_03,In Progress,16394.39,10668.92,5725.47,34.92,1,4.8
+DL-00868,2023-01-13,2023,1,Q1,North America,Electronics,Partner,Enterprise,Rep_11,In Progress,13330.74,7135.58,6195.16,46.47,1,3.2
+DL-00869,2023-04-30,2023,4,Q2,Latin America,Electronics,Partner,Startup,Rep_05,Closed Won,13040.87,6180.62,6860.25,52.61,1,3.6
+DL-00870,2023-07-21,2023,7,Q3,Middle East,Software,Online,Mid-Market,Rep_17,In Progress,19557.54,12153.78,7403.76,37.86,1,3.2
+DL-00871,2023-06-28,2023,6,Q2,Europe,Hardware,Direct,Startup,Rep_07,In Progress,6543.39,4852.61,1690.78,,1,3.6
+DL-00872,2022-12-19,2022,12,Q4,North America,Software,Direct,Startup,Rep_10,Closed Won,39795.19,20244.22,19550.97,49.13,1,3.4
+DL-00873,2023-03-12,2023,3,Q1,Asia Pacific,Electronics,Online,Enterprise,Rep_11,Closed Lost,12085.76,6784.21,5301.55,43.87,1,4.8
+DL-00874,2023-07-18,2023,7,Q3,Europe,Hardware,Partner,SMB,Rep_03,Closed Won,19751.64,12560.08,7191.56,36.41,3,3.3
+DL-00875,2022-12-05,2022,12,Q4,North America,Hardware,Online,Mid-Market,Rep_20,On Hold,9292.5,5478.18,3814.32,41.05,1,5.0
+DL-00876,2022-12-27,2022,12,Q4,North America,Hardware,Online,SMB,Rep_10,Closed Won,5997.31,4169.33,1827.98,30.48,1,4.7
+DL-00877,2023-12-21,2023,12,Q4,Asia Pacific,Electronics,Online,SMB,Rep_10,Closed Lost,24403.66,16267.72,8135.94,33.34,2,3.4
+DL-00878,2023-04-10,2023,4,Q2,Asia Pacific,Software,Partner,SMB,Rep_14,Closed Won,34152.09,14357.68,19794.41,57.96,1,4.1
+DL-00879,2022-10-05,2022,10,Q4,North America,Consulting,Direct,SMB,Rep_12,In Progress,13119.62,9832.47,3287.15,25.06,1,4.2
+DL-00880,2022-11-10,2022,11,Q4,North America,Hardware,Online,SMB,Rep_15,Closed Won,4769.33,3163.69,1605.64,33.67,1,4.5
+DL-00881,2022-09-15,2022,9,Q3,North America,Electronics,Partner,Enterprise,Rep_10,Closed Won,14158.85,9944.7,4214.15,29.76,1,4.6
+DL-00882,2022-08-25,2022,8,Q3,Asia Pacific,Electronics,,SMB,Rep_10,Closed Lost,6795.4,4266.96,2528.44,37.21,1,3.9
+DL-00883,2022-05-04,2022,5,Q2,North America,Software,Reseller,SMB,Rep_19,On Hold,71103.8,49751.31,21352.49,30.03,3,3.0
+DL-00884,2022-07-17,2022,7,Q3,North America,Consulting,Reseller,SMB,Rep_01,Closed Won,45255.01,19882.07,25372.94,56.07,1,4.3
+DL-00885,2022-11-20,2022,11,Q4,Asia Pacific,Software,Partner,Enterprise,Rep_10,Closed Won,24833.89,12956.05,11877.84,47.83,1,3.6
+DL-00886,2022-05-03,2022,5,Q2,North America,Software,Direct,Mid-Market,Rep_02,In Progress,21063.1,14886.29,6176.81,29.33,1,1.6
+DL-00887,2023-07-03,2023,7,Q3,Asia Pacific,Electronics,Direct,Enterprise,Rep_17,Closed Lost,11114.14,5230.08,5884.06,52.94,1,4.1
+DL-00888,2023-12-08,2023,12,Q4,North America,Services,Online,SMB,Rep_07,On Hold,3745.55,1600.79,2144.76,57.26,1,3.2
+DL-00889,2022-07-09,2022,7,Q3,North America,Hardware,Reseller,Mid-Market,Rep_07,Closed Won,3363.58,2273.25,1090.33,32.42,1,3.4
+DL-00890,2022-07-16,2022,7,Q3,North America,Software,Direct,SMB,Rep_20,Closed Lost,64678.98,44785.03,19893.95,30.76,3,3.8
+DL-00891,2022-08-10,2022,8,Q3,Asia Pacific,Hardware,Direct,Enterprise,Rep_09,Closed Won,17570.85,8028.62,9542.23,54.31,2,2.6
+DL-00892,2023-05-11,2023,5,Q2,Latin America,Consulting,Reseller,Mid-Market,Rep_02,Closed Won,22495.35,15724.72,6770.63,30.1,1,3.9
+DL-00893,2022-10-11,2022,10,Q4,Latin America,Electronics,Direct,SMB,Rep_14,Closed Lost,23618.96,15124.84,8494.12,35.96,1,3.5
+DL-00894,2023-08-27,2023,8,Q3,Europe,Software,Partner,Mid-Market,Rep_17,Closed Lost,32203.86,18743.58,13460.28,,1,3.1
+DL-00895,2023-06-22,2023,6,Q2,Asia Pacific,Electronics,Reseller,Mid-Market,Rep_01,In Progress,20495.27,14153.78,6341.49,30.94,1,3.8
+DL-00896,2023-09-04,2023,9,Q3,North America,Hardware,Direct,SMB,Rep_09,Closed Won,3922.98,2144.84,1778.14,45.33,1,2.4
+DL-00897,2022-10-17,2022,10,Q4,North America,Services,Partner,SMB,Rep_20,Closed Won,4049.11,1894.57,2154.54,53.21,1,3.9
+DL-00898,2022-04-13,2022,4,Q2,Latin America,Services,Direct,Enterprise,Rep_19,Closed Won,18063.3,9026.2,9037.1,50.03,2,4.2
+DL-00899,2022-07-18,2022,7,Q3,North America,Hardware,Direct,Enterprise,Rep_04,On Hold,2973.66,1715.23,1258.43,42.32,1,4.0
+DL-00900,2022-10-31,2022,10,Q4,North America,Software,Online,SMB,Rep_08,Closed Won,23214.55,13602.93,9611.62,41.4,1,4.4
+DL-00901,2022-08-21,2022,8,Q3,North America,Consulting,Partner,SMB,Rep_13,Closed Won,24961.79,17022.77,7939.02,31.8,1,4.7
+DL-00902,2023-01-05,2023,1,Q1,North America,Software,Reseller,SMB,Rep_04,Closed Won,19861.84,13445.94,6415.9,32.3,1,3.7
+DL-00903,2022-07-03,2022,7,Q3,North America,Electronics,Partner,Enterprise,Rep_09,Closed Lost,17553.89,10593.39,6960.5,39.65,1,4.7
+DL-00904,2022-11-06,2022,11,Q4,Europe,Services,Direct,Enterprise,Rep_09,Closed Won,7126.28,4797.95,2328.33,32.67,1,3.7
+DL-00905,2022-01-15,2022,1,Q1,Europe,Hardware,Direct,SMB,Rep_18,On Hold,9750.41,4554.62,5195.79,53.29,1,3.2
+DL-00906,2023-12-27,2023,12,Q4,Latin America,Software,Direct,Enterprise,Rep_12,Closed Won,26828.2,11201.38,15626.82,58.25,1,3.5
+DL-00907,2023-07-01,2023,7,Q3,Latin America,Hardware,Direct,Mid-Market,Rep_10,In Progress,22846.72,16124.57,6722.15,29.42,3,4.0
+DL-00908,2022-05-10,2022,5,Q2,North America,Consulting,Direct,Enterprise,Rep_11,Closed Won,15006.64,6399.49,8607.15,57.36,1,4.7
+DL-00909,2022-10-08,2022,10,Q4,North America,Electronics,Direct,SMB,Rep_07,Closed Lost,15221.13,7402.66,7818.47,51.37,1,3.8
+DL-00910,2022-02-16,2022,2,Q1,Europe,Consulting,Partner,Startup,Rep_09,On Hold,37220.88,23946.49,13274.39,35.66,1,3.3
+DL-00911,2022-02-25,2022,2,Q1,Europe,Electronics,Online,Enterprise,Rep_06,Closed Won,13195.14,7169.01,6026.13,45.67,1,5.0
+DL-00912,2023-07-21,2023,7,Q3,North America,Electronics,Online,SMB,Rep_19,On Hold,7686.86,5432.38,2254.48,29.33,1,2.7
+DL-00913,2022-10-27,2022,10,Q4,Asia Pacific,Electronics,Online,Enterprise,Rep_16,Closed Lost,28123.39,14182.43,13940.96,49.57,2,3.3
+DL-00914,2023-12-16,2023,12,Q4,Europe,Hardware,Direct,SMB,Rep_15,On Hold,9467.91,3826.5,5641.41,59.58,1,4.5
+DL-00915,2022-05-10,2022,5,Q2,Europe,Services,Direct,SMB,Rep_07,Closed Lost,5307.58,2681.55,2626.03,49.48,1,5.0
+DL-00916,2023-10-16,2023,10,Q4,Europe,Electronics,Online,SMB,Rep_16,Closed Won,18678.71,11250.68,7428.03,39.77,1,4.2
+DL-00917,2023-05-18,2023,5,Q2,North America,Software,Partner,SMB,Rep_05,Closed Won,58536.99,31117.0,27419.99,46.84,2,4.0
+DL-00918,2022-04-16,2022,4,Q2,Middle East,Services,Direct,Mid-Market,Rep_16,Closed Won,9820.06,5766.39,4053.67,,1,3.6
+DL-00919,2022-01-13,2022,1,Q1,Asia Pacific,Electronics,Online,Enterprise,Rep_01,Closed Won,14983.41,10590.41,4393.0,29.32,1,4.2
+DL-00920,2023-08-11,2023,8,Q3,North America,Hardware,Online,Enterprise,Rep_19,Closed Won,17521.77,12604.63,4917.14,28.06,2,3.9
+DL-00921,2022-10-19,2022,10,Q4,Latin America,Hardware,Partner,Mid-Market,Rep_05,Closed Won,4924.63,2428.29,2496.34,50.69,1,3.2
+DL-00922,2023-04-26,2023,4,Q2,Europe,Software,Direct,SMB,Rep_07,Closed Won,59302.52,33313.14,25989.38,43.83,2,3.6
+DL-00923,2023-05-06,2023,5,Q2,Latin America,Consulting,Online,Mid-Market,Rep_19,In Progress,48796.22,28897.14,19899.08,40.78,2,3.1
+DL-00924,2023-03-28,2023,3,Q1,Asia Pacific,Software,Partner,SMB,Rep_05,Closed Won,15748.83,11531.13,4217.7,26.78,1,3.8
+DL-00925,2022-12-15,2022,12,Q4,Europe,Consulting,Online,Mid-Market,Rep_17,Closed Won,21478.72,16098.65,5380.07,25.05,1,3.9
+DL-00926,2022-07-08,2022,7,Q3,North America,Services,Online,SMB,Rep_08,Closed Lost,7691.98,3710.55,3981.43,51.76,1,5.0
+DL-00927,2022-02-22,2022,2,Q1,North America,Services,Online,Mid-Market,Rep_01,Closed Won,3998.03,2616.48,1381.55,34.56,1,3.3
+DL-00928,2022-09-16,2022,9,Q3,Europe,Electronics,Partner,Startup,Rep_02,Closed Won,17086.46,9095.31,7991.15,46.77,1,3.7
+DL-00929,2023-05-05,2023,5,Q2,Asia Pacific,Hardware,Direct,SMB,Rep_15,Closed Won,5155.0,2076.63,3078.37,59.72,1,4.8
+DL-00930,2022-04-27,2022,4,Q2,North America,Software,Online,Enterprise,Rep_20,On Hold,28995.81,11692.22,17303.59,59.68,1,5.0
+DL-00931,2022-03-08,2022,3,Q1,North America,Electronics,Partner,Enterprise,Rep_18,In Progress,7866.23,4414.51,3451.72,43.88,1,4.2
+DL-00932,2023-02-15,2023,2,Q1,Latin America,Electronics,Online,Enterprise,Rep_11,Closed Won,23796.94,13586.08,10210.86,42.91,1,3.6
+DL-00933,2023-05-19,2023,5,Q2,Middle East,Services,Direct,Enterprise,Rep_10,Closed Lost,14460.17,5898.29,8561.88,59.21,1,3.4
+DL-00934,2022-03-17,2022,3,Q1,Europe,Software,Direct,Enterprise,Rep_04,Closed Lost,17565.49,11249.37,6316.12,,1,2.3
+DL-00935,2023-08-14,2023,8,Q3,North America,Services,Reseller,SMB,Rep_05,Closed Lost,11970.07,6019.76,5950.31,49.71,1,3.1
+DL-00936,2023-10-07,2023,10,Q4,North America,Hardware,Online,SMB,Rep_04,Closed Lost,8338.65,4969.52,3369.13,40.4,1,3.9
+DL-00937,2023-12-04,2023,12,Q4,North America,Electronics,Reseller,SMB,Rep_13,Closed Lost,31475.2,15905.1,15570.1,49.47,2,3.7
+DL-00938,2022-02-24,2022,2,Q1,Latin America,Services,Online,SMB,Rep_13,Closed Won,5967.6,2736.13,3231.47,54.15,1,4.3
+DL-00939,2022-06-05,2022,6,Q2,North America,Electronics,Partner,Enterprise,Rep_18,Closed Won,13900.17,7540.99,6359.18,45.75,1,3.6
+DL-00940,2022-06-02,2022,6,Q2,Europe,Hardware,Online,Enterprise,Rep_02,Closed Lost,5807.21,2794.99,3012.22,51.87,1,3.2
+DL-00941,2023-07-31,2023,7,Q3,North America,Hardware,Reseller,Enterprise,Rep_16,In Progress,8181.3,4803.9,3377.4,41.28,1,4.1
+DL-00942,2022-11-08,2022,11,Q4,Europe,Software,Partner,SMB,Rep_01,Closed Lost,32639.15,15327.02,17312.13,53.04,1,5.0
+DL-00943,2022-03-29,2022,3,Q1,Asia Pacific,Services,Partner,Enterprise,Rep_19,In Progress,7218.75,4172.02,3046.73,42.21,1,3.5
+DL-00944,2022-09-12,2022,9,Q3,Latin America,Software,Direct,Enterprise,Rep_09,On Hold,20838.93,9483.43,11355.5,54.49,1,3.9
+DL-00945,2022-05-02,2022,5,Q2,North America,Software,Partner,SMB,Rep_03,Closed Won,40524.07,25726.35,14797.72,36.52,2,4.5
+DL-00946,2023-07-26,2023,7,Q3,North America,Hardware,Online,Mid-Market,Rep_07,Closed Lost,15769.91,10469.3,5300.61,33.61,2,3.3
+DL-00947,2023-03-03,2023,3,Q1,North America,Software,Direct,Enterprise,Rep_10,Closed Lost,31996.73,14034.98,17961.75,56.14,1,4.8
+DL-00948,2023-09-13,2023,9,Q3,Latin America,Software,Direct,SMB,Rep_01,On Hold,23333.6,13153.87,10179.73,43.63,1,2.5
+DL-00949,2023-09-03,2023,9,Q3,Latin America,Software,Direct,Mid-Market,Rep_10,On Hold,22249.67,9451.77,12797.9,57.52,1,3.5
+DL-00950,2023-09-26,2023,9,Q3,Europe,Hardware,,Mid-Market,Rep_09,Closed Lost,10522.38,6411.96,4110.42,39.06,1,3.6
+DL-00951,2022-08-20,2022,8,Q3,Asia Pacific,Software,Direct,Startup,Rep_15,Closed Won,28015.54,13798.82,14216.72,50.75,1,3.9
+DL-00952,2023-06-20,2023,6,Q2,Asia Pacific,Electronics,Partner,Enterprise,Rep_15,In Progress,6576.89,3845.3,2731.59,41.53,1,2.2
+DL-00953,2023-01-25,2023,1,Q1,North America,Services,Reseller,Enterprise,Rep_03,Closed Won,13313.49,7736.62,5576.87,41.89,1,4.9
+DL-00954,2023-04-07,2023,4,Q2,Latin America,Hardware,Partner,Mid-Market,Rep_05,In Progress,5202.59,3764.2,1438.39,,1,4.1
+DL-00955,2023-03-30,2023,3,Q1,Europe,Electronics,Direct,SMB,Rep_09,On Hold,7385.97,4373.82,3012.15,40.78,1,4.7
+DL-00956,2022-11-01,2022,11,Q4,Europe,Electronics,Direct,SMB,Rep_09,Closed Won,6513.51,3934.48,2579.03,39.6,1,5.0
+DL-00957,2023-08-26,2023,8,Q3,Europe,Electronics,Online,Mid-Market,Rep_07,Closed Lost,13463.71,7278.19,6185.52,45.94,1,3.2
+DL-00958,2023-03-16,2023,3,Q1,North America,Software,,Mid-Market,Rep_12,Closed Won,15038.5,11010.86,4027.64,26.78,1,1.8
+DL-00959,2022-11-09,2022,11,Q4,North America,Software,Online,Startup,Rep_09,Closed Won,7812.27,5249.96,2562.31,32.8,1,4.7
+DL-00960,2023-08-06,2023,8,Q3,Asia Pacific,Services,Online,Startup,Rep_06,Closed Won,8359.15,4178.67,4180.48,50.01,1,3.6
+DL-00961,2023-09-28,2023,9,Q3,North America,Services,Online,Mid-Market,Rep_02,In Progress,7824.81,5441.95,2382.86,30.45,1,2.9
+DL-00962,2022-03-03,2022,3,Q1,Asia Pacific,Services,Direct,Enterprise,Rep_09,On Hold,9277.89,5115.26,4162.63,44.87,1,4.3
+DL-00963,2023-09-17,2023,9,Q3,North America,Software,Online,Mid-Market,Rep_17,On Hold,18254.78,12596.41,5658.37,31.0,1,5.0
+DL-00964,2022-04-12,2022,4,Q2,Europe,Hardware,Direct,Enterprise,Rep_01,Closed Won,19967.51,13737.86,6229.65,31.2,3,3.7
+DL-00965,2022-08-01,2022,8,Q3,North America,Software,Reseller,Enterprise,Rep_19,In Progress,32380.11,15092.52,17287.59,53.39,1,4.6
+DL-00966,2023-10-03,2023,10,Q4,Europe,Consulting,Partner,Mid-Market,Rep_06,In Progress,23368.54,15082.04,8286.5,35.46,1,3.0
+DL-00967,2022-08-05,2022,8,Q3,Asia Pacific,Services,Direct,Enterprise,Rep_05,Closed Won,9686.87,4860.15,4826.72,49.83,1,2.5
+DL-00968,2022-09-28,2022,9,Q3,North America,Electronics,Direct,Enterprise,Rep_02,Closed Won,30428.25,15339.56,15088.69,49.59,2,4.5
+DL-00969,2023-11-08,2023,11,Q4,Europe,Services,Direct,Enterprise,Rep_09,Closed Won,16133.48,8126.79,8006.69,49.63,2,4.2
+DL-00970,2022-03-25,2022,3,Q1,Europe,Software,Online,Mid-Market,Rep_14,On Hold,12438.17,8133.93,4304.24,34.61,1,3.4
+DL-00971,2022-06-10,2022,6,Q2,Asia Pacific,Services,Direct,SMB,Rep_04,Closed Lost,6143.78,2951.71,3192.07,51.96,1,
+DL-00972,2022-09-03,2022,9,Q3,Middle East,Electronics,Partner,Mid-Market,Rep_04,In Progress,10146.48,4061.81,6084.67,59.97,1,2.4
+DL-00973,2022-06-27,2022,6,Q2,Asia Pacific,Electronics,Direct,Enterprise,Rep_15,Closed Won,12039.59,7829.74,4209.85,34.97,1,2.8
+DL-00974,2023-07-20,2023,7,Q3,North America,Hardware,Online,Mid-Market,Rep_08,In Progress,5940.12,2731.95,3208.17,54.01,1,3.4
+DL-00975,2022-03-18,2022,3,Q1,North America,Electronics,Online,Mid-Market,Rep_04,Closed Won,15257.25,6660.84,8596.41,56.34,1,3.5
+DL-00976,2022-06-10,2022,6,Q2,North America,Hardware,Online,Enterprise,Rep_16,Closed Won,11557.13,5583.6,5973.53,51.69,1,5.0
+DL-00977,2022-01-03,2022,1,Q1,Europe,Electronics,Online,SMB,Rep_04,Closed Lost,23555.99,12554.52,11001.47,46.7,1,3.8
+DL-00978,2023-02-23,2023,2,Q1,North America,Services,Direct,Enterprise,Rep_16,Closed Won,8492.53,4811.59,3680.94,43.34,1,3.6
+DL-00979,2023-04-07,2023,4,Q2,Europe,Services,Direct,Startup,Rep_12,In Progress,4416.02,1835.3,2580.72,58.44,1,2.8
+DL-00980,2023-12-07,2023,12,Q4,Europe,Software,Online,SMB,Rep_16,Closed Won,14859.97,10991.93,3868.04,26.03,1,4.7
+DL-00981,2023-09-01,2023,9,Q3,North America,Software,Direct,Startup,Rep_19,Closed Lost,19278.46,12542.99,6735.47,34.94,1,2.9
+DL-00982,2023-04-27,2023,4,Q2,Asia Pacific,Electronics,Partner,Enterprise,Rep_08,Closed Won,8048.88,4130.02,3918.86,48.69,1,2.8
+DL-00983,2022-10-26,2022,10,Q4,North America,Electronics,Direct,Mid-Market,Rep_06,Closed Lost,26535.4,13574.03,12961.37,48.85,2,3.5
+DL-00984,2022-02-03,2022,2,Q1,North America,Software,Direct,Mid-Market,Rep_10,Closed Won,13861.36,7720.64,6140.72,44.3,1,3.9
+DL-00985,2022-08-26,2022,8,Q3,Asia Pacific,Services,Direct,Mid-Market,Rep_05,Closed Won,13614.24,8429.74,5184.5,38.08,1,3.2
+DL-00986,2022-10-23,2022,10,Q4,Europe,Consulting,Reseller,Startup,Rep_18,On Hold,12939.14,5838.54,7100.6,54.88,1,4.4
+DL-00987,2023-12-25,2023,12,Q4,Asia Pacific,Hardware,Direct,SMB,Rep_10,Closed Won,11112.18,5179.67,5932.51,53.39,1,3.6
+DL-00988,2022-10-17,2022,10,Q4,Europe,Hardware,Partner,Enterprise,Rep_10,In Progress,7461.88,5229.3,2232.58,29.92,1,4.6
+DL-00989,2023-12-21,2023,12,Q4,North America,Hardware,Direct,Mid-Market,Rep_07,On Hold,17042.44,8345.5,8696.94,51.03,2,4.2
+DL-00990,2023-04-10,2023,4,Q2,Latin America,Services,Online,Mid-Market,Rep_18,Closed Won,5679.16,3027.38,2651.78,46.69,1,5.0
+DL-00991,2022-03-14,2022,3,Q1,Asia Pacific,Electronics,Direct,SMB,Rep_01,Closed Won,11313.46,7975.37,3338.09,29.51,1,3.4
+DL-00992,2023-12-05,2023,12,Q4,Asia Pacific,Consulting,Reseller,Enterprise,Rep_07,Closed Lost,24927.74,15756.87,9170.87,36.79,1,4.5
+DL-00993,2022-08-28,2022,8,Q3,North America,Services,Reseller,SMB,Rep_01,On Hold,9265.84,4814.52,4451.32,48.04,1,2.4
+DL-00994,2022-09-28,2022,9,Q3,Europe,Services,Direct,Enterprise,Rep_15,On Hold,8411.46,5377.4,3034.06,36.07,1,5.0
+DL-00995,2023-10-03,2023,10,Q4,Europe,Electronics,Reseller,SMB,Rep_04,Closed Lost,12739.54,5183.58,7555.96,59.31,1,4.4
+DL-00996,2023-08-27,2023,8,Q3,North America,Software,Reseller,SMB,Rep_20,In Progress,21059.35,13845.99,7213.36,34.25,1,3.6
+DL-00997,2023-11-09,2023,11,Q4,Latin America,Software,Online,Mid-Market,Rep_10,Closed Won,8875.42,5063.03,3812.39,42.95,1,3.6
+DL-00998,2022-07-22,2022,7,Q3,North America,Hardware,Online,Enterprise,Rep_09,On Hold,13145.89,8999.86,4146.03,31.54,2,3.6
+DL-00999,2023-03-12,2023,3,Q1,Middle East,Software,Direct,SMB,Rep_02,On Hold,104526.86,76735.59,27791.27,26.59,5,5.0
+DL-01000,2022-04-28,2022,4,Q2,Europe,Software,Partner,Enterprise,Rep_14,Closed Won,29020.76,21011.78,8008.98,27.6,1,4.5
+DL-01001,2023-07-12,2023,7,Q3,North America,Consulting,Direct,Enterprise,Rep_16,Closed Won,17001.85,12211.46,4790.39,28.18,1,3.4
+DL-01002,2022-08-19,2022,8,Q3,Europe,Electronics,Direct,Mid-Market,Rep_01,Closed Won,8942.19,5179.85,3762.34,42.07,1,2.8
+DL-01003,2023-10-26,2023,10,Q4,Latin America,Software,Reseller,Startup,Rep_02,Closed Won,33969.49,17869.64,16099.85,47.4,1,4.8
+DL-01004,2022-06-02,2022,6,Q2,Asia Pacific,Electronics,Direct,SMB,Rep_07,In Progress,18188.42,10235.76,7952.66,43.72,1,4.5
+DL-01005,2022-09-30,2022,9,Q3,Latin America,Services,Online,Mid-Market,Rep_10,Closed Won,8674.95,5564.66,3110.29,35.85,1,4.4
+DL-01006,2022-05-26,2022,5,Q2,Asia Pacific,Consulting,Online,Mid-Market,Rep_20,Closed Won,43724.11,31017.85,12706.26,29.06,1,3.7
+DL-01007,2022-03-15,2022,3,Q1,Asia Pacific,Electronics,Reseller,Mid-Market,Rep_01,Closed Won,5344.71,2525.08,2819.63,52.76,1,3.6
+DL-01008,2022-03-03,2022,3,Q1,Latin America,Hardware,Reseller,Enterprise,Rep_13,On Hold,11663.6,8413.74,3249.86,27.86,1,5.0
+DL-01009,2022-06-19,2022,6,Q2,North America,Electronics,Direct,Startup,Rep_01,Closed Lost,16893.53,11577.36,5316.17,31.47,1,5.0
+DL-01010,2022-11-11,2022,11,Q4,Europe,Consulting,Direct,SMB,Rep_05,Closed Won,18232.82,13539.68,4693.14,25.74,1,4.3
+DL-01011,2023-09-02,2023,9,Q3,North America,Hardware,Partner,Enterprise,Rep_16,Closed Won,3907.04,2766.53,1140.51,29.19,1,4.6
+DL-01012,2023-08-06,2023,8,Q3,Middle East,Hardware,Direct,Enterprise,Rep_15,On Hold,8500.33,4232.98,4267.35,50.2,1,4.0
+DL-01013,2022-10-23,2022,10,Q4,Middle East,Electronics,Direct,SMB,Rep_17,In Progress,30315.81,13250.57,17065.24,56.29,2,2.7
+DL-01014,2023-03-26,2023,3,Q1,North America,Consulting,Direct,Enterprise,Rep_16,Closed Won,26766.49,11758.1,15008.39,56.07,1,3.0
+DL-01015,2022-05-08,2022,5,Q2,Asia Pacific,Services,Online,Enterprise,Rep_13,Closed Won,6528.93,3277.05,3251.88,49.81,1,4.7
+DL-01016,2023-04-25,2023,4,Q2,Middle East,Software,Partner,Enterprise,Rep_11,Closed Won,27509.19,16917.17,10592.02,38.5,1,4.8
+DL-01017,2023-12-07,2023,12,Q4,North America,Hardware,Direct,Mid-Market,Rep_17,Closed Won,19883.25,13550.68,6332.57,31.85,3,4.6
+DL-01018,2022-11-08,2022,11,Q4,Europe,Electronics,Online,Mid-Market,Rep_17,Closed Lost,18610.02,13301.28,5308.74,28.53,1,4.1
+DL-01019,2023-12-18,2023,12,Q4,Latin America,Hardware,Direct,Enterprise,Rep_02,On Hold,10476.58,6477.81,3998.77,38.17,1,4.7
+DL-01020,2023-02-17,2023,2,Q1,North America,Electronics,Direct,Mid-Market,Rep_13,Closed Lost,27645.13,11112.54,16532.59,59.8,2,3.8
+DL-01021,2022-10-06,2022,10,Q4,Asia Pacific,Services,Online,Mid-Market,Rep_14,In Progress,12665.27,5892.02,6773.25,53.48,1,4.3
+DL-01022,2023-05-28,2023,5,Q2,North America,Software,Partner,Mid-Market,Rep_11,Closed Won,16918.22,7357.8,9560.42,56.51,1,3.6
+DL-01023,2023-07-07,2023,7,Q3,Middle East,Electronics,Online,Enterprise,Rep_10,In Progress,6269.95,3305.29,2964.66,47.28,1,3.0
+DL-01024,2023-05-21,2023,5,Q2,Middle East,Electronics,Direct,Mid-Market,Rep_03,In Progress,9461.43,5444.8,4016.63,42.45,1,4.5
+DL-01025,2023-03-25,2023,3,Q1,Middle East,Electronics,Online,Startup,Rep_17,Closed Won,8633.82,3584.67,5049.15,58.48,1,4.8
+DL-01026,2022-03-24,2022,3,Q1,Europe,Software,Partner,Mid-Market,Rep_15,Closed Won,34762.18,18144.72,16617.46,47.8,1,5.0
+DL-01027,2023-09-05,2023,9,Q3,Latin America,Software,Partner,Enterprise,Rep_09,Closed Lost,37264.82,17242.91,20021.91,53.73,1,4.0
+DL-01028,2022-02-10,2022,2,Q1,Latin America,Services,Partner,SMB,Rep_10,Closed Won,10917.54,6839.56,4077.98,37.35,1,3.0
+DL-01029,2023-03-19,2023,3,Q1,North America,Electronics,Reseller,SMB,Rep_08,Closed Won,7954.23,4474.22,3480.01,43.75,1,3.5
+DL-01030,2022-11-27,2022,11,Q4,Latin America,Electronics,Partner,SMB,Rep_13,Closed Lost,36647.63,21012.33,15635.3,42.66,3,3.7
+DL-01031,2023-09-11,2023,9,Q3,North America,Services,Partner,Enterprise,Rep_18,On Hold,8121.22,4464.17,3657.05,45.03,1,3.9
+DL-01032,2022-09-14,2022,9,Q3,Europe,Electronics,Reseller,Enterprise,Rep_05,Closed Lost,20283.15,14900.14,5383.01,26.54,1,4.2
+DL-01033,2022-01-27,2022,1,Q1,North America,Consulting,Online,Mid-Market,Rep_06,In Progress,30749.07,14610.64,16138.43,52.48,1,4.1
+DL-01034,2022-04-04,2022,4,Q2,North America,Hardware,Partner,Mid-Market,Rep_17,Closed Won,8879.75,5157.65,3722.1,41.92,1,4.4
+DL-01035,2022-08-23,2022,8,Q3,North America,Services,Online,Enterprise,Rep_11,In Progress,13285.55,8736.66,4548.89,34.24,1,4.0
+DL-01036,2023-11-22,2023,11,Q4,Asia Pacific,Services,Direct,Startup,Rep_20,Closed Lost,7060.92,4200.51,2860.41,40.51,1,2.0
+DL-01037,2023-08-13,2023,8,Q3,North America,Hardware,Direct,Enterprise,Rep_16,In Progress,15365.78,11142.61,4223.17,27.48,2,4.0
+DL-01038,2023-08-25,2023,8,Q3,Asia Pacific,Electronics,Partner,Mid-Market,Rep_09,Closed Won,6809.36,3624.55,3184.81,46.77,1,3.9
+DL-01039,2022-01-22,2022,1,Q1,North America,Electronics,Reseller,Mid-Market,Rep_02,Closed Lost,8924.25,5017.99,3906.26,43.77,1,4.2
+DL-01040,2023-11-20,2023,11,Q4,North America,Electronics,Reseller,Mid-Market,Rep_05,Closed Lost,28624.55,12336.69,16287.86,56.9,2,3.5
+DL-01041,2022-10-03,2022,10,Q4,Europe,Hardware,Direct,Startup,Rep_01,Closed Won,10745.04,6588.32,4156.72,38.69,1,4.0
+DL-01042,2023-08-14,2023,8,Q3,Asia Pacific,Electronics,Partner,Enterprise,Rep_04,Closed Won,53423.23,26758.32,26664.91,49.91,4,4.2
+DL-01043,2022-02-11,2022,2,Q1,North America,Services,Direct,Mid-Market,Rep_04,Closed Won,10347.66,4719.65,5628.01,54.39,1,3.7
+DL-01044,2022-06-29,2022,6,Q2,Asia Pacific,Consulting,Reseller,Enterprise,Rep_03,Closed Won,70204.47,41461.77,28742.7,40.94,2,4.3
+DL-01045,2023-04-27,2023,4,Q2,Latin America,Hardware,Reseller,Mid-Market,Rep_09,In Progress,3160.41,1852.98,1307.43,41.37,1,3.9
+DL-01046,2023-06-16,2023,6,Q2,Asia Pacific,Software,Partner,Mid-Market,Rep_12,Closed Won,12331.02,5259.86,7071.16,57.34,1,3.9
+DL-01047,2023-10-30,2023,10,Q4,North America,Electronics,Online,Mid-Market,Rep_10,Closed Won,23472.11,15124.85,8347.26,35.56,1,1.5
+DL-01048,2023-03-29,2023,3,Q1,North America,Hardware,Online,Enterprise,Rep_02,In Progress,3351.0,2071.99,1279.01,38.17,1,2.9
+DL-01049,2022-10-12,2022,10,Q4,Latin America,Services,Partner,Mid-Market,Rep_11,Closed Won,9060.29,4223.51,4836.78,53.38,1,2.9
+DL-01050,2022-07-05,2022,7,Q3,North America,Electronics,Direct,Enterprise,Rep_10,Closed Lost,26887.32,15172.57,11714.75,43.57,2,4.0
+DL-01051,2023-08-23,2023,8,Q3,Latin America,Electronics,Partner,Enterprise,Rep_06,Closed Won,19271.66,12567.3,6704.36,34.79,1,4.8
+DL-01052,2023-03-23,2023,3,Q1,Europe,Consulting,Online,Mid-Market,Rep_18,On Hold,30166.89,17656.76,12510.13,41.47,1,3.7
+DL-01053,2023-10-13,2023,10,Q4,Middle East,Services,Online,SMB,Rep_02,In Progress,7988.73,4301.3,3687.43,46.16,1,4.5
+DL-01054,2023-05-19,2023,5,Q2,Asia Pacific,Hardware,Direct,Mid-Market,Rep_02,In Progress,8851.21,4539.06,4312.15,48.72,1,4.3
+DL-01055,2022-04-04,2022,4,Q2,Middle East,Hardware,Reseller,SMB,Rep_10,Closed Won,10676.72,6551.64,4125.08,38.64,1,3.9
+DL-01056,2023-04-27,2023,4,Q2,Europe,Services,Direct,Enterprise,Rep_16,In Progress,7186.02,5236.37,1949.65,27.13,1,4.3
+DL-01057,2022-12-23,2022,12,Q4,Asia Pacific,Software,Partner,Mid-Market,Rep_12,Closed Won,30106.58,19121.01,10985.57,36.49,1,4.0
+DL-01058,2023-02-23,2023,2,Q1,Europe,Software,Online,SMB,Rep_01,Closed Won,42866.52,18268.04,24598.48,57.38,2,3.7
+DL-01059,2022-12-08,2022,12,Q4,Europe,Software,Online,Enterprise,Rep_08,Closed Won,22368.12,12553.88,9814.24,43.88,1,4.1
+DL-01060,2022-11-25,2022,11,Q4,Asia Pacific,Software,Partner,Mid-Market,Rep_16,Closed Lost,25866.2,18411.26,7454.94,28.82,1,5.0
+DL-01061,2023-11-18,2023,11,Q4,Latin America,Hardware,Direct,SMB,Rep_18,Closed Lost,10189.23,4412.57,5776.66,56.69,1,4.2
+DL-01062,2022-04-18,2022,4,Q2,Middle East,Services,Direct,SMB,Rep_13,Closed Lost,13174.09,9829.27,3344.82,25.39,1,4.0
+DL-01063,2022-06-14,2022,6,Q2,Asia Pacific,Hardware,Partner,SMB,Rep_15,Closed Won,12412.06,9087.79,3324.27,26.78,1,3.1
+DL-01064,2022-12-04,2022,12,Q4,Europe,Software,Partner,Mid-Market,Rep_12,Closed Won,15054.67,6434.31,8620.36,57.26,1,4.9
+DL-01065,2023-02-26,2023,2,Q1,Europe,Services,Direct,Mid-Market,Rep_08,In Progress,7676.19,5578.25,2097.94,27.33,1,2.7
+DL-01066,2023-12-12,2023,12,Q4,Asia Pacific,Services,Online,Mid-Market,Rep_10,Closed Won,7819.7,4121.74,3697.96,47.29,1,2.4
+DL-01067,2023-05-23,2023,5,Q2,North America,Services,Partner,Enterprise,Rep_14,In Progress,6363.82,4426.98,1936.84,30.44,1,4.1
+DL-01068,2022-10-23,2022,10,Q4,North America,Services,Online,Mid-Market,Rep_05,Closed Won,4068.92,2223.4,1845.52,45.36,1,3.1
+DL-01069,2023-11-10,2023,11,Q4,Europe,Electronics,Online,Mid-Market,Rep_18,In Progress,2947.07,1633.56,1313.51,44.57,1,4.7
+DL-01070,2023-02-15,2023,2,Q1,North America,Software,Direct,Mid-Market,Rep_19,Closed Lost,45449.52,28268.92,17180.6,37.8,2,2.5
+DL-01071,2023-07-18,2023,7,Q3,North America,Electronics,Direct,SMB,Rep_15,Closed Won,6897.12,4628.43,2268.69,32.89,1,4.6
+DL-01072,2022-02-07,2022,2,Q1,North America,Software,Online,Mid-Market,Rep_06,Closed Won,54714.59,22532.9,32181.69,58.82,2,4.5
+DL-01073,2023-04-11,2023,4,Q2,North America,Software,Partner,Mid-Market,Rep_11,Closed Lost,36182.68,21984.76,14197.92,39.24,1,3.9
+DL-01074,2022-04-01,2022,4,Q2,North America,Services,Online,Enterprise,Rep_11,In Progress,8164.05,3799.19,4364.86,53.46,1,2.1
+DL-01075,2022-11-19,2022,11,Q4,Middle East,Consulting,Online,SMB,Rep_20,Closed Won,40829.65,21275.61,19554.04,47.89,1,2.4
+DL-01076,2022-09-16,2022,9,Q3,Europe,Services,Online,Mid-Market,Rep_20,Closed Won,12368.49,6453.74,5914.75,47.82,1,4.0
+DL-01077,2022-11-28,2022,11,Q4,Europe,Services,Reseller,Enterprise,Rep_18,In Progress,5764.38,3252.1,2512.28,43.58,1,3.6
+DL-01078,2022-04-29,2022,4,Q2,Asia Pacific,Software,Partner,Startup,Rep_18,Closed Lost,24813.48,12827.27,11986.21,48.31,1,4.4
+DL-01079,2023-02-18,2023,2,Q1,North America,Services,Partner,Mid-Market,Rep_10,Closed Won,6126.76,2680.93,3445.83,56.24,1,3.7
+DL-01080,2023-06-11,2023,6,Q2,Middle East,Electronics,Partner,SMB,Rep_02,Closed Lost,20803.35,9381.69,11421.66,54.9,1,3.7
+DL-01081,2022-01-02,2022,1,Q1,Asia Pacific,Electronics,Direct,Enterprise,Rep_09,Closed Won,10490.18,4318.84,6171.34,58.83,1,1.9
+DL-01082,2023-11-05,2023,11,Q4,North America,Software,Partner,Enterprise,Rep_14,Closed Lost,23820.85,13448.95,10371.9,43.54,1,4.5
+DL-01083,2023-07-10,2023,7,Q3,Europe,Software,Direct,Startup,Rep_19,Closed Won,23312.19,17112.47,6199.72,26.59,1,3.3
+DL-01084,2023-04-19,2023,4,Q2,Latin America,Electronics,Reseller,Enterprise,Rep_10,On Hold,15940.13,7021.41,8918.72,55.95,1,3.5
+DL-01085,2023-02-28,2023,2,Q1,Middle East,Electronics,,Mid-Market,Rep_04,Closed Lost,34443.76,25185.02,9258.74,26.88,2,2.9
+DL-01086,2022-02-25,2022,2,Q1,Europe,Electronics,Partner,SMB,Rep_06,Closed Lost,13297.42,8732.1,4565.32,34.33,1,2.6
+DL-01087,2022-07-12,2022,7,Q3,Asia Pacific,Consulting,Direct,Enterprise,Rep_14,Closed Lost,55155.75,34368.9,20786.85,37.69,2,5.0
+DL-01088,2023-06-15,2023,6,Q2,North America,Software,Direct,Enterprise,Rep_04,On Hold,31781.18,19890.16,11891.02,37.42,1,4.4
+DL-01089,2023-01-06,2023,1,Q1,Middle East,Software,Direct,SMB,Rep_15,In Progress,50809.18,35025.55,15783.63,31.06,2,4.4
+DL-01090,2023-09-30,2023,9,Q3,North America,Electronics,Partner,Startup,Rep_16,Closed Lost,12664.87,5539.89,7124.98,56.26,1,3.6
+DL-01091,2023-05-26,2023,5,Q2,Middle East,Services,Direct,SMB,Rep_07,In Progress,14163.29,8167.46,5995.83,42.33,1,2.4
+DL-01092,2023-10-03,2023,10,Q4,Asia Pacific,Electronics,Partner,SMB,Rep_17,Closed Lost,14562.01,9377.67,5184.34,35.6,1,5.0
+DL-01093,2023-03-29,2023,3,Q1,Asia Pacific,Electronics,Reseller,Enterprise,Rep_19,Closed Lost,3364.75,2036.98,1327.77,39.46,1,4.1
+DL-01094,2022-02-22,2022,2,Q1,Europe,Software,Reseller,SMB,Rep_19,Closed Won,14497.18,10024.4,4472.78,30.85,1,3.9
+DL-01095,2022-07-28,2022,7,Q3,North America,Electronics,Online,SMB,Rep_17,Closed Lost,20070.25,8535.78,11534.47,57.47,1,3.5
+DL-01096,2022-10-01,2022,10,Q4,North America,Electronics,Direct,Mid-Market,Rep_06,Closed Won,19417.65,12461.19,6956.46,35.83,1,2.2
+DL-01097,2023-07-17,2023,7,Q3,North America,Electronics,Reseller,SMB,Rep_11,On Hold,7850.38,4607.46,3242.92,41.31,1,4.7
+DL-01098,2022-05-15,2022,5,Q2,North America,Electronics,Reseller,SMB,Rep_16,Closed Won,16747.25,8921.37,7825.88,46.73,1,3.0
+DL-01099,2022-10-22,2022,10,Q4,Asia Pacific,Electronics,Direct,Enterprise,Rep_08,On Hold,19291.8,10014.3,9277.5,48.09,1,4.2
+DL-01100,2023-03-25,2023,3,Q1,Europe,Software,Online,Startup,Rep_11,Closed Lost,24570.41,15167.1,9403.31,38.27,1,4.4
+DL-01101,2023-12-17,2023,12,Q4,North America,Hardware,Direct,Enterprise,Rep_07,Closed Lost,11517.31,8198.58,3318.73,28.82,1,4.1
+DL-01102,2023-05-12,2023,5,Q2,Middle East,Services,Online,Enterprise,Rep_19,Closed Lost,13448.44,7714.85,5733.59,42.63,1,4.2
+DL-01103,2022-05-05,2022,5,Q2,Latin America,Software,Reseller,Mid-Market,Rep_10,Closed Won,24564.54,16916.45,7648.09,31.13,1,4.9
+DL-01104,2022-01-30,2022,1,Q1,Middle East,Electronics,Direct,SMB,Rep_09,Closed Won,11618.95,6283.0,5335.95,45.92,1,3.2
+DL-01105,2023-10-08,2023,10,Q4,Middle East,Consulting,Reseller,SMB,Rep_04,Closed Won,50525.0,22020.72,28504.28,56.42,2,3.9
+DL-01106,2023-09-16,2023,9,Q3,North America,Software,Partner,SMB,Rep_15,Closed Lost,31514.79,13284.34,18230.45,57.85,1,3.6
+DL-01107,2022-09-03,2022,9,Q3,Europe,Electronics,Reseller,Mid-Market,Rep_13,Closed Won,7518.25,3142.38,4375.87,58.2,1,2.3
+DL-01108,2023-12-28,2023,12,Q4,Asia Pacific,Services,Partner,Enterprise,Rep_02,In Progress,11167.79,5953.02,5214.77,46.69,1,4.0
+DL-01109,2022-06-12,2022,6,Q2,Asia Pacific,Electronics,Online,Mid-Market,Rep_02,Closed Won,8436.25,4370.26,4065.99,48.2,1,4.8
+DL-01110,2022-11-15,2022,11,Q4,North America,Software,Direct,SMB,Rep_16,Closed Won,15434.29,10052.01,5382.28,34.87,1,4.9
+DL-01111,2023-07-19,2023,7,Q3,Latin America,Software,Direct,SMB,Rep_09,Closed Won,18045.94,11910.1,6135.84,34.0,1,5.0
+DL-01112,2022-01-15,2022,1,Q1,North America,Hardware,Direct,SMB,Rep_13,On Hold,8181.52,3418.23,4763.29,58.22,1,2.4
+DL-01113,2023-07-20,2023,7,Q3,North America,Software,Reseller,Enterprise,Rep_03,In Progress,30148.0,14392.45,15755.55,52.26,1,5.0
+DL-01114,2023-02-22,2023,2,Q1,Europe,Services,Online,Mid-Market,Rep_09,Closed Won,8150.78,4042.72,4108.06,50.4,1,3.9
+DL-01115,2022-04-06,2022,4,Q2,Europe,Consulting,Reseller,SMB,Rep_13,Closed Lost,24993.26,14787.62,10205.64,40.83,1,5.0
+DL-01116,2022-08-19,2022,8,Q3,Europe,Electronics,Reseller,Enterprise,Rep_02,Closed Won,11663.08,5255.15,6407.93,54.94,1,3.5
+DL-01117,2022-04-27,2022,4,Q2,North America,Electronics,Direct,SMB,Rep_08,On Hold,25325.38,11317.39,14007.99,55.31,2,3.4
+DL-01118,2023-04-18,2023,4,Q2,Latin America,Software,Direct,Startup,Rep_09,Closed Lost,6003.87,4384.78,1619.09,26.97,1,2.8
+DL-01119,2022-05-01,2022,5,Q2,North America,Software,Direct,SMB,Rep_16,Closed Won,21424.54,14600.2,6824.34,31.85,1,4.4
+DL-01120,2023-10-26,2023,10,Q4,North America,Software,Direct,Startup,Rep_02,Closed Lost,54128.9,25074.09,29054.81,53.68,2,4.2
+DL-01121,2022-06-07,2022,6,Q2,Latin America,Consulting,Direct,Enterprise,Rep_06,Closed Won,38854.05,21070.5,17783.55,45.77,1,2.9
+DL-01122,2023-05-26,2023,5,Q2,Middle East,Services,Partner,Enterprise,Rep_08,On Hold,18840.5,9881.23,8959.27,47.55,2,2.1
+DL-01123,2022-10-26,2022,10,Q4,Latin America,Services,Direct,Enterprise,Rep_05,Closed Won,3616.33,2447.72,1168.61,32.31,1,4.1
+DL-01124,2023-06-06,2023,6,Q2,Latin America,Software,Direct,SMB,Rep_09,Closed Lost,13433.49,7772.28,5661.21,42.14,1,4.2
+DL-01125,2023-12-24,2023,12,Q4,Asia Pacific,Hardware,Direct,Enterprise,Rep_01,Closed Won,10344.61,4600.74,5743.87,55.53,1,3.0
+DL-01126,2022-10-07,2022,10,Q4,Europe,Consulting,Direct,Enterprise,Rep_09,In Progress,65138.3,42903.16,22235.14,34.14,2,2.8
+DL-01127,2023-03-02,2023,3,Q1,North America,Hardware,Reseller,Startup,Rep_10,In Progress,4521.41,2436.64,2084.77,46.11,1,4.3
+DL-01128,2023-05-10,2023,5,Q2,Europe,Electronics,Online,Mid-Market,Rep_04,Closed Lost,12356.34,6079.61,6276.73,50.8,1,5.0
+DL-01129,2023-04-29,2023,4,Q2,Europe,Services,Reseller,Mid-Market,Rep_03,Closed Lost,12222.97,6495.59,5727.38,46.86,1,3.4
+DL-01130,2022-09-07,2022,9,Q3,North America,Electronics,Partner,Enterprise,Rep_10,In Progress,7255.8,4166.39,3089.41,42.58,1,3.1
+DL-01131,2023-04-13,2023,4,Q2,Asia Pacific,Electronics,Direct,Enterprise,Rep_15,Closed Won,19470.41,10126.37,9344.04,47.99,1,4.0
+DL-01132,2023-07-19,2023,7,Q3,Europe,Electronics,Online,Enterprise,Rep_11,Closed Won,3936.17,1907.73,2028.44,51.53,1,4.3
+DL-01133,2022-05-29,2022,5,Q2,North America,Services,Direct,Mid-Market,Rep_14,Closed Won,12790.53,6900.18,5890.35,46.05,1,3.5
+DL-01134,2023-01-28,2023,1,Q1,North America,Services,Direct,Startup,Rep_06,On Hold,6080.23,2472.89,3607.34,59.33,1,5.0
+DL-01135,2022-07-15,2022,7,Q3,Asia Pacific,Electronics,Direct,SMB,Rep_12,Closed Won,11992.14,8039.22,3952.92,32.96,1,4.5
+DL-01136,2023-09-06,2023,9,Q3,North America,Software,Direct,Enterprise,Rep_13,In Progress,34633.37,15925.49,18707.88,54.02,1,3.5
+DL-01137,2023-06-05,2023,6,Q2,Latin America,Software,Direct,SMB,Rep_17,Closed Lost,31265.08,12986.47,18278.61,58.46,1,2.5
+DL-01138,2022-05-20,2022,5,Q2,Europe,Software,Direct,Enterprise,Rep_16,Closed Won,24900.43,15657.25,9243.18,37.12,1,4.9
+DL-01139,2022-03-13,2022,3,Q1,Europe,Electronics,Online,SMB,Rep_03,Closed Won,24350.94,16336.5,8014.44,32.91,2,4.8
+DL-01140,2022-10-10,2022,10,Q4,Europe,Software,Direct,SMB,Rep_02,Closed Won,10684.43,7317.13,3367.3,31.52,1,3.6
+DL-01141,2023-03-01,2023,3,Q1,Latin America,Hardware,Direct,Mid-Market,Rep_11,Closed Won,8860.9,5074.89,3786.01,42.73,1,4.1
+DL-01142,2022-12-15,2022,12,Q4,North America,Electronics,Online,Enterprise,Rep_09,Closed Won,10104.34,4768.02,5336.32,52.81,1,3.7
+DL-01143,2023-06-04,2023,6,Q2,Asia Pacific,Electronics,Direct,Enterprise,Rep_03,Closed Won,23737.73,15620.13,8117.6,34.2,1,4.2
+DL-01144,2022-10-01,2022,10,Q4,Europe,Software,Direct,Startup,Rep_18,In Progress,35248.02,22731.43,12516.59,35.51,1,3.0
+DL-01145,2022-01-03,2022,1,Q1,North America,Consulting,Reseller,Enterprise,Rep_20,On Hold,43071.93,20941.35,22130.58,51.38,1,2.9
+DL-01146,2022-10-17,2022,10,Q4,Latin America,Services,Direct,Enterprise,Rep_15,Closed Won,22766.18,16304.97,6461.21,28.38,2,4.4
+DL-01147,2022-11-02,2022,11,Q4,Asia Pacific,Services,Direct,Enterprise,Rep_14,Closed Won,17562.38,7666.51,9895.87,56.35,2,4.6
+DL-01148,2023-08-25,2023,8,Q3,Asia Pacific,Software,Partner,Enterprise,Rep_02,Closed Won,23107.68,17190.75,5916.93,25.61,1,3.4
+DL-01149,2023-08-17,2023,8,Q3,Latin America,Services,Direct,SMB,Rep_17,Closed Lost,9993.66,7006.42,2987.24,29.89,1,3.2
+DL-01150,2023-11-07,2023,11,Q4,Latin America,Electronics,Partner,Mid-Market,Rep_08,In Progress,20257.38,12980.21,7277.17,35.92,1,4.7
+DL-01151,2023-05-17,2023,5,Q2,Asia Pacific,Services,Online,Enterprise,Rep_10,Closed Won,10704.59,7798.96,2905.63,27.14,1,3.2
+DL-01152,2022-06-02,2022,6,Q2,Latin America,Consulting,Direct,SMB,Rep_18,Closed Won,42682.29,27863.38,14818.91,34.72,1,3.8
+DL-01153,2023-04-03,2023,4,Q2,Asia Pacific,Services,Partner,Mid-Market,Rep_19,In Progress,3278.63,1530.01,1748.62,53.33,1,3.7
+DL-01154,2023-07-06,2023,7,Q3,Asia Pacific,Hardware,Partner,SMB,Rep_08,Closed Lost,20488.08,11365.86,9122.22,44.52,3,2.6
+DL-01155,2023-05-11,2023,5,Q2,Asia Pacific,Services,Direct,Mid-Market,Rep_08,Closed Won,10309.85,4381.95,5927.9,57.5,1,4.0
+DL-01156,2022-12-20,2022,12,Q4,Asia Pacific,Electronics,Partner,Mid-Market,Rep_03,Closed Lost,6664.65,3574.79,3089.86,46.36,1,3.9
+DL-01157,2022-12-07,2022,12,Q4,North America,Consulting,Direct,Enterprise,Rep_03,Closed Won,18997.37,12529.93,6467.44,34.04,1,4.1
+DL-01158,2023-07-20,2023,7,Q3,Latin America,Electronics,Partner,Mid-Market,Rep_12,Closed Won,5172.66,2768.69,2403.97,46.47,1,3.9
+DL-01159,2023-07-11,2023,7,Q3,Latin America,Software,Direct,SMB,Rep_17,In Progress,14494.34,7473.32,7021.02,48.44,1,5.0
+DL-01160,2023-01-22,2023,1,Q1,North America,Electronics,Partner,Startup,Rep_04,In Progress,13970.19,8499.11,5471.08,39.16,1,4.7
+DL-01161,2023-04-12,2023,4,Q2,Latin America,Electronics,Direct,SMB,Rep_17,Closed Won,31989.49,22561.28,9428.21,29.47,2,3.8
+DL-01162,2022-11-26,2022,11,Q4,North America,Software,Online,Startup,Rep_14,On Hold,30698.48,12790.65,17907.83,58.33,1,3.9
+DL-01163,2022-07-13,2022,7,Q3,North America,Electronics,Direct,Mid-Market,Rep_19,Closed Won,16852.19,9014.48,7837.71,46.51,1,5.0
+DL-01164,2023-12-16,2023,12,Q4,Asia Pacific,Software,Partner,Enterprise,Rep_09,In Progress,14172.78,6454.06,7718.72,54.46,1,4.5
+DL-01165,2022-09-02,2022,9,Q3,North America,Services,Partner,SMB,Rep_12,Closed Lost,6621.64,4260.19,2361.45,35.66,1,2.8
+DL-01166,2023-08-09,2023,8,Q3,Latin America,Electronics,Online,Startup,Rep_05,In Progress,10325.19,4512.15,5813.04,56.3,1,4.6
+DL-01167,2023-01-28,2023,1,Q1,Latin America,Electronics,Partner,Mid-Market,Rep_11,On Hold,10537.98,6667.2,3870.78,36.73,1,4.8
+DL-01168,2022-08-28,2022,8,Q3,Europe,Services,Online,Enterprise,Rep_20,Closed Won,8388.12,4195.43,4192.69,49.98,1,5.0
+DL-01169,2023-02-25,2023,2,Q1,North America,Software,Online,Mid-Market,Rep_03,On Hold,21777.35,10227.1,11550.25,53.04,1,3.5
+DL-01170,2022-02-14,2022,2,Q1,North America,Services,Reseller,Enterprise,Rep_15,In Progress,8440.54,6142.38,2298.16,27.23,1,3.4
+DL-01171,2022-11-22,2022,11,Q4,Asia Pacific,Services,Direct,Enterprise,Rep_14,In Progress,7148.65,2905.81,4242.84,59.35,1,3.0
+DL-01172,2023-04-30,2023,4,Q2,Middle East,Hardware,Partner,SMB,Rep_11,Closed Won,8558.87,4734.96,3823.91,44.68,1,4.0
+DL-01173,2023-12-24,2023,12,Q4,Asia Pacific,Services,Online,Enterprise,Rep_20,In Progress,8545.27,3482.79,5062.48,59.24,1,4.4
+DL-01174,2023-01-26,2023,1,Q1,North America,Software,Reseller,Mid-Market,Rep_08,In Progress,11258.15,6408.79,4849.36,43.07,1,3.4
+DL-01175,2023-01-31,2023,1,Q1,Asia Pacific,Services,Reseller,Enterprise,Rep_04,Closed Won,10173.4,5853.43,4319.97,42.46,1,3.7
+DL-01176,2023-11-11,2023,11,Q4,Europe,Electronics,Direct,Mid-Market,Rep_12,On Hold,14149.34,7252.7,6896.64,48.74,1,2.2
+DL-01177,2023-10-30,2023,10,Q4,Asia Pacific,Software,Direct,Enterprise,Rep_08,Closed Won,11348.23,5064.22,6284.01,55.37,1,5.0
+DL-01178,2022-06-05,2022,6,Q2,North America,Hardware,Partner,Enterprise,Rep_06,Closed Won,5952.38,3165.09,2787.29,46.83,1,2.5
+DL-01179,2023-05-23,2023,5,Q2,Asia Pacific,Software,Online,Enterprise,Rep_15,Closed Lost,33697.11,21407.51,12289.6,36.47,1,4.1
+DL-01180,2022-02-07,2022,2,Q1,Europe,Hardware,Partner,Enterprise,Rep_12,Closed Lost,4532.24,3054.0,1478.24,32.62,1,4.0
+DL-01181,2022-05-10,2022,5,Q2,Middle East,Hardware,Partner,Enterprise,Rep_16,Closed Lost,4298.87,2518.12,1780.75,41.42,1,3.8
+DL-01182,2023-05-30,2023,5,Q2,North America,Hardware,Online,Enterprise,Rep_16,Closed Won,6800.52,4124.12,2676.4,39.36,1,3.9
+DL-01183,2023-08-28,2023,8,Q3,Asia Pacific,Consulting,Direct,SMB,Rep_20,On Hold,40962.77,19261.34,21701.43,52.98,1,3.0
+DL-01184,2022-12-06,2022,12,Q4,Middle East,Software,Reseller,Enterprise,Rep_20,Closed Won,61808.42,30939.17,30869.25,49.94,3,3.5
+DL-01185,2022-04-13,2022,4,Q2,North America,Software,Partner,SMB,Rep_04,Closed Won,34755.7,15871.66,18884.04,54.33,1,4.6
+DL-01186,2023-03-27,2023,3,Q1,Middle East,Services,Direct,SMB,Rep_11,Closed Won,17201.54,8381.51,8820.03,51.27,2,4.8
+DL-01187,2022-04-13,2022,4,Q2,Asia Pacific,Software,Partner,Mid-Market,Rep_13,Closed Lost,29732.02,14233.03,15498.99,52.13,1,3.5
+DL-01188,2023-06-23,2023,6,Q2,North America,Services,Online,Startup,Rep_09,On Hold,7099.52,4130.55,2968.97,41.82,1,2.6
+DL-01189,2023-04-13,2023,4,Q2,North America,Services,Direct,SMB,Rep_04,Closed Lost,13852.15,8268.92,5583.23,40.31,1,3.2
+DL-01190,2022-01-16,2022,1,Q1,Asia Pacific,Services,Direct,Enterprise,Rep_12,In Progress,9580.99,7001.13,2579.86,26.93,1,5.0
+DL-01191,2022-05-28,2022,5,Q2,North America,Software,Reseller,Enterprise,Rep_09,Closed Won,30186.44,14140.83,16045.61,53.16,1,3.2
+DL-01192,2023-02-24,2023,2,Q1,Europe,Electronics,Direct,Startup,Rep_13,Closed Lost,9346.81,5837.89,3508.92,37.54,1,3.7
+DL-01193,2023-11-02,2023,11,Q4,North America,Software,Partner,Enterprise,Rep_16,Closed Lost,31566.57,21655.95,9910.62,31.4,1,4.9
+DL-01194,2022-06-08,2022,6,Q2,Asia Pacific,Electronics,Partner,Enterprise,Rep_06,Closed Lost,14122.88,8418.43,5704.45,40.39,1,3.4
+DL-01195,2022-03-18,2022,3,Q1,North America,Hardware,Partner,Enterprise,Rep_10,Closed Won,8980.63,4393.78,4586.85,51.07,1,3.7
+DL-01196,2023-04-26,2023,4,Q2,Latin America,Software,Partner,Enterprise,Rep_13,Closed Lost,23958.89,11785.2,12173.69,50.81,1,4.4
+DL-01197,2022-09-29,2022,9,Q3,Middle East,Electronics,Direct,Enterprise,Rep_07,Closed Lost,13058.62,5402.85,7655.77,58.63,1,5.0
+DL-01198,2022-12-13,2022,12,Q4,Middle East,Electronics,Partner,Mid-Market,Rep_19,In Progress,19113.51,9688.74,9424.77,49.31,1,3.3
+DL-01199,2023-10-01,2023,10,Q4,Asia Pacific,Services,Direct,Enterprise,Rep_19,Closed Lost,8162.41,5392.18,2770.23,33.94,1,4.9
+DL-01200,2023-12-11,2023,12,Q4,North America,Services,Online,SMB,Rep_17,Closed Won,4518.78,1882.66,2636.12,58.34,1,3.6
